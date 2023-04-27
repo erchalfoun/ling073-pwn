@@ -1,0 +1,8 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+srcdir=@datarootdir@/apertium/apertium-pwn
+
+Name: apertium-pwn
+Description: Finite-state morphological transducer and constraint grammar for Paiwan
+Version: @VERSION@
+
