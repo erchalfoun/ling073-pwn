@@ -45,8 +45,28 @@ Punctuation
 ###############################################################################
 
 ## Example stem lexicon:
-# LEXICON NounRoot
-# house:house   # A noun
+LEXICON NounRoot
+daygaku:daygaku         # university # or daigakku
+king:king               # county
+pulitik:pulitik         # politics
+semanvasizem:semanvasizem # fascism
+
+LEXICON ProperNounRoot(2)
+chionghoa:chionghoa     <top>:  # Changhua
+taiwan:taiwan           <top>:  # Taiwan
+Taitung:Taitung         <top>:  # Taitung
+tukiyu:tukiyu           <top>:  # Tokyo
+Dripun:Dripun           <top>:  # Japan
+kuriya:kuriya           <top>:  # Korea
+asiya:asiya             <top>:  # Asia
+djermeny:djermeny       <top>:  # Germany
+
+drinipunan:drinipunan   <al>:   # Japanese
+Amis:Amis               <al>:   # Amis/Pangcah
+
+Hideki:Hideki           <ant>:
+Yukawa:Yukawa           <ant>:
+
 
 
 PATTERN Number
