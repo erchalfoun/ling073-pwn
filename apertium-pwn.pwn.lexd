@@ -50,7 +50,9 @@ daygaku:daygaku         # university # or daigakku
 king:king               # county
 pulitik:pulitik         # politics
 semanvasizem:semanvasizem # fascism
-midiya:midiya           # Media
+midiya:midiya           # media
+mitru:mitru             # metro
+mitrubasu:mitrubasu     # metrobuses
 
 LEXICON ProperNounRoot(2)
 chionghoa:chionghoa     <top>:  # Changhua
@@ -70,15 +72,39 @@ ericiya:ericiya         <top>:  # Eritrea
 kenya:kenya             <top>:  # Kenya
 sudan:sudan             <top>:  # Sudan
 boliviya:boliviya       <top>:  # Bolivia
-ericiya:ericiya         <top>:  # Eritrea
 sumaliland:sumaliland   <top>:  # Somaliland
 sumaliya:sumaliya       <top>:  # Somalia
+Yurusalim:Yurusalim     <top>:  # Jerusalem
+Malaysia:Malaysia       <top>:  # Malaysia # or maljaysia?
+Autearua:Autearua       <top>:
+kalivunia:kalivunia     <top>:  # California
+Singapura:Singapura     <top>:  # Singapore
+Pilipinas:Pilipinas     <top>:  # Philipines
+Mintian:Mintian         <top>:
+Vietnam:Vietnam         <top>:  # Vietnam
+Indunisia:Indunisia     <top>:  # Indonesia
+amilika (Central America)
+iyurupu (Europe)
 
 drinipunan:drinipunan   <al>:   # Japanese
 Amis:Amis               <al>:   # Amis/Pangcah
+Maui:Maui               <al>:
+Paiwan:Paiwan           <al>:
 
 Hideki:Hideki           <ant>:
 Yukawa:Yukawa           <ant>:
+Malaki:Malaki           <ant>:  # Malachai?
+Yisu:Yisu               <ant>:  # Jesus?
+djiyudji:djiyudji       <ant>:  # George 
+’erl:’erl               <ant>:  # Earl
+raver:raver             <ant>:  # Rafer 
+djanseng:djanseng       <ant>:  # Johnson
+'eljeven:'eljeven       <ant>:  # Elvin 
+dreik:dreik             <ant>:  # Drake
+akedrik:akedrik         <ant>:  # Cedric
+madisen:madisen         <ant>:  # Madison
+karmen:karmen           <ant>:  # Carmen
+turutjilj:turutjilj     <ant>:  # Dorothy
 
 
 
