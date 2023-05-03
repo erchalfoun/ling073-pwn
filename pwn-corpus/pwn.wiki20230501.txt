@@ -1971,230 +1971,452 @@ yakiyu.
 kinatjengelayan a undu nua caucau i panama aicu a yakiyu.
 kinivangavangan.
 na patagiljanga a sihu nua panama a papirazek tua kinivangavangan ka pasusangas tua lima a cavilj.
-
 Pilipinas:
 Pilipinas （Tagalug：Republika ng Pilipinas）
-philipine mavan a namatevetevelj a tjuruvu a qinaljan a masan a pinuveqeveqan, pimaza i pasakacedas a navalj a asia. mavan auta i pasakaledep a taipinyan, a i viri mavan a ljusung(呂宋) a ljavek au namatideq kata taiwan, saka izua 99 km a cadja kemasi a kedri a qinaljan nua philipine patje itua kedri a qinaljan nua i taiwan. au a i navalj mavan a silibis(西里伯斯) a ljavek au namatideq kata indunisia, a i kaledep mavan a nan a ljavek(南海) au namatideq kata yeinan(越南), a i kacedas mavan a philipine a ljavek. aicu a kadjunangan imaza i taipinyan a laluniyan, mavan auta a kalevelevan semezan tu kemaledeledep. avan nu sika nakipaula ta liawliaw a luni kata raljiz ljemitacavilj. ljakua izua natemalidu a marekasacemel kata maretimaljimalji a racev. aza pinaljavakan nua i philipine izua pitju a kuzulj sa unem taiday sa sepatje a puluq a qinaljan, mavan ljaicu a ljusung a qinaljan(呂宋島),visayas a qinaljan(維薩亞斯群島) kata mindanau a qinaljan(民答那峨島) aicu a tjelu a tjaqacavan a qinaljan. 
-a kaimaza a mareka caucau izua siva kuzulj sa tjelu taiday a kudrav a caucau, au izuanan tu ita kuzulj sa itaiday a kudrav a caucau i gaikuku. avan sika ka 2015 a caviljan paselaw anga ita a laulavan a caucau, masan sikamumalj a pinuveqeveqan nua i pasakacedas a navalj a asia. 
-pimaza izua tjuruvu a zukuan kata bunka. aicu a negritu(尼格利陀) a caucau palemek tu katjaljasangasangasan a sikataqaljan imaza. au izua nandau(南島) zuku nakemacu ta malay(馬來) bunka patjavat tua mamaza. au izua nandau(南島) zuku nakemacu ta malay(馬來) bunka patjavat tua mamaza. ayatua aicu a kiukai kata siubay a mirazek, izuanga nasetevelj ta indu a bunka, ciuku a bunka kata iselam a bunka imaza i malje taqinaljan. 
+philipine mavan a namatevetevelj a tjuruvu a qinaljan a masan a pinuveqeveqan, pimaza i pasakacedas a navalj a asia. 
+mavan auta i pasakaledep a taipinyan, a i viri mavan a ljusung a ljavek au namatideq kata taiwan, saka izua 99 km a cadja kemasi a kedri a qinaljan nua philipine patje itua kedri a qinaljan nua i taiwan. 
+au a i navalj mavan a silibis a ljavek au namatideq kata indunisia, a i kaledep mavan a nan a ljavek au namatideq kata yeinan, a i kacedas mavan a philipine a ljavek. 
+aicu a kadjunangan imaza i taipinyan a laluniyan, mavan auta a kalevelevan semezan tu kemaledeledep. 
+avan nu sika nakipaula ta liawliaw a luni kata raljiz ljemitacavilj. 
+ljakua izua natemalidu a marekasacemel kata maretimaljimalji a racev. 
+aza pinaljavakan nua i philipine izua pitju a kuzulj sa unem taiday sa sepatje a puluq a qinaljan, mavan ljaicu a ljusung a qinaljan, visayas a qinaljan kata mindanau a qinaljan aicu a tjelu a tjaqacavan a qinaljan. 
+a kaimaza a mareka caucau izua siva kuzulj sa tjelu taiday a kudrav a caucau, au izuanan tu ita kuzulj sa itaiday a kudrav a caucau i gaikuku. 
+avan sika ka 2015 a caviljan paselaw anga ita a laulavan a caucau, masan sikamumalj a pinuveqeveqan nua i pasakacedas a navalj a asia. 
+pimaza izua tjuruvu a zukuan kata bunka. 
+aicu a negritu a caucau palemek tu katjaljasangasangasan a sikataqaljan imaza. 
+au izua nandau zuku nakemacu ta malay bunka patjavat tua mamaza. 
+ayatua aicu a kiukai kata siubay a mirazek, izuanga nasetevelj ta indu a bunka, ciuku a bunka kata iselam a bunka imaza i malje taqinaljan. 
 kadjunangan.
 kinaqadaqadavan.
-a kina’adavan nakilaing tua kinaizuanan, aicu a i pasaviri namasankaledepan a kina’adavan, a i pasanavalj namasanzulezulan saka salapelj a kina’adavan, a pipenuljatan tua kina’adavan tjaliav a zalangezang, salapelj. matatjelu a kalja’adavan, nu sikatjelu a ’iljasan a taljulima a ‘iljasan zemulezul saka metad a kina’adavan, nu sikaunem a ’iljasan taljutapulu’ katu ita a ’iljasan kalja’udjaljan, nu tapulu’ katu drusa a ’iljasan a talju pasuvililj a caviljan a sikadrusa a ’iljasan kaljavuceleljan. nu i tua sikalima a patjetapulu’ a ’iljasan venali a kaledepan saka pinakaHabagat aya, nu sikatapulu’ katu ita a patje pasuvililj a sikasepatj a ’iljasan, kemasiviri a vali pinakaAmihan aya. a piniapapamamavan i tua 21 a talju32 a culjuan. nu i tua sikasangasan a ’iljasan tjaljavuceleljan, nu i tua sikalima a ’iljasan tjaljazalangezangan i ta tacaviljan.
+a kina’adavan nakilaing tua kinaizuanan, aicu a i pasaviri namasankaledepan a kina’adavan, a i pasanavalj namasanzulezulan saka salapelj a kina’adavan, a pipenuljatan tua kina’adavan tjaliav a zalangezang, salapelj. 
+matatjelu a kalja’adavan, nu sikatjelu a ’iljasan a taljulima a ‘iljasan zemulezul saka metad a kina’adavan, nu sikaunem a ’iljasan taljutapulu’ katu ita a ’iljasan kalja’udjaljan, nu tapulu’ katu drusa a ’iljasan a talju pasuvililj a caviljan a sikadrusa a ’iljasan kaljavuceleljan. 
+nu i tua sikalima a patjetapulu’ a ’iljasan venali a kaledepan saka pinakaHabagat aya, nu sikatapulu’ katu ita a patje pasuvililj a sikasepatj a ’iljasan, kemasiviri a vali pinakaAmihan aya. 
+a piniapapamamavan i tua 21 a talju32 a culjuan. 
+nu i tua sikasangasan a ’iljasan tjaljavuceleljan, nu i tua sikalima a ’iljasan tjaljazalangezangan i ta tacaviljan.
 cinalivatan.
-ka 1521 a caviljan nadjemaljun i maza tia mayceljun a ruculjev a taciyuran, a pasuvililj ka1565 a patje1571 a caviljan azua a sesipanya patagilj kemaizua tua kadjunangan i viliping (菲律賓) a marekavuguvug, izua aza ti ljupice a rusavawvaung, napapungadan tua ngadan nua mazazangiljan niamadju a “vilipi” a vuguvug, saka izua a tjelu a iday a djinadjasan a pasacuay tuazua kadjunangan. ka 19 seci (世紀) a vililj, napa’ecev a seviliping tua sipanya, tua ’arimika a ma’a’eci katua ’amirika katua seviliping a ma’a’eci, sa masan’amirikanga a djemadjas tjayamadju. ka tjalju sikimusalj nua ma’a’eci’eci i kacauan, djinadjas uta nua seripung, ka tjalju 1946 anga a caviljan, kimadjuanga tiamadju lemingedjel tua kuni. azua a djinadjasan nua ’amirika tazua, azua a kai a ’inamirikan katua kakudakudanan nua ’amirika namarakac aravac a izua a marekacawcau. kimadjuanga tiamadju a patjetucu, kinpidaljanga tiamadju a secapilj tua mangua’an tua pakatapaysu sa mapatulu tiamadju saka naljiacadja a sipacunan, ljakua azua a sihu niamadju inika naseteregereger, ’awban tua mangua’an a kemasitua sikata’aljan, saka pazangal a mirazek a ta’alja’aljan. a tjaljaselapayan mavan a namangua’ katua namapulju a sipacacadjan. mada’ay a maljenguangua’anga a sialalap nua marekasikata’aljan, tjuruvuanga a cemikecikel a i gaykuku a kipusengsengsengan a cawcau, paravac azua a i makaviri a marekavuguvug katua i manilja namawmaljanga aravac a kinakemudan, ka pasusangas tua 金融風暴 pinaliguanga tiamadju tua kinisamuljan niamadju tua i maza i asiya (亞洲).
+ka 1521 a caviljan nadjemaljun i maza tia mayceljun a ruculjev a taciyuran, a pasuvililj ka1565 a patje1571 a caviljan azua a sesipanya patagilj kemaizua tua kadjunangan i viliping a marekavuguvug, izua aza ti ljupice a rusavawvaung, napapungadan tua ngadan nua mazazangiljan niamadju a “vilipi” a vuguvug, saka izua a tjelu a iday a djinadjasan a pasacuay tuazua kadjunangan. 
+ka 19 seci a vililj, napa’ecev a seviliping tua sipanya, tua ’arimika a ma’a’eci katua ’amirika katua seviliping a ma’a’eci, sa masan’amirikanga a djemadjas tjayamadju. 
+ka tjalju sikimusalj nua ma’a’eci’eci i kacauan, djinadjas uta nua seripung, ka tjalju 1946 anga a caviljan, kimadjuanga tiamadju lemingedjel tua kuni. 
+azua a djinadjasan nua ’amirika tazua, azua a kai a ’inamirikan katua kakudakudanan nua ’amirika namarakac aravac a izua a marekacawcau. 
+kimadjuanga tiamadju a patjetucu, kinpidaljanga tiamadju a secapilj tua mangua’an tua pakatapaysu sa mapatulu tiamadju saka naljiacadja a sipacunan, ljakua azua a sihu niamadju inika naseteregereger, ’awban tua mangua’an a kemasitua sikata’aljan, saka pazangal a mirazek a ta’alja’aljan. 
+a tjaljaselapayan mavan a namangua’ katua namapulju a sipacacadjan. 
+mada’ay a maljenguangua’anga a sialalap nua marekasikata’aljan, tjuruvuanga a cemikecikel a i gaykuku a kipusengsengsengan a cawcau, paravac azua a i makaviri a marekavuguvug katua i manilja namawmaljanga aravac a kinakemudan, ka pasusangas tua [] pinaliguanga tiamadju tua kinisamuljan niamadju tua i maza i asiya.
 kai.
-kemasi tua matja 120 a patje matja 175 izua mareka kinakaian a sinikiljavaran i pilipinas. a i tua kakaian a se malayu-pulinisiyan (Malayo-Polynesian) a tjaljaliaw aza kinakaian. ljakua izua uta a kinakaian nua ruman (Romance) matu kai a cavacanu (Chavacano) a kuriyu (Creole).
-izua drusa a kai nua sihu a pilipinas. aicu a kai a amilika katua kai a pilipinas. sa patje ka 2017 a caviljan, izua zumanga a matja 19 a kinakaian a sipacacikel nua sihu a pilipanas. kiniljavaran nua tjatjuruvu a caucau i pilipinas aicu a kai a pilipinas tua kai a amilika tucu.
-izua sinivecikan nua kai a pilipinas namaya tua sinivecikan a kulitan (Kulitan). ljakua inika vinecik nua tjaljatjuruvu a caucau i pilipinas tucu. sivecivecik nua tjaljatjuruvu a caucau i pilipinas aicu a sinivecikan a latin (Latin Script) ayatua pasusangas a cinalivatan niamadju tua pinaljavakan nua sihu a spain (Spain) katua sihu a amilika. izua sivecivecik a arabik (Arabic alphabet) nua caucau a semuselim (Muslim) a qinaljan.
-
+kemasi tua matja 120 a patje matja 175 izua mareka kinakaian a sinikiljavaran i pilipinas. 
+a i tua kakaian a se malayu-pulinisiyan a tjaljaliaw aza kinakaian. 
+ljakua izua uta a kinakaian nua ruman matu kai a cavacanu a kuriyu.
+izua drusa a kai nua sihu a pilipinas. aicu a kai a amilika katua kai a pilipinas. 
+sa patje ka 2017 a caviljan, izua zumanga a matja 19 a kinakaian a sipacacikel nua sihu a pilipanas. 
+kiniljavaran nua tjatjuruvu a caucau i pilipinas aicu a kai a pilipinas tua kai a amilika tucu.
+izua sinivecikan nua kai a pilipinas namaya tua sinivecikan a kulitan. 
+ljakua inika vinecik nua tjaljatjuruvu a caucau i pilipinas tucu. 
+sivecivecik nua tjaljatjuruvu a caucau i pilipinas aicu a sinivecikan a latin ayatua pasusangas a cinalivatan niamadju tua pinaljavakan nua sihu a spain katua sihu a amilika. 
+izua sivecivecik a arabik nua caucau a semuselim a qinaljan.
 Qadaw:
-aicu a Qadaw, pinapu ngadan tua i Navay uta. kemasi cuai a patje tucu, sinan cemas a paqaljai a qadaw, saka masalu a taqaljaqaljan tu qadaw a kinasizuan nua nanemanga i kacauan a naqemati tua ljinaungan nua i kalevelevan. namasan pazangal a Qadaw ta caucau. pukeljang: .
+aicu a Qadaw, pinapu ngadan tua i Navay uta. 
+kemasi cuai a patje tucu, sinan cemas a paqaljai a qadaw, saka masalu a taqaljaqaljan tu qadaw a kinasizuan nua nanemanga i kacauan a naqemati tua ljinaungan nua i kalevelevan. 
+namasan pazangal a Qadaw ta caucau. 
+pukeljang:
 milingan na qadaw.
-kacuacuayanga, iteketeku a qadaw, izuazua i vavaw ta qaljiyu sa inika i qacaqaca a matucu, saka semezam aravac a qadaw. qaw inika kipaqadilj a cawcau tua semezam a qadaw sa alapen ta lima a vaqu tua kemesakesa. nu kemesekese ta vaqu, izua a liulj, sa uri kiciur ta liulj a qadaw a patjevavavi tua kalevelevan. saka, nu vaikanga a qadaw sa qemauqaung tiamdju, sa azua a luseq nimadju avan a “luseq na qadaw”.  
-azua a “luseq na qadaw” avan a ngadan nua qataqata i kacalisiyan. izua a kisumalji a pacugan kata ngadan nua qataqata i kacalisiyan, ljawa masa inika mamau ta pacugan i qinaljan na paiwan, uri papungadan ta qataqata tiamadju sa inika mamau a pacugan taizua. “mulimulitan” kata “luseq na qadaw” mavan a tjaljapazangal a qata i paiwan, ljawa masanliawliaw a “mulimulitan”; qaw inika rupacun ta “luseq na qadaw”, sa aicu a qata mavan a uqaljayqaljay nua qata, neka a vavayanvayan nua qata.
-
+kacuacuayanga, iteketeku a qadaw, izuazua i vavaw ta qaljiyu sa inika i qacaqaca a matucu, saka semezam aravac a qadaw. 
+qaw inika kipaqadilj a cawcau tua semezam a qadaw sa alapen ta lima a vaqu tua kemesakesa. 
+nu kemesekese ta vaqu, izua a liulj, sa uri kiciur ta liulj a qadaw a patjevavavi tua kalevelevan. 
+saka, nu vaikanga a qadaw sa qemauqaung tiamdju, sa azua a luseq nimadju avan a “luseq na qadaw”.  
+azua a “luseq na qadaw” avan a ngadan nua qataqata i kacalisiyan. 
+izua a kisumalji a pacugan kata ngadan nua qataqata i kacalisiyan, ljawa masa inika mamau ta pacugan i qinaljan na paiwan, uri papungadan ta qataqata tiamadju sa inika mamau a pacugan taizua. 
+“mulimulitan” kata “luseq na qadaw” mavan a tjaljapazangal a qata i paiwan, ljawa masanliawliaw a “mulimulitan”; 
+qaw inika rupacun ta “luseq na qadaw”, sa aicu a qata mavan a uqaljayqaljay nua qata, neka a vavayanvayan nua qata.
 Qakaw king:
-akaw king (pinairangan：Pîn-tong-koān；nginaingayngan：Pinˇ dungˊ ian；minakadawan: Akauw；pinaywanan：Qakaw) avan angata ca king nua i taiwan. imaza i tjaljanavaljan a pasakaledep a navalj tua Taiwan, avan ca tjaljaladruqan pakata kinalangan nua kadjunangan a pasakaledep a king. a i viri nakidjekec tua takaw king, a i kacedas nakidjekec tua viri a kavulungan kata Taitu king, rusezaman a kinaizuanan. au pakata sengsengan sinan pazangal ta nugiu kata kiciqavan, ljakua tucuanga cavilj, izuanan pazangal zemurung ta riuku. pakata racev izua niubang, azuki, dinaung a qecilu, na bibi a tamagu sa djaungi, hungren(紅仁) bibi a qecilu, pangudrai, manges, mizaw, tjipus,sebanyu(石斑魚), sakula quzang, makaljavek a qecengecengel a ciqaw, keke kata tama nigi.
+Qakaw king (pinairangan: Pîn-tong-koān; nginaingayngan: Pin dung ian; minakadawan: Akauw；pinaywanan：Qakaw) avan angata ca king nua i taiwan. 
+imaza i tjaljanavaljan a pasakaledep a navalj tua Taiwan, avan ca tjaljaladruqan pakata kinalangan nua kadjunangan a pasakaledep a king. 
+a i viri nakidjekec tua takaw king, a i kacedas nakidjekec tua viri a kavulungan kata Taitu king, rusezaman a kinaizuanan. 
+au pakata sengsengan sinan pazangal ta nugiu kata kiciqavan, ljakua tucuanga cavilj, izuanan pazangal zemurung ta riuku. 
+pakata racev izua niubang, azuki, dinaung a qecilu, na bibi a tamagu sa djaungi, hungren bibi a qecilu, pangudrai, manges, mizaw, tjipus,sebanyu, sakula quzang, makaljavek a qecengecengel a ciqaw, keke kata tama nigi.
 cinalivatan.
-aza kadjunangan maitucu i akaw kata takaw hici, kasicuayan avan nu paiwan zuku kata pinpu makadaw zuku a kadjunangan niamadju. au aza paiwan zuku na imaza lemindjelj ta tjakuvukuvulj, makazayazaya kata timur ta qaca timitim nua minecengan (tjalja vulungan a pukindri). saka izua mapulju makadaw zuku, izuanan pairang kata haka mangetjez mamaza pitjaviljan maqati pagaugaw ta nemanga. au aicu sirasudjan i qinaljan masualap ka mata ripun a djiday. 
+aza kadjunangan maitucu i akaw kata takaw hici, kasicuayan avan nu paiwan zuku kata pinpu makadaw zuku a kadjunangan niamadju. 
+au aza paiwan zuku na imaza lemindjelj ta tjakuvukuvulj, makazayazaya kata timur ta qaca timitim nua minecengan (tjalja vulungan a pukindri). 
+saka izua mapulju makadaw zuku, izuanan pairang kata haka mangetjez mamaza pitjaviljan maqati pagaugaw ta nemanga. 
+au aicu sirasudjan i qinaljan masualap ka mata ripun a djiday. 
 i tua uranda djiday.
-lja paka sadjelung a uranda ta mincaw(明朝) sihu, avansika patjavat a sema taiwan a patagilj tua siubay a sengesengan, sa leminling tua caucau sauing mataiwan a paljilji ta minatu marekadu. ka 1625 a cavilj, zemuga ta siawliucyu itua zuga nakadjunangan, sa siqivuan tu “mattysen”. ka 1633 a cavilj, patagilj kemin ta tjuamalji a caucau kata kacalisian kemasi tainan, takaw kata akaw kinipusaladj a ljitaladj i siawliucyu, lja ika padjalim a kemasengseng, sa aza uranda sinantuban za pairang kau muliven a kacalisian a pakalakuka. djemaljum ta 1636 a cavilj, lja na izua kedri a lami a munday. sa ika namapacun tu meljenguaq, avan zua patagilj sakucen a kacalisian a pasa patawiya (tucu i ingni yacyata hici)(印尼雅加達), kapitjaivililj anga aza i siawliucyu sipa quma ta pairang na uranda. ljaki ika nanguaq a qinuman na pairang, nasa kipuvarung a kitjaula pusaladj a qemuma a izuangata a kacalisian imaza, ljakua kavililjanga sausauing a kitjuvaday tua kacalisian. avan tauta, aza akaw a kadjunangan mavan a makadaw a kakaizuanan, masan ta maretimalji a qinaljan, au kisatja tua uranda.
+lja paka sadjelung a uranda ta mincaw sihu, avansika patjavat a sema taiwan a patagilj tua siubay a sengesengan, sa leminling tua caucau sauing mataiwan a paljilji ta minatu marekadu. 
+ka 1625 a cavilj, zemuga ta siawliucyu itua zuga nakadjunangan, sa siqivuan tu “mattysen”. 
+ka 1633 a cavilj, patagilj kemin ta tjuamalji a caucau kata kacalisian kemasi tainan, takaw kata akaw kinipusaladj a ljitaladj i siawliucyu, lja ika padjalim a kemasengseng, sa aza uranda sinantuban za pairang kau muliven a kacalisian a pakalakuka. 
+djemaljum ta 1636 a cavilj, lja na izua kedri a lami a munday. 
+sa ika namapacun tu meljenguaq, avan zua patagilj sakucen a kacalisian a pasa patawiya (tucu i ingni yacyata hici), kapitjaivililj anga aza i siawliucyu sipa quma ta pairang na uranda. 
+ljaki ika nanguaq a qinuman na pairang, nasa kipuvarung a kitjaula pusaladj a qemuma a izuangata a kacalisian imaza, ljakua kavililjanga sausauing a kitjuvaday tua kacalisian. 
+avan tauta, aza akaw a kadjunangan mavan a makadaw a kakaizuanan, masan ta maretimalji a qinaljan, au kisatja tua uranda.
 minzen djiday.
-ka 1644 a cavilj, izuanga caucau i siawliucyu(小琉球) kemasi vudjan chunzu patjavat mamaza. pakata kinkiu a vecik, ka 1644 a cavilj, izua lja li(李) kemasi tjindjiang(晉江), ka 1688 a cavilj, izua lja cay(蔡) kemasi nanan(南安) kata lja wang(王) kemasi tjindjiang, ka 1671 a cavilj, izuanan lja lin(林) kemasi tjindjiang sezuljuzulju ljitaladj a qemuma i tucu liucyu guan.
-ka ti kamakama 鄭成功 djemadjas pasanavalj a taiwan sa kanri imaza, aza kadjunangan pakata akaw qinaljan mavan a sedjelj a wannyan(萬年) king, saka pavalitan ta sipavecik pa ti wannyanzu(萬年州) sa kanrivi. tazua linlingen aza sivitay a sema vuljavuljau a kadjunangan a qemuma, au cineviqe imaza tu alu a qinaljan kata na kacalisian a qinaljan, izua likang guan, pintung hici, wandan guan, sinyuan guan, linbien(林邊) guan, mata cecen(車城) guan kata vuljavuljau aicu imaza tucu akaw king. ti kamakama 鄭成功 saljinga djemadjas tua akaw a kadjunangan, sa malivu kata kacalisian imaza, ljakua ika djemalim kavililjanga. 
+ka 1644 a cavilj, izuanga caucau i siawliucyu kemasi vudjan chunzu patjavat mamaza. 
+pakata kinkiu a vecik, ka 1644 a cavilj, izua lja li kemasi tjindjiang, ka 1688 a cavilj, izua lja cay kemasi nanan kata lja wang kemasi tjindjiang, ka 1671 a cavilj, izuanan lja lin kemasi tjindjiang sezuljuzulju ljitaladj a qemuma i tucu liucyu guan.
+ka ti kamakama [] djemadjas pasanavalj a taiwan sa kanri imaza, aza kadjunangan pakata akaw qinaljan mavan a sedjelj a wannyan king, saka pavalitan ta sipavecik pa ti wannyanzu sa kanrivi. 
+tazua linlingen aza sivitay a sema vuljavuljau a kadjunangan a qemuma, au cineviqe imaza tu alu a qinaljan kata na kacalisian a qinaljan, izua likang guan, pintung hici, wandan guan, sinyuan guan, linbien guan, mata cecen guan kata vuljavuljau aicu imaza tucu akaw king. 
+ti kamakama [] saljinga djemadjas tua akaw a kadjunangan, sa malivu kata kacalisian imaza, ljakua ika djemalim kavililjanga. 
 cinting a djiday.
-ka citing a djiday, pavalitan qivu ta “vungsan guan”, matu tucu akaw a kadjunangan, lja izua qaca a kawpin(高屏) pana(tazua qivu ta siadansuy pana), ika naseljenguwaq a  djalan. au tja tjuruvu a caucau marekutj a vaik a makacedas a kadjunangan, saka izua mapulju a pairang imaza. ka 1697 a cavilj ti yuyunghe(郁永河) semamza, timadju vecik ta “aza sikataqaljan penuljat avan nu kacalisian i zulu, vungsan”. ljakua ka 1664 a cavilj ti 鄭經 uri kasengesengeng ta “屯田之制” aicu a kinsic, au matu ta cinting sihu (ti kamakama kangsi) kanri a vecekadan a cavilj, i pasakacedas a siadansuy pana (tazua izua kangdung kata kangsi aicu drusa li), tja tjuruvu a sikataqaljan kimaya sedjelj a haka zuku tiamadju kemasi kuangdungsen(廣東省) djainzu(嘉應州) (tucu i mizucy梅州市), au tjatjuruvu a caucau avan nu lja yang(楊), lja zang(張), lja zen(鄭) kata lja ku(古) aicu sepatj a marekasusu qemuma imaza. ka 1698 a cavilj, a na haka tjaisangas a mareka caucau kemasi dungkang pana, lilu(麟洛) pana kata wulu(武洛) pana kitjuvay tua matjatjelu a kadjunangan a qemuma, masan ta tucu a liuduy(六堆). ka 1721 a cavilj, tazua zuyikwi (朱一貴) marivu, aza haka zuku lemindjelj anga puluq sa tjelu a qaca zuang(大莊) kata unem puluq sa sepatj a kedri zuang(小莊).
-tjaljazua mapazulju a pairang i akaw, lemindjelj ta “下淡水巡檢分署” imaza(tucu i pasakacedas a kawpin pana), matu gimeng i vungsan guan, ljakua ika paqulid a sincency.
-mata 1721 a cavilj, ti 藍鼎元 kemasi zangzu, kata sivitai ti 藍廷珍 aza kaka nimadju, mangetjez i taiwan lja sipasemekez ta zuyikwi marivu, au lja 藍 kata tjuruvu a sivitay kidjaula imaza ika vaikanga cemikel, kicaing i alikang(tucu likang guan). katjasangas uri patagilj a qemuma, pakata pairang imaza, i pasaviri a pintung hici, sedjelj a patjavat a cucau kemasi zangzu, i pasanavalj a pintung hici, sedjelj a patjavat a caucau kemasi chunzu, au i pintung hici sedjelj a caucau kemasi chunzu kata zangzu. ka 1734 a cavilj, inia amin aza akaw a kadjunangan ljaqedi ta paiwan zuku a kakaizuanan, tjaliaw inalap na pairang a kadjunangan, sa matatevetevelj kata makadaw zuku a sikataqaljan i vungsan alu a qinaljan(鳳山八社). ka 1720 a cavilj izua “鳳山縣志” a vecik ta “kemasi pasanavalj a dansuy pana, ti pairang  matatevetevelj kata kacalisian, au paravac ti haka zuku”.
-ka 1764 a cavilj, aza pitung hici masan tja mirazek a cydje(市街), mata 1836 a cavilj, aza sivitay kata sikataqaljan maciuciu lemindjelj ta aku a djeljep, izua kacedas, kaledep, navalj kata viri aicu sepatj a paljing. sa maqacuvung a seman umaq pakata pintung cydje. au mayanga, lja izua “屯番制” kata “守隘政策” aicu drusa a kinsic a zemurung. aza makadaw zuku patagilj patjavat pasa tjiusiu a tjeljekaz, sa tjaljiazua masan ta pitjuvaikvaik niamadju ta kinaizuanan.  
-ka 1874 a cavilj, lja za i liucyu miyaku(宮古島) a caucau na maqaqeci ta kacalisian, sa aza ripun sihu siqivu ta sivitay a remaranga tua i taiwan, avan nu sinvaudijan a maqaqeci aicu a rikishi, ka cinting sihu kemeljang tu sanpazangaleng a zeman ta pakaljavek a sengsengan, linlingen aza tjavavaw a kamakama ti沈葆楨mavuljavuljau a lemindjelj ta kisazeman ta makaljavek, tjaivililj a cavilj, lemindjelj ta tjalja navaljan a vuljavuljau guan, au sini varung ta vuljavuljau i pasanavalj a suaymang(率芒) pana, tazua djiday piniliqe a akaw matja drusa a kadjunangan, i pasaviri a suaymang pana avan nu vungsan guan, i pasanavalj a suaymang pana avan nu hencun(恆春) guan, au qivu ta taiwanvu(台灣府)(ka lemindjelj ta taiwansen anga imaza pavalitan qivu ta tainanvu). 
+ka citing a djiday, pavalitan qivu ta “vungsan guan”, matu tucu akaw a kadjunangan, lja izua qaca a kawpin pana(tazua qivu ta siadansuy pana), ika naseljenguwaq a  djalan. 
+au tja tjuruvu a caucau marekutj a vaik a makacedas a kadjunangan, saka izua mapulju a pairang imaza. 
+ka 1697 a cavilj ti yuyunghe semamza, timadju vecik ta “aza sikataqaljan penuljat avan nu kacalisian i zulu, vungsan”. 
+ljakua ka 1664 a cavilj ti [] uri kasengesengeng ta “[]” aicu a kinsic, au matu ta cinting sihu (ti kamakama kangsi) kanri a vecekadan a cavilj, i pasakacedas a siadansuy pana (tazua izua kangdung kata kangsi aicu drusa li), tja tjuruvu a sikataqaljan kimaya sedjelj a haka zuku tiamadju kemasi kuangdungsen djainzu (tucu i mizucy[]), au tjatjuruvu a caucau avan nu lja yang, lja zang, lja zen kata lja ku aicu sepatj a marekasusu qemuma imaza. 
+ka 1698 a cavilj, a na haka tjaisangas a mareka caucau kemasi dungkang pana, lilu pana kata wulu pana kitjuvay tua matjatjelu a kadjunangan a qemuma, masan ta tucu a liuduy. 
+ka 1721 a cavilj, tazua zuyikwi marivu, aza haka zuku lemindjelj anga puluq sa tjelu a qaca zuang kata unem puluq sa sepatj a kedri zuang.
+tjaljazua mapazulju a pairang i akaw, lemindjelj ta “[]” imaza(tucu i pasakacedas a kawpin pana), matu gimeng i vungsan guan, ljakua ika paqulid a sincency.
+mata 1721 a cavilj, ti [] kemasi zangzu, kata sivitai ti [] aza kaka nimadju, mangetjez i taiwan lja sipasemekez ta zuyikwi marivu, au lja [] kata tjuruvu a sivitay kidjaula imaza ika vaikanga cemikel, kicaing i alikang(tucu likang guan). 
+katjasangas uri patagilj a qemuma, pakata pairang imaza, i pasaviri a pintung hici, sedjelj a patjavat a cucau kemasi zangzu, i pasanavalj a pintung hici, sedjelj a patjavat a caucau kemasi chunzu, au i pintung hici sedjelj a caucau kemasi chunzu kata zangzu. 
+ka 1734 a cavilj, inia amin aza akaw a kadjunangan ljaqedi ta paiwan zuku a kakaizuanan, tjaliaw inalap na pairang a kadjunangan, sa matatevetevelj kata makadaw zuku a sikataqaljan i vungsan alu a qinaljan. 
+ka 1720 a cavilj izua “[]” a vecik ta “kemasi pasanavalj a dansuy pana, ti pairang  matatevetevelj kata kacalisian, au paravac ti haka zuku”.
+ka 1764 a cavilj, aza pitung hici masan tja mirazek a cydje, mata 1836 a cavilj, aza sivitay kata sikataqaljan maciuciu lemindjelj ta aku a djeljep, izua kacedas, kaledep, navalj kata viri aicu sepatj a paljing. 
+sa maqacuvung a seman umaq pakata pintung cydje. 
+au mayanga, lja izua “[]” kata “[]” aicu drusa a kinsic a zemurung. 
+aza makadaw zuku patagilj patjavat pasa tjiusiu a tjeljekaz, sa tjaljiazua masan ta pitjuvaikvaik niamadju ta kinaizuanan.  
+ka 1874 a cavilj, lja za i liucyu miyaku a caucau na maqaqeci ta kacalisian, sa aza ripun sihu siqivu ta sivitay a remaranga tua i taiwan, avan nu sinvaudijan a maqaqeci aicu a rikishi, ka cinting sihu kemeljang tu sanpazangaleng a zeman ta pakaljavek a sengsengan, linlingen aza tjavavaw a kamakama ti[]mavuljavuljau a lemindjelj ta kisazeman ta makaljavek, tjaivililj a cavilj, lemindjelj ta tjalja navaljan a vuljavuljau guan, au sini varung ta vuljavuljau i pasanavalj a suaymang pana, tazua djiday piniliqe a akaw matja drusa a kadjunangan, i pasaviri a suaymang pana avan nu vungsan guan, i pasanavalj a suaymang pana avan nu hencun guan, au qivu ta taiwanvu (ka lemindjelj ta taiwansen anga imaza pavalitan qivu ta tainanvu).
 au aza vuljavuljau kadjunangan nua i pasanavalj a akaw, ka 1875 a cavilj kemasi vungsan a kitjuwaya a kanri au lemindjelj ta guan.
 ripun a djiday.
-tucu pintung hici avan nu tjalja qacavan a hici i akaw, sicuayan a ngadan “阿猴”(zaing: akaw), au katjaisangas a ripun a djiday pavalitan ta “阿緱(zaing:aku)”, kasicuayan na pinpu zuku angata kakaizuanan. lja aicu a kadjunangan imaza i pasakacedas a banpin(半屏) gadu a takaw. avansika ripun a djiday, aza ripun pavalitan “阿緱(zaing:aku)” tua “pintung” aya ngadan.
-ka ripun sihu djemadjas taiwan, aza tainanvu(台南府) pavalitan ta tainan king, au izua sicuayan a vuljavuljau kata vungsan aicu a drusa king sipavecik patainanvu sa kanrivi, sa masan ta cyting(支廳) sipavecik patainan king sa kanrivi. ka 1896 a cavilj, aicu  drusa cyting piqen sa kisuvek masan ta vungsan guan, sa sualapen cyting, lemindjelj kakudan a gimeng. imaza i alikang(阿里港)(kata takaw minung), akaw, wandan, neypu, dungpu, vangliaw, vuljavuljau. ka 1898 a cavilj, sa sualapen vungsan guan, au aicu a kakudan a gimeng qepuing ta sepatj a kakudan a gimeng i akaw(kata takaw minung), tjiusiu, dungkang kata vuljavuljau, sipavecik patainan king sa kanrivi. ka 1900 a cavilj, tucu takaw minung kemasi akaw a kakudan a gimeng pavalitan sipavecik pa vansuljaw(蕃薯寮) a kakudan a gimeng. sualapen cawzu a kakudan a gimeng, saka amin akaw kata dungkang a kakudan a gimeng. ka 1901 a cavilj gugac, vuljavuljau a kakudan a gimeng piqen sa kisuvek masan vuljavuljau ting(廳), au lemindjelj vuljavuljau, vangsan(枋山) kata wensay(蚊蟀) aicu tjelu a cucansu(出張所). au mamaw a cavilj ziuicigac, aza akaw kata dungkang aicu drusa kakudan a gimeng qepuing masan ta akaw ting. sa lemindjelj alikang, neypu, wandan, dungkang, cawzuzuang kata vangliaw cyting. au sualapen neypu kata wandan cyting. mayanga aza tjelu a cucansu i vuljavuljau ting pavalitan ta cyting (vuljavuljau cucansu sipavecik pavuljavuljau ting sa kanrivi, inika lemindjelj ta cyting). ka 1903 a cavilj, akawting pavalitan ta akuting. ka 1909 a cavilj, aicu akuting qepuing kata vuljavuljau ting, vansuljaw ting, au izua tapuluq cyting.
-ka 1920 a cavilj, akuting kata tainanting a akungdin(阿公店), vungsan, takaw, nanzeken(楠仔坑) aicu sepatj a cyting qepuing masan ta takawzu(高雄州), lemindjelj akaw, tjiusiu, dungkang kata vuljavuljau aicu sepatj a djin(郡) i tucu akaw a kadjunangan(katjaisangas kata takaw ljukuy, tawyuan, mawlin, katjaivililj pakilingdjelem tua cysandjin), ka 1933 a cavilj, ini amin aicu sepatj a djin, aza pintungdje(屏東街) sipavecik pa pintung djin sa kanrivi, saka pavalitan ta pintung hici.     
+tucu pintung hici avan nu tjalja qacavan a hici i akaw, sicuayan a ngadan “[]”(zaing: akaw), au katjaisangas a ripun a djiday pavalitan ta “[](zaing:aku)”, kasicuayan na pinpu zuku angata kakaizuanan. 
+lja aicu a kadjunangan imaza i pasakacedas a banpin gadu a takaw. 
+avansika ripun a djiday, aza ripun pavalitan “[](zaing:aku)” tua “pintung” aya ngadan.
+ka ripun sihu djemadjas taiwan, aza tainanvu pavalitan ta tainan king, au izua sicuayan a vuljavuljau kata vungsan aicu a drusa king sipavecik patainanvu sa kanrivi, sa masan ta cyting sipavecik patainan king sa kanrivi. 
+ka 1896 a cavilj, aicu  drusa cyting piqen sa kisuvek masan ta vungsan guan, sa sualapen cyting, lemindjelj kakudan a gimeng. 
+imaza i alikang(kata takaw minung), akaw, wandan, neypu, dungpu, vangliaw, vuljavuljau. 
+ka 1898 a cavilj, sa sualapen vungsan guan, au aicu a kakudan a gimeng qepuing ta sepatj a kakudan a gimeng i akaw(kata takaw minung), tjiusiu, dungkang kata vuljavuljau, sipavecik patainan king sa kanrivi. 
+ka 1900 a cavilj, tucu takaw minung kemasi akaw a kakudan a gimeng pavalitan sipavecik pa vansuljaw a kakudan a gimeng. 
+sualapen cawzu a kakudan a gimeng, saka amin akaw kata dungkang a kakudan a gimeng. 
+ka 1901 a cavilj gugac, vuljavuljau a kakudan a gimeng piqen sa kisuvek masan vuljavuljau ting, au lemindjelj vuljavuljau, vangsan kata wensay aicu tjelu a cucansu. 
+au mamaw a cavilj ziuicigac, aza akaw kata dungkang aicu drusa kakudan a gimeng qepuing masan ta akaw ting. 
+sa lemindjelj alikang, neypu, wandan, dungkang, cawzuzuang kata vangliaw cyting. 
+au sualapen neypu kata wandan cyting. 
+mayanga aza tjelu a cucansu i vuljavuljau ting pavalitan ta cyting (vuljavuljau cucansu sipavecik pavuljavuljau ting sa kanrivi, inika lemindjelj ta cyting). 
+ka 1903 a cavilj, akawting pavalitan ta akuting. 
+ka 1909 a cavilj, aicu akuting qepuing kata vuljavuljau ting, vansuljaw ting, au izua tapuluq cyting.
+ka 1920 a cavilj, akuting kata tainanting a akungdin, vungsan, takaw, nanzeken aicu sepatj a cyting qepuing masan ta takawzu, lemindjelj akaw, tjiusiu, dungkang kata vuljavuljau aicu sepatj a djin i tucu akaw a kadjunangan(katjaisangas kata takaw ljukuy, tawyuan, mawlin, katjaivililj pakilingdjelem tua cysandjin), ka 1933 a cavilj, ini amin aicu sepatj a djin, aza pintungdje sipavecik pa pintung djin sa kanrivi, saka pavalitan ta pintung hici.     
 minku sihu a djiday.
-ka 1945 a cavilj, tjuka minku sihu djemadjas i taihuku. aza sepatj djin(郡) pavalitan ta cy(區) sedjelj a i takaw king. au aza pintung hici pavalitan ta sensiasi(省轄市), ka 1946 a cavilj, aza wandan(萬丹), cangsin(長興) kata djukuai(九塊) guan sipavecik papintung hici sa kanrivi. ka 1949 a cavilj sangac, aza takaw na kacalisian a guan piqen sa kisuvek, lemindjelj ta kawvung(高峰) kata siungvung(雄峰), sa pa aicu drusa guan sa kanrivi. ka 1950 a cavilj, aza tjaisangas ta tjelu guan i pintung hici, tjelu guan i takaw pintungcy, ita cen kata unem guan i cawzucy(潮州區), ita cen kata sepatj guan i dungkangcy, ita cen kata drusa guan i vuljavuljau, izuanan aza vuday, makazayazaya kata timur i siungvungcy, lima guan i kawvungcy, qepuing au lemindjelj ta pintungking (akaw king), sa sualapen siansiaci(縣轄區), saka izua tjelu puluq a guan. ka 1951 a cavilj, tjaisangas pintung hici sedjelj a sen sa kanri au ljateku ta sedjelj a akaw king sa kanri, masan ta pintung king siansiasi(縣轄市), au aza linbien guan piliqen sa lemindjelj tua zuma a nanzu(南州) guan. ka 1955 a cavilj, cangze(長治) guan piliqen sa lemindjelj tua zuma a linlu(麟洛) guan.
+ka 1945 a cavilj, tjuka minku sihu djemadjas i taihuku. 
+aza sepatj djin pavalitan ta cy sedjelj a i takaw king. 
+au aza pintung hici pavalitan ta sensiasi, ka 1946 a cavilj, aza wandan, cangsin kata djukuai
+ guan sipavecik papintung hici sa kanrivi. 
+ ka 1949 a cavilj sangac, aza takaw na kacalisian a guan piqen sa kisuvek, lemindjelj ta kawvung kata siungvung, sa pa aicu drusa guan sa kanrivi. 
+ ka 1950 a cavilj, aza tjaisangas ta tjelu guan i pintung hici, tjelu guan i takaw pintungcy, ita cen kata unem guan i cawzucy, ita cen kata sepatj guan i dungkangcy, ita cen kata drusa guan i vuljavuljau, izuanan aza vuday, makazayazaya kata timur i siungvungcy, lima guan i kawvungcy, qepuing au lemindjelj ta pintungking (akaw king), sa sualapen siansiaci, saka izua tjelu puluq a guan. 
+ ka 1951 a cavilj, tjaisangas pintung hici sedjelj a sen sa kanri au ljateku ta sedjelj a akaw king sa kanri, masan ta pintung king siansiasi, au aza linbien guan piliqen sa lemindjelj tua zuma a nanzu guan. 
+ ka 1955 a cavilj, cangze guan piliqen sa lemindjelj tua zuma a linlu guan.
 kadjunangan.
-izua tu 2775.6003km² a pulingetjan nua kadjunangan. aza i tjaljakacedas mavan a gadugadu i wutay(霧台) guan, aza a i tjaikaledep mavan a liucyuyi(琉球嶼) a kaledep, au a i tjainavalj mavan anga i vuljavuljau cisinyen(七星岩) a navalj, a i viri avan zua i kawsu guan djuljaw(舊寮) a viri. a i kacedas mavan anga a ljaviljaving a gadugaduan i vecekadan tua taiwan kata valangaw, a i tjaikacedas mavan a taipingyan (ljavek a viliping), a i tjaikaledep mavan a taiwan ljavek(ljavek a navalj), aicu drusa a ljavek sinan tineveljan a kadjunangan pakata eluanbi(鵝鑾鼻) a navalj, a i tjainavalj mavan a base(巴士) ljavek, i viri nakidjekec tua kawpin(高屏) pana a tjayquvulj kata takaw.
-aza pasakaledep a kadjunangan i akaw mavan a kazatjan aza akaw lizulizuk aya, mirazek ta nugiu kata ciqaw a sengsengan, aza caucau qepuing ta imaza. aza pasakacedas a lizuk a kadjunangan avan nu tjaqacavan a gadugadu kata gadu, sedjelj navalj a gadugaduan i vecekadan tua taiwan. au aza viri a kavulungan paselaw a ljavavavan nua gadu kimaya itua tjelu kuzulj a maru tadjekuacan, mavan a navalj a gadugaduan i vecekadan tua taiwan. au avan za tjaljavavavan a kadjunangan i king. nasepaiwan zuku a kagaduan tauta. tjaljiazua ljateku pasanavalj, au mata i vuljavuljau a kadjunangan.
+izua tu 2775.6003km² a pulingetjan nua kadjunangan. 
+aza i tjaljakacedas mavan a gadugadu i wutay guan, aza a i tjaikaledep mavan a liucyuyi a kaledep, au a i tjainavalj mavan anga i vuljavuljau cisinyen a navalj, a i viri avan zua i kawsu guan djuljaw a viri. 
+a i kacedas mavan anga a ljaviljaving a gadugaduan i vecekadan tua taiwan kata valangaw, a i tjaikacedas mavan a taipingyan (ljavek a viliping), a i tjaikaledep mavan a taiwan ljavek(ljavek a navalj), aicu drusa a ljavek sinan tineveljan a kadjunangan pakata eluanbi a navalj, a i tjainavalj mavan a base ljavek, i viri nakidjekec tua kawpin pana a tjayquvulj kata takaw.
+aza pasakaledep a kadjunangan i akaw mavan a kazatjan aza akaw lizulizuk aya, mirazek ta nugiu kata ciqaw a sengsengan, aza caucau qepuing ta imaza. 
+aza pasakacedas a lizuk a kadjunangan avan nu tjaqacavan a gadugadu kata gadu, sedjelj navalj a gadugaduan i vecekadan tua taiwan. 
+au aza viri a kavulungan paselaw a ljavavavan nua gadu kimaya itua tjelu kuzulj a maru tadjekuacan, mavan a navalj a gadugaduan i vecekadan tua taiwan. 
+au avan za tjaljavavavan a kadjunangan i king. 
+nasepaiwan zuku a kagaduan tauta. 
+tjaljiazua ljateku pasanavalj, au mata i vuljavuljau a kadjunangan.
 kalevelevan.
-aza penuljat a kadjunangan imaza i pasanavalj a peihuikuisiyen. ini amin a gadugadu, aza kadjunangan tjara sedjelj ta a kalevelevan semezan tu kemaledeledev. ika qaca maretimaljimalji a sezaman. kemasi sangac mata ziuicigac mavan a semezam, kemasi ziunigac mata tjaivililj a cavilj a sangac mavan a semeljec. 
-matjeveng kata liaw a qudjalj i kaljazalangzangan, sumalji aza i ljaqedi ta kulaljuc guan a sivalian, izua tjaliavan a qudjalj i kaljazalangzangan i taiwan, masanmusalj avan ca i pasakaledep a vuljavuljau a kadjunangan. 30-33℃ a tjaljaqacavan a sezaman, 24-26℃ a tjaljakedrian a sezaman, tjametad i kaljavuceleljan, 24-27℃ a tjaljaqacavan a sezaman, 16-19℃ a tjaljakedrian a sezaman. ika makuda aravac a kinaizuanan, ljateku tjaliaw tu 3-4℃ a ljemita qadaw papamaw a sezaman, nu maqadaw masa ljavavaw 28-30℃ a sezaman.
-aza vuljavuljau a kadjunangan lja izua ljavek a vali pasamaza, ini qaca ta sezaman nu i kaljazalangzangan maqadaw, au ini teku ta sezaman nu i kaljavuceleljan aicu pinakisumalji “sepatj a sikapavalitan matu kaljevuvuan” a kalevelevan. nu i kaljazalangzangan maqadaw tu tjateku 2-3℃ pakata akaw zuma a kadjunangan. nu i kaljavuceleljan salilim tjavavaw ta 2-3℃ pakata akaw zuma a kadjunangan. nu izua tjaljaljeqel a kalevelevan pasanavalj, izua tjavavavan tu 5℃ a sezaman kata pasaviri a vangljaw.
+aza penuljat a kadjunangan imaza i pasanavalj a peihuikuisiyen. 
+ini amin a gadugadu, aza kadjunangan tjara sedjelj ta a kalevelevan semezan tu kemaledeledev. 
+ika qaca maretimaljimalji a sezaman. 
+kemasi sangac mata ziuicigac mavan a semezam, kemasi ziunigac mata tjaivililj a cavilj a sangac mavan a semeljec. 
+matjeveng kata liaw a qudjalj i kaljazalangzangan, sumalji aza i ljaqedi ta kulaljuc guan a sivalian, izua tjaliavan a qudjalj i kaljazalangzangan i taiwan, masanmusalj avan ca i pasakaledep a vuljavuljau a kadjunangan. 
+30-33℃ a tjaljaqacavan a sezaman, 24-26℃ a tjaljakedrian a sezaman, tjametad i kaljavuceleljan, 24-27℃ a tjaljaqacavan a sezaman, 16-19℃ a tjaljakedrian a sezaman. 
+ika makuda aravac a kinaizuanan, ljateku tjaliaw tu 3-4℃ a ljemita qadaw papamaw a sezaman, nu maqadaw masa ljavavaw 28-30℃ a sezaman.
+aza vuljavuljau a kadjunangan lja izua ljavek a vali pasamaza, ini qaca ta sezaman nu i kaljazalangzangan maqadaw, au ini teku ta sezaman nu i kaljavuceleljan aicu pinakisumalji “sepatj a sikapavalitan matu kaljevuvuan” a kalevelevan. 
+nu i kaljazalangzangan maqadaw tu tjateku 2-3℃ pakata akaw zuma a kadjunangan. 
+nu i kaljavuceleljan salilim tjavavaw ta 2-3℃ pakata akaw zuma a kadjunangan. 
+nu izua tjaljaljeqel a kalevelevan pasanavalj, izua tjavavavan tu 5℃ a sezaman kata pasaviri a vangljaw.
 zukuan.
-ka 1926 a cavilj aza ziriu pakata semupu ta caucau a penuljat, izua 148,500 a caucau nasevudjan, 63,700 a caucau nasekuangdung. (ka cinting a djiday kata min a djiday pakata kinapangaljan a paljavak izua vudjansen kata kuangdungsen). imaza tjatjuruvuan a pairang, sedjelj a pairang, saka izua tauta 23% a ngaingai zuku, au kimaya izua 8.4% pakata ciyukuk zuku. aza pairang izua kemasi chunzu(泉州), zangzu(漳州), izuanan ta nasetaiwan a tjiusiu caucau. izua hulawke(福佬客) i vuljavuljau a kadjunangan kata gawsu(高樹) guan. aza caucau kemasi kuangdung patjemaza, sedjelj a caucau i djainzu(嘉應), izua tu 90% pakata penuljat a haka zuku imaza. au izua caucau kemasi huyzu(惠州) kata tjiusiu patje i tawyuan(桃園), sinzu(新竹) kata miawli(苗栗). 
-aza kacalisian kimaya izua 7.4% pakata penuljat a caucau i akaw, sedjelj paiwan zuku kata drekai zuku. mata 2020 a cavilj pitju qiljas, paiwan zuku kimaya izua 6.03% au drekai zuku kimaya izua 0.75%, avan angata tjatjuruvuan masansitjelulj a kacalisian pakata king i taiwan. tja kedri ta i valangaw katua kalingu. au pakata pinpu zuku imaza, sedjelj a makadaw zuku, mata 2017 a cavilj kugac 25 a qadaw, kipavecik ta 1803 a caucau, au izua 205 mareka caucau avan ta zuma pinpu zuku, kimaya izua 0.24% pakata penuljat a caucau nua king. masa tjuruvuan ta kudraw a caucau pakata makadaw zuku.   
+ka 1926 a cavilj aza ziriu pakata semupu ta caucau a penuljat, izua 148,500 a caucau nasevudjan, 63,700 a caucau nasekuangdung. 
+(ka cinting a djiday kata min a djiday pakata kinapangaljan a paljavak izua vudjansen kata kuangdungsen). 
+imaza tjatjuruvuan a pairang, sedjelj a pairang, saka izua tauta 23% a ngaingai zuku, au kimaya izua 8.4% pakata ciyukuk zuku. 
+aza pairang izua kemasi chunzu, zangzu, izuanan ta nasetaiwan a tjiusiu caucau. 
+izua hulawke i vuljavuljau a kadjunangan kata gawsu guan. 
+aza caucau kemasi kuangdung patjemaza, sedjelj a caucau i djainzu, izua tu 90% pakata penuljat a haka zuku imaza. 
+au izua caucau kemasi huyzu kata tjiusiu patje i tawyuan, sinzu kata miawli. 
+aza kacalisian kimaya izua 7.4% pakata penuljat a caucau i akaw, sedjelj paiwan zuku kata drekai zuku. 
+mata 2020 a cavilj pitju qiljas, paiwan zuku kimaya izua 6.03% au drekai zuku kimaya izua 0.75%, avan angata tjatjuruvuan masansitjelulj a kacalisian pakata king i taiwan. 
+tja kedri ta i valangaw katua kalingu. 
+au pakata pinpu zuku imaza, sedjelj a makadaw zuku, mata 2017 a cavilj kugac 25 a qadaw, kipavecik ta 1803 a caucau, au izua 205 mareka caucau avan ta zuma pinpu zuku, kimaya izua 0.24% pakata penuljat a caucau nua king. 
+masa tjuruvuan ta kudraw a caucau pakata makadaw zuku.   
 kai.
-pakata kiniljvaran a kai i akaw, aza kai a pinaiwanan paqaqarut i timur, makazayazaya, neypu(內埔), kulaljuc, rai, kasugagu, sisigu, sinvaudjan kata vangecul, au aza kai a rinekaian paqaqarut i vuday, aza nginaingayngan paqaqarut i kawsu(高樹), cangze(長治), linlu(麟洛), zutien(竹田), wanluan(萬巒), sinpi(新埤) kata tjadung(佳冬). au aza pinairangan sinan pazangal i zuma a qinaljan kata pintung hici.  
+pakata kiniljvaran a kai i akaw, aza kai a pinaiwanan paqaqarut i timur, makazayazaya, neypu, kulaljuc, rai, kasugagu, sisigu, sinvaudjan kata vangecul, au aza kai a rinekaian paqaqarut i vuday, aza nginaingayngan paqaqarut i kawsu, cangze, linlu, zutien, wanluan, sinpi kata tjadung. 
+au aza pinairangan sinan pazangal i zuma a qinaljan kata pintung hici.  
 paljavakan.
 matja 21a gu kata 3 a zen i Qakaw king tucu. 
 kakipucemelan.
-衛生福利部屏東醫院 kakipucemelan a akaw nua wyvupu
-國軍高雄總醫院屏東分院 kakipucemelan a akaw nua takaw a sivitai a kuga 
-高雄榮民總醫院屏東分院 kakipucemelan a akaw nua takaw rungmin biuing 
-
 Ren’ai:
-Ren’ai（仁愛鄉）
-Ren’ai gu icuwa i Nantou. ala atjunangn mapuljat 1,219.39 km² (ma’linpan atjunang 909.39 km², ma’linaule atjunang 201.17 km². ala caucau mapuljat 14,966 caucau, ala daceneqlan mapuljat 4,643 a daceneqlan, Tayal, Seediq, Bunun (84%) a maqcuwa caucau. 
-ka cuaicuayanga ka pinaljavakan a ren’ai imaza nia sihu na dripun, sepaljavak aza qinaljan kata kadjunangan a "能高郡" na tjaivavav a pangaljan a tâi-tiong-tsiu (ayain a たいちゅうしゅう na drinipuanan).
-nu vaikanga a caucau sedripun, mavan a pinapungadan a “ren’ai” taza qinaljan kata kadjunangan imaza na sihu seciukuk tucu. saka izuanga gukusiu a ren’sai i musha (qinaljan nia seediq) tucu.
+Ren’ai
+Ren’ai gu icuwa i Nantou. 
+ala atjunangn mapuljat 1,219.39 km² (ma’linpan atjunang 909.39 km², ma’linaule atjunang 201.17 km². ala caucau mapuljat 14,966 caucau, ala daceneqlan mapuljat 4,643 a daceneqlan, Tayal, Seediq, Bunun (84%) a maqcuwa caucau. 
+ka cuaicuayanga ka pinaljavakan a ren’ai imaza nia sihu na dripun, sepaljavak aza qinaljan kata kadjunangan a "[]" na tjaivavav a pangaljan a tâi-tiong-tsiu (ayain a [] na drinipuanan).
+nu vaikanga a caucau sedripun, mavan a pinapungadan a “ren’ai” taza qinaljan kata kadjunangan imaza na sihu seciukuk tucu. 
+saka izuanga gukusiu a ren’sai i musha (qinaljan nia seediq) tucu.
 paljavak tua atjunang.
-matja 16 qinaljan i Ren’ai. matja 24 qinaljan imaza, Alang sasi（親愛部落）, Alang tongan（眉溪部落）, Alang pulan（松林部落）, Alang snuwing（史努櫻部落）, Alang bwarung（廬山部落）, Alang toda（平靜部落）, Masitoban（瑞岩部落）, Knaziy（紅香部落）, Bukai（武界部落）, Malepa（新望洋部落）, Alang sadu（沙都部落）, Alang busi（卜溪部落）, Alang truwan（德魯灣部落）, Qatu（卡度部落）, Alang nakahara（中原部落）, Alang gluban（清流部落）, Qalang kobah（慈峰部落）, Qalang bayi（梅村部落）, Alang marosan（萬大部落）, Qalang mb’ala（眉原部落）, Alang paran（巴蘭部落）, Alang ruku daya（平和部落）, Sima-un（萬豐部落）, Qalang bubun（翠巒部落）.
+matja 16 qinaljan i Ren’ai. 
+matja 24 qinaljan imaza, Alang sasi, Alang tongan, Alang pulan, Alang snuwing, Alang bwarung, Alang toda, Masitoban, Knaziy, Bukai, Malepa, Alang sadu, Alang busi, Alang truwan, Qatu, Alang nakahara, Alang gluban, Qalang kobah, Qalang bayi, Alang marosan, Qalang mb’ala, Alang paran, Alang ruku daya, Sima-un, Qalang bubun.
 kasicuayan.
-cuaicuayanga a kacavilj a 1930 imaza i ren’ai, na kiqecevan a caucau a seediq ta caucau se dripun, sa namalapai tua seediq a kikarivuan cu a mkuni paran ayain. paran aicu a kangadan ta ren'ai imaza.
-neka pacugan na "ren'ai" ta caucau imaza, manasika kilailaing a guciu i 卓文華 ta taqaljaqaljan imaza itu pasemalav ta sihu kacavilj a 2002. puzangal tiamdju a cempeliv ta tja pinapungadan na qinaljan, na kadjunangan: paran aicu. mavan a ngadan aicu a sikeljakeljang nia tja kakedriyan tua anemanema a tja tjaucikel na qinaljan, tau anemanema a tja milimilingan na kadjunangan.
+cuaicuayanga a kacavilj a 1930 imaza i ren’ai, na kiqecevan a caucau a seediq ta caucau se dripun, sa namalapai tua seediq a kikarivuan cu a mkuni paran ayain. 
+paran aicu a kangadan ta ren'ai imaza.
+neka pacugan na "ren'ai" ta caucau imaza, manasika kilailaing a guciu i [] ta taqaljaqaljan imaza itu pasemalav ta sihu kacavilj a 2002. 
+puzangal tiamdju a cempeliv ta tja pinapungadan na qinaljan, na kadjunangan: paran aicu. 
+mavan a ngadan aicu a sikeljakeljang nia tja kakedriyan tua anemanema a tja tjaucikel na qinaljan, tau anemanema a tja milimilingan na kadjunangan.
 kadjunangan.
-i pasakaledep tua bsuring(xiulin) a ren’ai gu. i pasakacedas tua qabizay(yuchi gu) a ren’ai gu. i pasanavalj tua pasing(heping) na taichung a ren’ai gu. i pasaviri tua nehunpu-siang(xinyi gu) a ren’ai gu.
+i pasakaledep tua bsuring(xiulin) a ren’ai gu. 
+i pasakacedas tua qabizay(yuchi gu) a ren’ai gu. 
+i pasanavalj tua pasing(heping) na taichung a ren’ai gu. 
+i pasaviri tua nehunpu-siang(xinyi gu) a ren’ai gu.
 caucau.
 metjuruvu a caucau imaza i ren'ai gu tucu.
 tatuluan.
-izua tapuluq saka unem a kedrikedri a gakku imaza i ren’ai gu. neka daigakku imaza.
+izua tapuluq saka unem a kedrikedri a gakku imaza i ren’ai gu. 
+neka daigakku imaza.
 iyubingkiuku (yuzeng).
 sasupuan na iyubingkiuku.
 546 a sasupuan na iyubingkiku se ren’ai gu.
 remayurangan.
 musha.
-malalaing ti mona rudo se mahebo, se tgdaya ta caucau a seediq tu kiqecev ta caucau se dripun. namasan kakipaqenetjan a patjemiling taicu a musha imaza a kapacugan nia tja sevalitan.
-
+malalaing ti mona rudo se mahebo, se tgdaya ta caucau a seediq tu kiqecev ta caucau se dripun. 
+namasan kakipaqenetjan a patjemiling taicu a musha imaza a kapacugan nia tja sevalitan.
 Ruisui:
-lisuy guan (’inamizukuan：Kohkoh；sinacilayagan: Kuhkuh；nginaingayngan：Sṳ̀n-kûng-chṳ́n) imaza i vecekadan a navalj tua kalingu king, i viri nakidjekec tua kuangvu, a i kaledep nakidjekec tua i wangrung kata zusi, a i kacedas nakidjekec tua vungbin, a i navalj kicaing tua i yuli, izua avan za vecekadan nua i pasanavalj a kalingu king, izua peihuikuisiyen pakamaza. sedjelj a pairang, haka kata kacalisian. au tjuruvuan ta amizuku, izuanan ca sakiraya zuku i maliyun(馬立雲) a qinaljan. 
+lisuy guan (’inamizukuan：Kohkoh；sinacilayagan: Kuhkuh；nginaingayngan：Sṳ̀n-kûng-chṳ́n) imaza i vecekadan a navalj tua kalingu king, i viri nakidjekec tua kuangvu, a i kaledep nakidjekec tua i wangrung kata zusi, a i kacedas nakidjekec tua vungbin, a i navalj kicaing tua i yuli, izua avan za vecekadan nua i pasanavalj a kalingu king, izua peihuikuisiyen pakamaza. 
+sedjelj a pairang, haka kata kacalisian. 
+au tjuruvuan ta amizuku, izuanan ca sakiraya zuku i maliyun a qinaljan. 
 a kai ’inamizukuan kata nginaingayngan.
-lisuy guan ka sicuayan a qivu “suywi” (nginaingayngan：shuiˊmuiˋ ), tjaljavililjan ta siukuluan a pana a imi, au lja za ripun qivu ta “mizuo”, aicu a zaing matu ta “mizuho”(lisuy). izua tu 135 km² a pulingetjan nua kadjunangan. izua tu ita kudrav sa ita kuzulj a caucau, au avan ca kiqaljudj tua varukur i siukuluan a pana saka masan tjalja pungadan.
-pakata racev sipungadan ta tienhe(天鶴) ucia (qudjidjilj salum alju a ucia) kata buntan(tjalja qacavan a putalem ta kadjunangan). na malingu. aza hungye ungesing kata lisuy ungesing na pasamaza i wanrung, ljakua cadjavan a ceviq madadut lisuy guan, saka izuanan za atalashi a kariari ungesing nua i vuyan kuka pukasikasivan a kivanvangan, aza mareka caucau tjengelay semamaza kivangvang. Izuanan tungyi(統一) a kuba na lemindjelj tua lisuy papagungan a paveli tua miluku kata tjuzuma na kipusengsengan imaza seman siubay, avan nu sike ligu a miluku i lisuy tauta.   
+lisuy guan ka sicuayan a qivu “suywi” (nginaingayngan：shuimui), tjaljavililjan ta siukuluan a pana a imi, au lja za ripun qivu ta “mizuo”, aicu a zaing matu ta “mizuho”(lisuy). 
+izua tu 135 km² a pulingetjan nua kadjunangan. 
+izua tu ita kudrav sa ita kuzulj a caucau, au avan ca kiqaljudj tua varukur i siukuluan a pana saka masan tjalja pungadan.
+pakata racev sipungadan ta tienhe ucia (qudjidjilj salum alju a ucia) kata buntan(tjalja qacavan a putalem ta kadjunangan). 
+na malingu. 
+aza hungye ungesing kata lisuy ungesing na pasamaza i wanrung, ljakua cadjavan a ceviq madadut lisuy guan, saka izuanan za atalashi a kariari ungesing nua i vuyan kuka pukasikasivan a kivanvangan, aza mareka caucau tjengelay semamaza kivangvang. 
+Izuanan tungyi a kuba na lemindjelj tua lisuy papagungan a paveli tua miluku kata tjuzuma na kipusengsengan imaza seman siubay, avan nu sike ligu a miluku i lisuy tauta.   
 lja izua kiqaljudj tua varukur, ungesing kata ucia aicu babulayan, lisuy guan masan ta tjalja pungadangadan a kadjunangan pakata nugiu pinatevelj ta riuku. 
 kadjunangan.
-lisuy guan i kalingu a sema taitu sevesevec a lizulizuk, izua vecekadan gadugaduan i kaledep, izua ljavek a gadugaduan i pasacemedas, a i navalj izua wuhe na lja vavaw a kadjunangan, i vecekadan avan nu siukuluan a pana kata kakedrian a pana seqaljutj a qipu kata vudas masan lizulizu, aicu kadjunangan avan ca kazatjan, avan nu pazangal a kilamian a kadjunangan. au wuhe na lja vavaw a kadjunangan kata cymei maruqalu tja nanguwaq a calisian. izua ucia, kudamunu aza kinsic a racev.     
+lisuy guan i kalingu a sema taitu sevesevec a lizulizuk, izua vecekadan gadugaduan i kaledep, izua ljavek a gadugaduan i pasacemedas, a i navalj izua wuhe na lja vavaw a kadjunangan, i vecekadan avan nu siukuluan a pana kata kakedrian a pana seqaljutj a qipu kata vudas masan lizulizu, aicu kadjunangan avan ca kazatjan, avan nu pazangal a kilamian a kadjunangan. 
+au wuhe na lja vavaw a kadjunangan kata cymei maruqalu tja nanguwaq a calisian. 
+izua ucia, kudamunu aza kinsic a racev.     
 kalevelevan.
-a kalevelevan semezan tu kemaledeledev. pakata cungyancisiyangcy a ziriu patekuteku. aza sezaman mamaw ta cenkung cen, ljakua lisuy imaza i kalingu a sema taitu sevesevec a lizulizuk, tjaljaqacavan ta cenkung pakata a namaretimalji a sezaman i qadaw kata salilim: 
+a kalevelevan semezan tu kemaledeledev. 
+pakata cungyancisiyangcy a ziriu patekuteku. 
+aza sezaman mamaw ta cenkung cen, ljakua lisuy imaza i kalingu a sema taitu sevesevec a lizulizuk, tjaljaqacavan ta cenkung pakata a namaretimalji a sezaman i qadaw kata salilim: 
 cinalivatan.
-kaljasangasangasan izua caucau imaza a sikac, au sicuayan a kakaizuanan, saka inadjuqan ta sawba (’inamizukuan：Satokoay) a qaciljay a sicuayan a kakaizuanan. pakata kinkiuin a kinkiu, aicu a sicuayan a kakaizuanan avan nu atalasi a qaciljay nemanga a djiday, izua tu tjelu kuzulj a cavilj, au pazangal a kakudan avan ta binan bunka kata cilin bunka. 
-kacalisian a kakaizuanan, sedjelj amizuku. pakata kemaucikel ta sicuayan a likishi a sirabiru, kasicuayan a qinaljan izua cymei(奇美), muluzang(莫魯漲), lanasan(蘭阿散), adulan(阿多蘭), wuyali(烏鴉立), cysan(青山), wulaw(梧繞) kata tjanana(加納納).    
-ka 1812 a cavilj, izuanga ta pairang patje i djian guan a qemuma a vecik. ka 1825 a cavilj kata 1851 a cavilj sezuljuzulju ta pairang patje i zuvung guan zesie(志學) mula, hualien hici vungcuan(豐川) aza kuyu(國裕), kuciang(國強) kata kucing(國慶) li aza tineveljan a kadjunangan) a qemuma, ka 1853 a cavilj, izua zuma mapulju a pairang patje i puseke(tucu yuli cen kerencen) a qemuma. lja mata 1874 a cavilj, izua makaqeci kata ljukiu(琉球) a sikataqalljan a rikishi, neka a vecik pakata pairang semamaza i yuli a kadjunangan.   
-pitjaivililjanga ka puaming a mutan a maqaqeci, aza citing sihu sa pazangal kanri ta pasakacedasan, avan za kamakama ti沈葆楨 a mangetjez sema taiwan djemadjas sa kanri. djemulung tua “qemulic ta kadjunangan semasa ta kacalisian” aicu sivitay kata sikataqaljan a qemuma a kinsic, seman djalan izua viri, vecekadan kata navalj aicu tjelu pasakacedas a djalan. ka 1875 a cavilj ita qiljas, ti kamakama wukuangljang(吳光亮) nua vecekadan a djalan a taiwan cen patagilj seman djalan. kemasi lincipu(林杞埔) a qinaljan pasa dasuyku(大水窟) kata kentu(坑頭) patje i puseke. au mumalj pasaviri a seman djalan patje i suywi. aicu avan nu tjaisangas a likisi pakata pairang patagilj qemuma imaza. au ka vililjan aza na qemuma a sivitay taqaljaqaljan masasa imaza, masan na pairang a qinaljan.    
-ka citing a djiday, i tua drusa puluq a cavilj, lja aza sipuvarung a “qemulic ta kadjunangan semasa ta kacalisian” puliaw kilivu a kacalisian imaza. ka 1877 a cavilj izua cymi qinaljan(奇密社) a livulivu, ka 1878 a cavilj izua tjaliwan(加禮宛) a livulivu kata ka 1888 a cavilj izua dazuang(大庄) livulivu, sedjelja seman djalang kata qemuma ta kadjunangan, kikiyam a munday. 
-ka ripun a djiday, lja izua tjaliavan ta paday aza racav imaza, sa ripun sihu qivu ta “suywi” kemasi ripun biu nua vecik “vungweiyan a lisuyku(豐葦原之瑞穗國)”, au aza suywi pavalitan ta suywi. 
-ka 1930 a cavilj, ti kutiencenadjyang(國田正二將) kemacu ta kafi a pasa i lisuy wuhe na lja vavaw a kadjunangan, sa mapusaladj tjai mayuye(馬有岳). 
-ka 1937 a cavilj, pavalitan lemintje ta lisuy zuang(庄), au aza zuangyican(庄役場) i lisuy qinaljan, sipavecik pakalingukangting vunglindjin sa kanrivi. izua dahe(djaliwan, kancensiang, danuncang, alulang a qinaljan), baycuan, lisuy(suywi, djusuywi, damayansandjaw a qinaljan), hekang(wulu, wulali, cinsan a qinaljan), cymey(sicuayan a qivu huzesan), wuhe(hansawbadin, djanana, maliyun) aicu a kadjunangan. 
-ka 1945 a cavilj, kapuamin a maqaqeci, aza kumin sihu djemadjas ta i taiwan, ka 1946 a cavilj icigac puluq sa ita qadaw lemindjel tua kalingu kingsihu, pakata sincency izua djin(郡), si(市), dje(街) kata zuang(庄) pavalitan ta cy(區), si(市), cen(鎮), guan(鄉). sa aza lisuy zuang masan ta lisuy guan, sipatevel kalinguking vunglincy, au mumaljem a cineviqe ca kadjunangan, aza dahe pavalitan ta dahe, davung kata danung aicu tjelu a mula, aza baycuan pavalitan ta mayuan, vuyan, vumin kata vusin aicu sepatj a mula, aza lisuy pavalitan ta lisuy, rimei, riljang, risi(risiang), ribei kata hungye aicu unem a mula. izuanan sicuayan a hekang, cymey kata wuhe penuljat a puluq sa unem a mula. mamaw a cavilj sa lima qiljas puluq sa lima a qadaw, aza hungye kata mayuan sipatevelj ta i wanli au lemindjelj ta wanli guan (tucu wanrung guan). ka 1947 a cavilj sangac ita qadaw, aza dahe, davung kata danung sipatevelj sa lemindjelj ta atalashi a kuangvu guan patjeljatucu. mamaw a cavilj ziunigac tjelu puluq sa ita qadaw sualapen ta vunglin cysu(區署), aza lisuy guan pavalitan ta sipavecik pakalingu kingsihu sa kanrivi.       
+kaljasangasangasan izua caucau imaza a sikac, au sicuayan a kakaizuanan, saka inadjuqan ta sawba (’inamizukuan：Satokoay) a qaciljay a sicuayan a kakaizuanan. 
+pakata kinkiuin a kinkiu, aicu a sicuayan a kakaizuanan avan nu atalasi a qaciljay nemanga a djiday, izua tu tjelu kuzulj a cavilj, au pazangal a kakudan avan ta binan bunka kata cilin bunka. 
+kacalisian a kakaizuanan, sedjelj amizuku. 
+pakata kemaucikel ta sicuayan a likishi a sirabiru, kasicuayan a qinaljan izua cymei, muluzang, lanasan, adulan, wuyali, cysan, wulaw kata tjanana.    
+ka 1812 a cavilj, izuanga ta pairang patje i djian guan a qemuma a vecik. 
+ka 1825 a cavilj kata 1851 a cavilj sezuljuzulju ta pairang patje i zuvung guan zesie mula, hualien hici vungcuan aza kuyu, kuciang kata kucing li aza tineveljan a kadjunangan) a qemuma, ka 1853 a cavilj, izua zuma mapulju a pairang patje i puseke(tucu yuli cen kerencen) a qemuma. 
+lja mata 1874 a cavilj, izua makaqeci kata ljukiu a sikataqalljan a rikishi, neka a vecik pakata pairang semamaza i yuli a kadjunangan.   
+pitjaivililjanga ka puaming a mutan a maqaqeci, aza citing sihu sa pazangal kanri ta pasakacedasan, avan za kamakama ti[] a mangetjez sema taiwan djemadjas sa kanri. 
+djemulung tua “qemulic ta kadjunangan semasa ta kacalisian” aicu sivitay kata sikataqaljan a qemuma a kinsic, seman djalan izua viri, vecekadan kata navalj aicu tjelu pasakacedas a djalan. 
+ka 1875 a cavilj ita qiljas, ti kamakama wukuangljang nua vecekadan a djalan a taiwan cen patagilj seman djalan. 
+kemasi lincipu a qinaljan pasa dasuyku kata kentu patje i puseke. 
+au mumalj pasaviri a seman djalan patje i suywi. 
+aicu avan nu tjaisangas a likisi pakata pairang patagilj qemuma imaza. 
+au ka vililjan aza na qemuma a sivitay taqaljaqaljan masasa imaza, masan na pairang a qinaljan.    
+ka citing a djiday, i tua drusa puluq a cavilj, lja aza sipuvarung a “qemulic ta kadjunangan semasa ta kacalisian” puliaw kilivu a kacalisian imaza. 
+ka 1877 a cavilj izua cymi qinaljan a livulivu, ka 1878 a cavilj izua tjaliwan a livulivu kata ka 1888 a cavilj izua dazuang livulivu, sedjelja seman djalang kata qemuma ta kadjunangan, kikiyam a munday. 
+ka ripun a djiday, lja izua tjaliavan ta paday aza racav imaza, sa ripun sihu qivu ta “suywi” kemasi ripun biu nua vecik “vungweiyan a lisuyku”, au aza suywi pavalitan ta suywi. 
+ka 1930 a cavilj, ti kutiencenadjyang kemacu ta kafi a pasa i lisuy wuhe na lja vavaw a kadjunangan, sa mapusaladj tjai mayuye. 
+ka 1937 a cavilj, pavalitan lemintje ta lisuy zuang, au aza zuangyican i lisuy qinaljan, sipavecik pakalingukangting vunglindjin sa kanrivi. 
+izua dahe (djaliwan, kancensiang, danuncang, alulang a qinaljan), baycuan, lisuy (suywi, djusuywi, damayansandjaw a qinaljan), hekang (wulu, wulali, cinsan a qinaljan), cymey (sicuayan a qivu huzesan), wuhe (hansawbadin, djanana, maliyun) aicu a kadjunangan. 
+ka 1945 a cavilj, kapuamin a maqaqeci, aza kumin sihu djemadjas ta i taiwan, ka 1946 a cavilj icigac puluq sa ita qadaw lemindjel tua kalingu kingsihu, pakata sincency izua djin, si, dje kata zuang pavalitan ta cy, si, cen, guan. 
+sa aza lisuy zuang masan ta lisuy guan, sipatevel kalinguking vunglincy, au mumaljem a cineviqe ca kadjunangan, aza dahe pavalitan ta dahe, davung kata danung aicu tjelu a mula, aza baycuan pavalitan ta mayuan, vuyan, vumin kata vusin aicu sepatj a mula, aza lisuy pavalitan ta lisuy, rimei, riljang, risi(risiang), ribei kata hungye aicu unem a mula. 
+izuanan sicuayan a hekang, cymey kata wuhe penuljat a puluq sa unem a mula. 
+mamaw a cavilj sa lima qiljas puluq sa lima a qadaw, aza hungye kata mayuan sipatevelj ta i wanli au lemindjelj ta wanli guan (tucu wanrung guan). 
+ka 1947 a cavilj sangac ita qadaw, aza dahe, davung kata danung sipatevelj sa lemindjelj ta atalashi a kuangvu guan patjeljatucu. 
+mamaw a cavilj ziunigac tjelu puluq sa ita qadaw sualapen ta vunglin cysu, aza lisuy guan pavalitan ta sipavecik pakalingu kingsihu sa kanrivi.       
 paljavak tua kadjunangan.
 tucu izua puluq sa ita a mula i lisuy kata puluq sa unem a qinaljan imaza. 
-Langas（拉加善部落）, Lacihakan（拉基禾幹部落）, Morocan（牧魯棧部落）, Atolan（阿多瀾部落）, Koyo（溫泉部落）, Ukang（烏槓部落）, Narowan（娜魯灣部落）, Kalala（迦納納部落）, Sapat（掃叭頂部落）, Maifor（馬立雲部落）, Olalip（屋拉力部落）, Fanaw（法淖部落）, Olaw（梧繞部落）, Marorok（馬聚集部落）, Cirocan（鶺櫓棧部落）, Kiwit（奇美部落）.
+Langas, Lacihakan, Morocan, Atolan, Koyo, Ukang, Narowan, Kalala, Sapat, Maifor, Olalip, Fanaw, Olaw, Marorok, Cirocan, Kiwit.
 caucau.
 zuku.
-lisuy guan imaza izua mekedri ta ciuku, zuma a sikataqaljan avan nu setaiwan, sedjelj ta pairang, haka kata kacalisian. pakata ziriu kemasi venecikan na takakudan a umaq, ka 2010 a cavilj puluq sa ita a qiljas, izua 5, 062 a kacalisian, kimaya 35.62％ pakata penuljat a caucau i guan. au za kacalisian i lizulizu izua 4,578, saka zuma a kacalisian i gadu amin ta 484 a caucau.  
-pakata zuku, izua tayal zuku,bunun zuku, tairuku zuku, sacilaya zuku kata amizuku aicu sepatj a zuku, au tjaljatjuruvuan ta amizuku, kimaya 94.26％ pakata penuljat a kacalisian i guan. aza bunun zuku masansimusalj, tayal zuku tjaljakedrian, amin tu 1.78％.    
+lisuy guan imaza izua mekedri ta ciuku, zuma a sikataqaljan avan nu setaiwan, sedjelj ta pairang, haka kata kacalisian. 
+pakata ziriu kemasi venecikan na takakudan a umaq, ka 2010 a cavilj puluq sa ita a qiljas, izua 5, 062 a kacalisian, kimaya 35.62％ pakata penuljat a caucau i guan. 
+au za kacalisian i lizulizu izua 4,578, saka zuma a kacalisian i gadu amin ta 484 a caucau.  
+pakata zuku, izua tayal zuku,bunun zuku, tairuku zuku, sacilaya zuku kata amizuku aicu sepatj a zuku, au tjaljatjuruvuan ta amizuku, kimaya 94.26％ pakata penuljat a kacalisian i guan. 
+aza bunun zuku masansimusalj, tayal zuku tjaljakedrian, amin tu 1.78％.    
 kinsic.
 nugiu kata pagung a sengsengan.
-nugiu sinan pazangal a sengesengan i lisuy guan, izua tu tjelu a kuzulj a kisanqemuma a caucau pakata penuljat a caucau nua guan. au aza kavuavuan imaza izua gisui can, metad can kata calisilisi, avan nu tjaljqacavan a temalem a kadjunangan. lemindjelj ta kaiku, vuday, suika kata kakiqetiman tua tutu a gung a quma. pakata racev izua buntan, tjaves, pangudrai, utja kata katawa. 
-izuanga linidjelj ta tjamaku a quma ka ripun a djiday imaza. sedjelj paqaqarut i risiang a mula. ka 1970 a caviljan avan ca tjaljamirazek a djaday a temalem ta tjamaku, tazua  a talem i can avan za tjamaku, au linidjelj ta liaw a umaq sipaveli ta tjamaku. kemasi 1980 a caviljan, lja ljateku a ngidan na tjamaku, sa tjaljiazua mekedrimekedri aza temaletalem ta tjamaku, au pavalit ta zuma talem a racev, sa lemindjelj ta pagugungan au paquzip ta gung. 
-pakata wuhe na lja vavaw a kadjunangan imaza izua hungye pana i viri, izua siukuluan a pana i navalj, kasicuayan aza kisanqemuma a caucau temalem ta kafi, paday, kusui, vurasi kata pangudrai. ka 1979 a cavilj aza kamakama a nugiuwuyhuy(農委會) ti licungdaw(李崇道) hakasi paljilji imaza i ucia a kadjunangan. paqayam a temekel kata kemazala ca ucia sa sipungadan “tienhe ucia” sinipapukinim ta cyentienhe(錢天鶴) hakasi aza timadju qinati aicu ucia.   
+nugiu sinan pazangal a sengesengan i lisuy guan, izua tu tjelu a kuzulj a kisanqemuma a caucau pakata penuljat a caucau nua guan. 
+au aza kavuavuan imaza izua gisui can, metad can kata calisilisi, avan nu tjaljqacavan a temalem a kadjunangan. 
+lemindjelj ta kaiku, vuday, suika kata kakiqetiman tua tutu a gung a quma. 
+pakata racev izua buntan, tjaves, pangudrai, utja kata katawa. 
+izuanga linidjelj ta tjamaku a quma ka ripun a djiday imaza. 
+sedjelj paqaqarut i risiang a mula. 
+ka 1970 a caviljan avan ca tjaljamirazek a djaday a temalem ta tjamaku, tazua  a talem i can avan za tjamaku, au linidjelj ta liaw a umaq sipaveli ta tjamaku. 
+kemasi 1980 a caviljan, lja ljateku a ngidan na tjamaku, sa tjaljiazua mekedrimekedri aza temaletalem ta tjamaku, au pavalit ta zuma talem a racev, sa lemindjelj ta pagugungan au paquzip ta gung. 
+pakata wuhe na lja vavaw a kadjunangan imaza izua hungye pana i viri, izua siukuluan a pana i navalj, kasicuayan aza kisanqemuma a caucau temalem ta kafi, paday, kusui, vurasi kata pangudrai. 
+ka 1979 a cavilj aza kamakama a nugiuwuyhuy ti licungdaw hakasi paljilji imaza i ucia a kadjunangan. 
+paqayam a temekel kata kemazala ca ucia sa sipungadan “tienhe ucia” sinipapukinim ta cyentienhe hakasi aza timadju qinati aicu ucia.   
 kuba kata siubay.
-aicu kuba kata siubay a ziriu kemasi sincengyen kisansemupu(主計處) ka 2007 a cavilj. 
-
+aicu kuba kata siubay a ziriu kemasi sincengyen kisansemupu ka 2007 a cavilj. 
 Sakizaya:
-aicu a Sakizaya zuku nuaya mavan na imaza i Taivang a kacalisian. nasepaljavak tjai Kalinku king a Sakizaya zuku.
+aicu a Sakizaya zuku nuaya mavan na imaza i Taivang a kacalisian. 
+nasepaljavak tjai Kalinku king a Sakizaya zuku.
 cinalivatan.
-a sakizayazuku, a pinaka ta sakiraya na amizuku, sa pinaka ta sukizaya na kavalanzuku. izua a qinaljan a Cipawkan nua sakizayazuku a pinaka ta Sakizaya, qaw aza qinaljan a Sakol a pinaka ta Sakidaya niamadju.
-izuazua a sakizayazuku i kazatjan na 奇萊(kazatjan nua kalingku), sa aza pasalavagan na katjunangan mamau ta tucu a kalingku a lizuk, a sinicuayan a siqaivuan nua kalingku mavanaga a Kiray. inika makeljang aicu a pacugan nua venecikan a “Sakizaya”, amin a kemeljang tua qivu ta ‘insakizayazukan nua azua a cawcau izua. inika mamau a kai tua zuma a qinaljan na amiziku(matu Natawran, Pokpok, Lidaw, Cikasuan), sa inia maljavaljavar tiamadju.
-sa pitua kinkiu na李來旺（帝瓦伊‧撒耘）i qinaljan, masan tua tapuluq a qinaljan a sakizayazuku i kazatjan na 奇萊 kasicuayanga. izua a pacugan na ngadan nua aicu a tapuluq a qinaljan:
-1.Takobowan：kemasi 慈濟醫院kata idedett a 四維高中
-2.Nabakoan:kemasi idedet ta 統帥飯店, a pacugan na sicuayanga a ngadan, avan a quma a tjamaku.　　3.Cipawkan：kemasi idedet ta lizuk a kalingku a德安.
-4.Tamasaydan：kemasi花蓮北濱kata南濱二街，a pacugan na sicuayanga a ngadan, avan a ngadan na cemecemel i ljavek.
-5.Kenoy：kemasi idedet ta gakku a北昌國小, a pacugan na sicuayanga a ngadan, avan a vangalj a maqati a kakanen.
-6.Cibalbaran：kemasi itjaikacedas ta 私立國光商工，a pacugan na sicuayanga a ngadan, avan a ngadan nua cawcau( avan a tjaljacuay ta mavacuk a cawcau imaza.)
-7.ibabngan：kemasi美崙工業區, a pacugan na sicuayanga a ngadan,avan a ngadan nua cemecemel (sa maqati a kanen kata saviki.)。
-8.Pazik：kemasiidedet ta 花蓮高工kata sihu na kalingku, a pacugan na sicuayanga a ngadan,avan a gadu a sakamaya ta qicaw a 鬼頭刀魚.
-9.Cikep：kemasi idedet ta 美崙高爾夫球場, a pacugan na sicuayanga a ngadan,mavan a sekapalak a cinunan a katjunangan imaza.
-10.Towapon：kemasi 花蓮港華東社區, a pacugan na sicuayanga a ngadan, mavan a ngadan na cawcau( inika kemeljang tua pacugan).
-izuanga a vinecik tazua a sakizayazuku ka 1630 a cavilj, ka pinaljavak ta i tjaivililj kata i pasakacedas a viri ta taiwan na 西班牙, izua a tjelu a sepaljavak imaza, sa aicu a Saquiraya mavan a tucu a Sakizaya.
-ka 荷蘭anan, kemikim tua king i tjaikacedas ta taiwan a 荷蘭東印度公司, sa uri vaik a sema a sividay ta ljemaveljevekan i tjaikacedas tua taiwan. natemevela a Wesslinghtaizua a king i Sakiraga（Sakizay）kata zuma a unem a qinaljan i ljemaveljevekan itjaikacedas tua taiwan.
-izua a venecikan nua ciuku, venecivencik a 周鍾瑄 tua筠椰椰社 i 《諸羅縣誌》 ka 1717 a cavilj, mavananga a Sakizaya, sa pakavililj ta 加禮宛事件 ka 1878 a cavilj, qaw papungadan tua qinaljan a “歸化社”. vinecik na 胡傳 ta 《臺東州采訪冊》 ka 1894 a cavilj, izuanga a “歸化社”(mamau ta 南勢番七社), mavanga a Sakizaya.
-azua a kinavadavadayan nua sakizayazuku, inika paselaw tua kazatjan nua kalingku, sa pakavililj ta 加禮宛事件, tjuruvu a cawcau a vaik a sema taimaza, kata saljinga ta kidrawdraw tua masengseng kata zinaljuman ka ripunanan, uri pinatjavat na sakizayazuku i kazatjan, sa pataqilj ta pinatjavat ta pacalivat a kazatjan tiamadju. tucu a qinaljan na sakizayazuku, izuanga a Hopo, Pazik, Sakol, Cupo’ , Kasyusyuan, Apalu, Cilakayan, Ciwidian, Kaluluwan kata Maibor.
-uri kemikim a sakizayazuku tua kakudan ka 1990 a cavilj, sa izua a “papungadan ta kacalisiyan(正名運動)” ka 2004 a cavilj. qaw maqatianga ka 2007 a cavilj kata icigacu, saka masan tua sikamasansimuluq saka pitju a kacalisiyan nua taiwan.
-
+a sakizayazuku, a pinaka ta sakiraya na amizuku, sa pinaka ta sukizaya na kavalanzuku. 
+izua a qinaljan a Cipawkan nua sakizayazuku a pinaka ta Sakizaya, qaw aza qinaljan a Sakol a pinaka ta Sakidaya niamadju.
+izuazua a sakizayazuku i kazatjan na [](kazatjan nua kalingku), sa aza pasalavagan na katjunangan mamau ta tucu a kalingku a lizuk, a sinicuayan a siqaivuan nua kalingku mavanaga a Kiray. 
+inika makeljang aicu a pacugan nua venecikan a “Sakizaya”, amin a kemeljang tua qivu ta ‘insakizayazukan nua azua a cawcau izua. 
+inika mamau a kai tua zuma a qinaljan na amiziku(matu Natawran, Pokpok, Lidaw, Cikasuan), sa inia maljavaljavar tiamadju.
+sa pitua kinkiu na[]([]) i qinaljan, masan tua tapuluq a qinaljan a sakizayazuku i kazatjan na [] kasicuayanga. 
+izua a pacugan na ngadan nua aicu a tapuluq a qinaljan:
+1.Takobowan：kemasi []kata idedett a []
+2.Nabakoan:kemasi idedet ta [], a pacugan na sicuayanga a ngadan, avan a quma a tjamaku.
+3.Cipawkan：kemasi idedet ta lizuk a kalingku a[].
+4.Tamasaydan：kemasi[]kata[], a pacugan na sicuayanga a ngadan, avan a ngadan na cemecemel i ljavek.
+5.Kenoy：kemasi idedet ta gakku a[], a pacugan na sicuayanga a ngadan, avan a vangalj a maqati a kakanen.
+6.Cibalbaran：kemasi itjaikacedas ta [], a pacugan na sicuayanga a ngadan, avan a ngadan nua cawcau (avan a tjaljacuay ta mavacuk a cawcau imaza.)
+7.ibabngan：kemasi[], a pacugan na sicuayanga a ngadan,avan a ngadan nua cemecemel (sa maqati a kanen kata saviki.)。
+8.Pazik：kemasiidedet ta []kata sihu na kalingku, a pacugan na sicuayanga a ngadan,avan a gadu a sakamaya ta qicaw a [].
+9.Cikep：kemasi idedet ta [], a pacugan na sicuayanga a ngadan,mavan a sekapalak a cinunan a katjunangan imaza.
+10.Towapon：kemasi [], a pacugan na sicuayanga a ngadan, mavan a ngadan na cawcau( inika kemeljang tua pacugan).
+izuanga a vinecik tazua a sakizayazuku ka 1630 a cavilj, ka pinaljavak ta i tjaivililj kata i pasakacedas a viri ta taiwan na [], izua a tjelu a sepaljavak imaza, sa aicu a Saquiraya mavan a tucu a Sakizaya.
+ka []anan, kemikim tua king i tjaikacedas ta taiwan a [], sa uri vaik a sema a sividay ta ljemaveljevekan i tjaikacedas tua taiwan. 
+natemevela a Wesslinghtaizua a king i Sakiraga (Sakizay) kata zuma a unem a qinaljan i ljemaveljevekan itjaikacedas tua taiwan.
+izua a venecikan nua ciuku, venecivencik a [] tua[] i [] ka 1717 a cavilj, mavananga a Sakizaya, sa pakavililj ta [] ka 1878 a cavilj, qaw papungadan tua qinaljan a “[]”. 
+vinecik na [] ta [] ka 1894 a cavilj, izuanga a “[]”(mamau ta []), mavanga a Sakizaya.
+azua a kinavadavadayan nua sakizayazuku, inika paselaw tua kazatjan nua kalingku, sa pakavililj ta [], tjuruvu a cawcau a vaik a sema taimaza, kata saljinga ta kidrawdraw tua masengseng kata zinaljuman ka ripunanan, uri pinatjavat na sakizayazuku i kazatjan, sa pataqilj ta pinatjavat ta pacalivat a kazatjan tiamadju. 
+tucu a qinaljan na sakizayazuku, izuanga a Hopo, Pazik, Sakol, Cupo’, Kasyusyuan, Apalu, Cilakayan, Ciwidian, Kaluluwan kata Maibor.
+uri kemikim a sakizayazuku tua kakudan ka 1990 a cavilj, sa izua a “papungadan ta kacalisiyan” ka 2004 a cavilj. 
+qaw maqatianga ka 2007 a cavilj kata icigacu, saka masan tua sikamasansimuluq saka pitju a kacalisiyan nua taiwan.
 Samata Sakuma:
-ti Samata lja Sakuma (佐久間 左馬太, 1844.11.19 – 1915.8.5)
-tapuluq sa siva a qadaw, sa namacay i 1915 a cavilj a hacigacu kata lima a qadaw), izua a ngadan ti 研海 uta, a kemasi長州藩（tucu a 山口縣）na ripun. avananga a masanlimalj a 總督 nua taiwan ka ripunanan(kemasi 1906 a cavilj a sigacu kata tapuluq sa ita a qadaw tua 1915 a cavilj a sigacu kata tjelu a puluq a qadaw). namakaqeci tua qinaljan a sinvaudjan ka 中佐anan timadju i 1874 a cavilj, sa masan tua 大將tiamadju ka 1898 a cavilj.
+ti Samata lja Sakuma ([], 1844.11.19 – 1915.8.5)
+tapuluq sa siva a qadaw, sa namacay i 1915 a cavilj a hacigacu kata lima a qadaw), izua a ngadan ti [] uta, a kemasi[](tucu a []) na ripun. 
+avananga a masanlimalj a [] nua taiwan ka ripunanan(kemasi 1906 a cavilj a sigacu kata tapuluq sa ita a qadaw tua 1915 a cavilj a sigacu kata tjelu a puluq a qadaw). 
+namakaqeci tua qinaljan a sinvaudjan ka []anan timadju i 1874 a cavilj, sa masan tua []tiamadju ka 1898 a cavilj.
 likisi/cinalitan nimadju.
-ka 1844 a cavilj a ziuicigacu kata tapuluq sa siva a qadaw(a 天保a tapuluq sa lima a cavilj a ziugacu kata tapuluq a qadaw), sinipualjak a Sakuma Samata i 長州阿武郡河添村(tucu a 山口縣萩市河添), a djaljedjalj na 長州藩士a岡村孫七 timadju, sa kipaquzup a 佐久間竹之丞 tjaimadaju katjaivirilj. nu kitevelj ta sividay a 奇兵隊, sa kitulu ta 西洋兵法 tjai 大村益次郎.
-ka 1866 a cavilj(a慶應a drusa a cavilj) i masanmusalj a makaqeci tua 長州, sa sinan tua malailaing(大隊長) na龜山隊nua長州藩軍 timadju, qaw makaqeciqeci i 芸州口.
-ka 1868 a cavilj(a慶應a sepatj a cavilj) i makaqeci i戊辰, vaik a sema ta 棚倉, 二本松, 會津 tua makaqeci ti Sakuma Samata. qaw nu remingedjilj ta sihu a明治政府, kitevelj ta sividay na陸軍 timadju, sa masan tua 陸軍大尉 timadju ka 1872 a cavilj (a 明治a lima a cavilj) kata pinaljavak tua 西海鎮台付.
-ka 1874 a cavilj(a明治a pitju a cavilj) a nigacu, namakaqecianga ta 佐賀之亂, sa masan tua malailaing a鎮台參謀長 nua 熊本, kata vaik a sema ta taiwan tua kitevelj ta sineljavakan i sinvaudjan(牡丹社事件) timadju. masa siselapay aravac tua qinaljan a djaqaciljy(石門) nimadju tua makaqeci, qemeci ta sinvaudjan a mazngi ti aruqu kati aljak ti Sakuma Samata, sa pinaka ta “鬼佐久間” tjaimadju.
-ka 1874 a cavilj(a明治a tapuluq a cavilj), masan tua malailain a masanemelj a sividay a 步兵, sa kitevelj ta makaqeci na 西南. ka 1881 a cavilj(a明治a tapuluq sa sepatj a cavilj) a nigacu, masan tua 陸軍少將kata malailaing nau仙台鎮台timadju, sa sikalevan a 男爵爵位 tjaimadju nusicavilj.
-ka 1894 a cavilj(a明治a drusa a puluq kata pitju a cavilj) i makaqeci ta ripun kata chukuku, masan tua malailaing nua sividay a masanmusalj timadju, sa vaik a sema ta makaqeci tua 威海衛. ka namakaqecianga i 1895 a cavilj (a明治a drusa a puluq kata alu a cavilj) a gugacu, masan ta 總督 na 威海衛 timadju, qaw sikalevan a 勳一等旭日大綬章kata子爵 tjaimadju.
-namasananga ta 近衛師団長kata中部都督 ti Sakuma Samata, sa masan tua 陸軍大將uta timadju ka 1898 a cavilj(a明治a tjelu a puluq kata ita a cavilj). nu masananga ta 衛戍總督 na 東京 ka 1904 a cavilj(a明治a tjelu a puluq kata prtju a cavilj), sa pinaljavak a 台灣總督kata sikalevan a 勳一等旭日桐花大綬章 tjaimadju. qaw sinan tua 伯爵 ka 1907 a cavilj(a明治a sepatj a puluq a cavilj) tiamdju.
-ka ripunanan, nu ika pacecev a pairing ta ripun a sihu, sa kilailaing pakata kacalisiyan a sihu na ripun, kata penenetj tiamadju ta makaqeci ta kacaliyan. masa namakaqeci ta qinaljan i sinvaudjan ti Sakuma Samata kasicuayan, sa mapenetj a sihu na ripun ta sinan ta總督timadju. 
-rupaqeci tua kacalisiyan ti Sakuma Samata nu sinan ta總督timadju. azua a “五年理蕃計畫”nimadju, avan a makaqeci ta tayaruzuku ivirilj, sa djapupen ta bunungzuku i navalj, maqati a matucu tua “以蕃制蕃”, a makaqeci uta tua kacalisiyan timadju avan a “理蕃戰役”(pu tayday kata unem(160次). sa ika kisekaulj ta 總督府timalju ka kilailaing anga pakata kacalisiyan, qaw macayanga i pitju a puluq a cavilj timadju pakavirilj a tjelu a qiljas.
-izua a “林圯埔事件”(1912 a cavilj a sangacu a drusa a puluq kata tjelu a qadaw), “土庫事件” (1912 a cavilj a lukugacu) ka sinan ta總督timadju, sa pungadan a “鐵血總督”tjai Sakuma Samata, mavananga a tjaljacuay a 總督 i taiwan uta.
-qaw paleva tua pinatavatan timadju, sa remingedjilj ta “mula a 吉野村” （tucu a guan a吉安鄉）, “mula a 豐田村”(tucu a guan a 壽豐鄉a mula a 豐田村), “林田村”(tucu a 鳳林鎮南平里) timadju；remingedjilj ta pasusuan na zaljum itjaiteku(下水道) i taipi, sa masanliawliaw tua sengsengan nua 郵政kata電信事業；sa pavay a paysu ta taipi tua remingedjilj ta覺寺 （tucu a 十普寺）a 本堂.
-inia msananga ta 總督 i taiwan ti Sakuma Samata, kitevelj ta makaqeci a石門之役 ka 1874 a cavilj timadju, izuanga a tjaljapazangl ta makaqeci a太魯閣戰爭 ka 1914 a cavilj, kaizuan a remingedjilj ta 總部itjaiteku ta gadu a 石門山 timadju, sa masan tua malailaing nua madrusa a kurava a sividay timadju ta makaqeci.
+ka 1844 a cavilj a ziuicigacu kata tapuluq sa siva a qadaw(a []a tapuluq sa lima a cavilj a ziugacu kata tapuluq a qadaw), sinipualjak a Sakuma Samata i [](tucu a []), a djaljedjalj na []a[] timadju, sa kipaquzup a [] tjaimadaju katjaivirilj. 
+nu kitevelj ta sividay a [], sa kitulu ta [] tjai [].
+ka 1866 a cavilj(a[]a drusa a cavilj) i masanmusalj a makaqeci tua [], sa sinan tua malailaing na[]nua[] timadju, qaw makaqeciqeci i [].
+ka 1868 a cavilj(a[]a sepatj a cavilj) i makaqeci i[], vaik a sema ta [] tua makaqeci ti Sakuma Samata. 
+qaw nu remingedjilj ta sihu a[], kitevelj ta sividay na[] timadju, sa masan tua [] timadju ka 1872 a cavilj (a []a lima a cavilj) kata pinaljavak tua [].
+ka 1874 a cavilj(a[]a pitju a cavilj) a nigacu, namakaqecianga ta [], sa masan tua malailaing a[] nua [], kata vaik a sema ta taiwan tua kitevelj ta sineljavakan i sinvaudjan timadju. 
+masa siselapay aravac tua qinaljan a djaqaciljy nimadju tua makaqeci, qemeci ta sinvaudjan a mazngi ti aruqu kati aljak ti Sakuma Samata, sa pinaka ta “[]” tjaimadju.
+ka 1874 a cavilj(a[]a tapuluq a cavilj), masan tua malailain a masanemelj a sividay a [], sa kitevelj ta makaqeci na []. 
+ka 1881 a cavilj(a[]a tapuluq sa sepatj a cavilj) a nigacu, masan tua []kata malailaing nau[]timadju, sa sikalevan a [] tjaimadju nusicavilj.
+ka 1894 a cavilj(a[]a drusa a puluq kata pitju a cavilj) i makaqeci ta ripun kata chukuku, masan tua malailaing nua sividay a masanmusalj timadju, sa vaik a sema ta makaqeci tua []. 
+ka namakaqecianga i 1895 a cavilj (a[]a drusa a puluq kata alu a cavilj) a gugacu, masan ta [] na [] timadju, qaw sikalevan a []kata[] tjaimadju.
+namasananga ta []kata[] ti Sakuma Samata, sa masan tua []uta timadju ka 1898 a cavilj(a[]a tjelu a puluq kata ita a cavilj). 
+nu masananga ta [] na [] ka 1904 a cavilj(a[]a tjelu a puluq kata prtju a cavilj), sa pinaljavak a []kata sikalevan a [] tjaimadju. 
+qaw sinan tua [] ka 1907 a cavilj(a[]a sepatj a puluq a cavilj) tiamdju.
+ka ripunanan, nu ika pacecev a pairing ta ripun a sihu, sa kilailaing pakata kacalisiyan a sihu na ripun, kata penenetj tiamadju ta makaqeci ta kacaliyan. 
+masa namakaqeci ta qinaljan i sinvaudjan ti Sakuma Samata kasicuayan, sa mapenetj a sihu na ripun ta sinan ta[]timadju. 
+rupaqeci tua kacalisiyan ti Sakuma Samata nu sinan ta[]timadju. 
+azua a “[]”nimadju, avan a makaqeci ta tayaruzuku ivirilj, sa djapupen ta bunungzuku i navalj, maqati a matucu tua “[]”, a makaqeci uta tua kacalisiyan timadju avan a “[]”(pu tayday kata unem(160[])). 
+sa ika kisekaulj ta []timalju ka kilailaing anga pakata kacalisiyan, qaw macayanga i pitju a puluq a cavilj timadju pakavirilj a tjelu a qiljas.
+izua a “[]”(1912 a cavilj a sangacu a drusa a puluq kata tjelu a qadaw), “[]” (1912 a cavilj a lukugacu) ka sinan ta[]timadju, sa pungadan a “[]”tjai Sakuma Samata, mavananga a tjaljacuay a [] i taiwan uta.
+qaw paleva tua pinatavatan timadju, sa remingedjilj ta “mula a []” (tucu a guan a[]), “mula a []”(tucu a guan a []a mula a []), “[]”(tucu a []) timadju; 
+remingedjilj ta pasusuan na zaljum itjaiteku i taipi, sa masanliawliaw tua sengsengan nua []kata[]; 
+sa pavay a paysu ta taipi tua remingedjilj ta[] (tucu a []) a [].
+inia msananga ta [] i taiwan ti Sakuma Samata, kitevelj ta makaqeci a[] ka 1874 a cavilj timadju, izuanga a tjaljapazangl ta makaqeci a[] ka 1914 a cavilj, kaizuan a remingedjilj ta []itjaiteku ta gadu a [] timadju, sa masan tua malailaing nua madrusa a kurava a sividay timadju ta makaqeci.
 aza a tjaicikel a namacay nua matjani ta dangadangas.
-ka 1914 a cavilj(a明治a tjelu a cavilj) a lukugacu a drusa a puluq kata lima a qadavan, kilaing ta liaw a sividay na 日本陸軍kata kinsac ti Sakuma Samata a pitju a puluq a cavilj timadju, sa makaqeci tua qinaljan nua tarukuzuku. sa pinaqeci tjiamadju i Siraoka, qaw matjani ta paljaljavak, avan a tjaqaca a tjelu a maru tadjekuacan taizua. masa saqetjuqetju ti Sakuma Samata, sa pavaiken ta taipi a kemasi a 埔里, qaw mangetjez ta ripun timadju, namacay i 仙台 ka 1915 a cavilj(a大正a sepatj a cavilj). naqivu nua zuma ta azua ti Sakuma Samata a macayanga i taiwan kaizuan, qaw pavaiken timadju tua ripun sa pasamalaw tua zuma. izua a Sakuma Samata i varung na ripun a caucau kata 天皇, saigu a kilailaing ta masengseng na kacalisiyan timadju, a 理番五年計劃 nimadju a sinanpazangal na 國會kata 日皇, nu pasemalaw a pinaqeci tjai Sakuma Samata na kacalisiyan, masa uri maqaluvu a cauacau nua ripun kata pinadjeli nua gaikuku, sa masan tua zinaqaw taizua. ljawa inika pinakeljang nimanima.
-izua ti古宏希盼 nua sezikezuku a maljavaljavar tua ramaljeng a matayday kata alu a caucau(a kemasi pitju a puluq kata lima cavilj ta alu a puluq kata siva a cavilj)i tjelu a guan a 花蓮秀林, 萬榮, 卓溪ka 2001 ta 2003 a cavilj, sa naqivu tia ramaljang:
-nu makaqeci ta sezikezuku a sividay na ripun, kemeljanga a taqaljaqaljan tua inia maqati a paqaci ta ripun, sa mavilad tiamadju. ljawa nu mangtjez ta Siraoka a sividay na ripun, izua a taqaljaqaljan a kiqilja imaza tua paqeci ta sividay na ripun. ka kadjamadjaman i 大正a tjelu a cavilj a hacigacu, qaluin na caucau ti Sakuma Samata tua cemuljev, qaw nu mangtjez ta ljezaya na Muhakaw a itjaivirilj ta Siraoka, pinaqeci sa matjani ta paljaljavak, avan a tjaqaca a tjelu a maru tadjekuacan taizua. saqetjuqetju ti Sakuma Samata, sa maqeljing timadju ta sividay na ripun, kata kemuang tiamadju tjaidudut. saka, masaliawliaw azua a kinuangan izua, a cinepeljut a cemel, nekanga a vuyu kata qatjuvitjuvi.ika cuayanga, pusaladj tia sividay na ripun, sa kemikim tiamdju idudut. ljawa kineljanganga a taqaljaqaljan ta katjunangan imaza, sa maviladanga tiamadju. nu masulem anga, maljekuya kata pacasikel a sividay na ripun.
-ljawa inika kilaing ta sividay ti Sakuma Samata ka 大正a tjelu a cavilj a lukugacu a drusa a puluq kata lima a qadavan, izua i司令部 i Selaokahuni( tucu a 秀林鄉西拉歐卡na kalinku, avan a takuzulj sa sepatj a iday kata tapuluq a maru tadjekuacan a kinavavavan kemasi tua ljavek)timadju.
-nu kemanga ta kenamain timadju, sa kacuin a 師井百合一 kata zuma tua cemuljev ti Sakuma Samata tua vaquan a djalan nu pitju a milingan, sa inika makarigi timadju tuki qaluin na caucau tjiamadju. saka, nu pacunanga ta siasing naizua a dangadangas, kemeljanganga a abunay aravac ta vaik a sema tazua a caucau. sa saqetjuqetju ti Sakuma Samata idudut ta dangadangas itjaiqaca ta tjelu a iday kata tjelu a puluq a maru tadjekuacan ta 司令部帳營. nu matjani a 總督, inika kemeljang timadju kata qineluz tjaimadju nua kasiw, aya ti 塚田巡查, sa paqivu ta 司令部 kaizuanan. masa paseqeljing ta Sakuma Samata ti 師井警部補, sa mamau timadju. nu maqeljinganga tiamadju, sa semekez tiamadju kata pavay ta 營地. qaw semekesekez ti Sakuma Samata itjaizua i pana patje hacigacu a tapuluq kata tjelu a qadavan. ljawa paljavakanan ta sividay ti Sakuma Samata tua makaqeci ta kacalisiyan nu lukugacu kata drusa a puluq kata siva a qadavan, sa kaljava tua rinangez na siva a qinaljan timadju patje hacigacu a tapuluq a qadavan i Toboko(トボコ, tucu a qinaljan nua kalinku a 秀林). mangetjez ta taipi tiamadju ka hacigacu a tapuluq kata siva a qadavan i nakincengelj i sepatj a malingan kata lima a puluq kata unem pung.
-ka kugacu a tapuluq kata siva a qadavan, mangetjez ta ripun timadju, sa naqivu ta 天皇 tua patjara makaqeci ta karukuzuku, kata pucemecemel. ka ziunigacu a alu a qadavan, mangetjezanga ta taiwan, sa mecevung ta matatday sa sepatj a puluq kata tjelu a caucau na karukuzuku timadju i taipi (izuanga a kacalisiyan a masepatj a puluq kata unem a caucau). sa, masuvarung timadju tua sinikivalit ta sengsengan ka lukugacu a ita a qadavan, qaw namacyanga ka 大正a sepatj a cavilj(1915 a cavilj) a hacigacu a lima a qadavan.
-nalemangeda ta macayanga ti Sakuma Samata kaizuanan, ljawa zemaqav taizua a sihu na ripun, mavananga a pasaliw. masa a tjaljapazangal a malailaing na sinipaljavak timadju, sa pazangalan ta masengseng nimadju, kata patjara a masengseng ta makaqeci, qaw macayanga timadju. zinaqav na sihu a ripun taizua patje tacavilj, ljawa izuanga a sengsengan na kacalisiyan i taiwan, qaw izua a namacayanga a kinacavacavan na caucau kasicayananga a kemasi gaduan sa ika cemevelj. saka, inika pakeljang ta zuma, ika maqatianga.
-sa, izua a vinecikan i 《佐久間總督カラパウ討伐軍記錄寫真集》, kata a katjunangan ta saqetjuqetju timadju, a siasing nimatju iviriljanga a saqetju timatju.
-nalemangeda ta saqetju ti Sakuma Samata anga, izua a vinecikan i《臺灣日日新報》tuqadavan, sa sinasa timadju na天皇kata zuma. napacunuta ta vinecikan a 公文類纂 na 臺灣總督府, izua a vinecik na Sakuma Samata, sa nu vaikanga timadju, izua a venecik ta “vaikanga”`; sa uri pinaljavak ta zuma nimadju, izua a venecik ta”paljavak ta nimanima”；nu izua a sasusuan nimadju, sa uri venecik ta ngadan nimadju tuki hang taizua. ruvenecik ta hang timadju.
-qaw izuanan a vinecikan na Sakuma Samata ka大正a sepatj a cavilj(1915 a cavilj) a nigacu a alu a qadavan, sa paljavak ta 田川辰一 a sinan ta malailaing na 臺灣公立中學(tucu a 臺中一中). ljawa, kemeljanganga ta macayanga ti Sakuma Samata nu saqetju timadju tacaviljanga, mavan a pitju a puluq a cavilj timadju.
-sa ivirilj taicu a pacugan, mapavalit ta lalaingan tua semanrasudjan a 臺灣總督府, sa papungadan a katjunangan nua karukuzuku ta “研海事業區”(aicu a “研海”mavan a ngadan ni Sakuma Samata uta).
+ka 1914 a cavilj(a[]a tjelu a cavilj) a lukugacu a drusa a puluq kata lima a qadavan, kilaing ta liaw a sividay na []kata kinsac ti Sakuma Samata a pitju a puluq a cavilj timadju, sa makaqeci tua qinaljan nua tarukuzuku. 
+sa pinaqeci tjiamadju i Siraoka, qaw matjani ta paljaljavak, avan a tjaqaca a tjelu a maru tadjekuacan taizua. 
+masa saqetjuqetju ti Sakuma Samata, sa pavaiken ta taipi a kemasi a [], qaw mangetjez ta ripun timadju, namacay i [] ka 1915 a cavilj(a[]a sepatj a cavilj). 
+naqivu nua zuma ta azua ti Sakuma Samata a macayanga i taiwan kaizuan, qaw pavaiken timadju tua ripun sa pasamalaw tua zuma. 
+izua a Sakuma Samata i varung na ripun a caucau kata [], saigu a kilailaing ta masengseng na kacalisiyan timadju, a [] nimadju a sinanpazangal na []kata [], nu pasemalaw a pinaqeci tjai Sakuma Samata na kacalisiyan, masa uri maqaluvu a cauacau nua ripun kata pinadjeli nua gaikuku, sa masan tua zinaqaw taizua. 
+ljawa inika pinakeljang nimanima.
+izua ti[] nua sezikezuku a maljavaljavar tua ramaljeng a matayday kata alu a caucau(a kemasi pitju a puluq kata lima cavilj ta alu a puluq kata siva a cavilj)i tjelu a guan a []ka 2001 ta 2003 a cavilj, sa naqivu tia ramaljang: nu makaqeci ta sezikezuku a sividay na ripun, kemeljanga a taqaljaqaljan tua inia maqati a paqaci ta ripun, sa mavilad tiamadju. 
+ljawa nu mangtjez ta Siraoka a sividay na ripun, izua a taqaljaqaljan a kiqilja imaza tua paqeci ta sividay na ripun. 
+ka kadjamadjaman i []a tjelu a cavilj a hacigacu, qaluin na caucau ti Sakuma Samata tua cemuljev, qaw nu mangtjez ta ljezaya na Muhakaw a itjaivirilj ta Siraoka, pinaqeci sa matjani ta paljaljavak, avan a tjaqaca a tjelu a maru tadjekuacan taizua. 
+saqetjuqetju ti Sakuma Samata, sa maqeljing timadju ta sividay na ripun, kata kemuang tiamadju tjaidudut. 
+saka, masaliawliaw azua a kinuangan izua, a cinepeljut a cemel, nekanga a vuyu kata qatjuvitjuvi.
+ika cuayanga, pusaladj tia sividay na ripun, sa kemikim tiamdju idudut. 
+ljawa kineljanganga a taqaljaqaljan ta katjunangan imaza, sa maviladanga tiamadju. 
+nu masulem anga, maljekuya kata pacasikel a sividay na ripun.
+ljawa inika kilaing ta sividay ti Sakuma Samata ka []a tjelu a cavilj a lukugacu a drusa a puluq kata lima a qadavan, izua i[] i Selaokahuni( tucu a []na kalinku, avan a takuzulj sa sepatj a iday kata tapuluq a maru tadjekuacan a kinavavavan kemasi tua ljavek)timadju.
+nu kemanga ta kenamain timadju, sa kacuin a [] kata zuma tua cemuljev ti Sakuma Samata tua vaquan a djalan nu pitju a milingan, sa inika makarigi timadju tuki qaluin na caucau tjiamadju. 
+saka, nu pacunanga ta siasing naizua a dangadangas, kemeljanganga a abunay aravac ta vaik a sema tazua a caucau. 
+sa saqetjuqetju ti Sakuma Samata idudut ta dangadangas itjaiqaca ta tjelu a iday kata tjelu a puluq a maru tadjekuacan ta []. 
+nu matjani a [], inika kemeljang timadju kata qineluz tjaimadju nua kasiw, aya ti [], sa paqivu ta [] kaizuanan. 
+masa paseqeljing ta Sakuma Samata ti [], sa mamau timadju. 
+nu maqeljinganga tiamadju, sa semekez tiamadju kata pavay ta []. 
+qaw semekesekez ti Sakuma Samata itjaizua i pana patje hacigacu a tapuluq kata tjelu a qadavan. 
+ljawa paljavakanan ta sividay ti Sakuma Samata tua makaqeci ta kacalisiyan nu lukugacu kata drusa a puluq kata siva a qadavan, sa kaljava tua rinangez na siva a qinaljan timadju patje hacigacu a tapuluq a qadavan i Toboko([], tucu a qinaljan nua kalinku a []). 
+mangetjez ta taipi tiamadju ka hacigacu a tapuluq kata siva a qadavan i nakincengelj i sepatj a malingan kata lima a puluq kata unem pung.
+ka kugacu a tapuluq kata siva a qadavan, mangetjez ta ripun timadju, sa naqivu ta [] tua patjara makaqeci ta karukuzuku, kata pucemecemel. 
+ka ziunigacu a alu a qadavan, mangetjezanga ta taiwan, sa mecevung ta matatday sa sepatj a puluq kata tjelu a caucau na karukuzuku timadju i taipi (izuanga a kacalisiyan a masepatj a puluq kata unem a caucau). 
+sa, masuvarung timadju tua sinikivalit ta sengsengan ka lukugacu a ita a qadavan, qaw namacyanga ka []a sepatj a cavilj(1915 a cavilj) a hacigacu a lima a qadavan.
+nalemangeda ta macayanga ti Sakuma Samata kaizuanan, ljawa zemaqav taizua a sihu na ripun, mavananga a pasaliw. 
+masa a tjaljapazangal a malailaing na sinipaljavak timadju, sa pazangalan ta masengseng nimadju, kata patjara a masengseng ta makaqeci, qaw macayanga timadju. 
+zinaqav na sihu a ripun taizua patje tacavilj, ljawa izuanga a sengsengan na kacalisiyan i taiwan, qaw izua a namacayanga a kinacavacavan na caucau kasicayananga a kemasi gaduan sa ika cemevelj. 
+saka, inika pakeljang ta zuma, ika maqatianga.
+sa, izua a vinecikan i [], kata a katjunangan ta saqetjuqetju timadju, a siasing nimatju iviriljanga a saqetju timatju.
+nalemangeda ta saqetju ti Sakuma Samata anga, izua a vinecikan i[]tuqadavan, sa sinasa timadju na[]kata zuma. 
+napacunuta ta vinecikan a [] na [], izua a vinecik na Sakuma Samata, sa nu vaikanga timadju, izua a venecik ta “vaikanga”`; 
+sa uri pinaljavak ta zuma nimadju, izua a venecik ta”paljavak ta nimanima”；nu izua a sasusuan nimadju, sa uri venecik ta ngadan nimadju tuki hang taizua. 
+ruvenecik ta hang timadju.
+qaw izuanan a vinecikan na Sakuma Samata ka[]a sepatj a cavilj(1915 a cavilj) a nigacu a alu a qadavan, sa paljavak ta [] a sinan ta malailaing na [](tucu a []). 
+ljawa, kemeljanganga ta macayanga ti Sakuma Samata nu saqetju timadju tacaviljanga, mavan a pitju a puluq a cavilj timadju.
+sa ivirilj taicu a pacugan, mapavalit ta lalaingan tua semanrasudjan a [], sa papungadan a katjunangan nua karukuzuku ta “[]”(aicu a “[]”mavan a ngadan ni Sakuma Samata uta).
 klailaing ta nemanga.
 izua a tjaljapazangal a sengsengan na Sakuma Samata i taiwan:
-1.     namaumalj ta sasusuan nua malailaing na sihu
-2.     pinavay ta 彩票
-3.     remingedjilj ta vaquan a tapavan na 總督府
-4.     masengseng patjara kacalisiyan
-5.     remingedjilj ta 港i 基隆
-6.     remingedjilj ta 港i akaw
-7.     masengseng ta cemecemel nau 阿里山
-8.     paljavak ta zaljum, sa ljemenguaq ta pana
-9.     sengsengan ta pinatavatan
-10. masengseng ta zaljum: remingedjilj ta 圳
-11. remingedjilj ta kinkiusiu(研究所)
+1. namaumalj ta sasusuan nua malailaing na sihu
+2. pinavay ta []
+3. remingedjilj ta vaquan a tapavan na []
+4. masengseng patjara kacalisiyan
+5. remingedjilj ta []i []
+6. remingedjilj ta []i akaw
+7. masengseng ta cemecemel nau []
+8. paljavak ta zaljum, sa ljemenguaq ta pana
+9. sengsengan ta pinatavatan
+10. masengseng ta zaljum: remingedjilj ta []
+11. remingedjilj ta kinkiusiu
 tjaucikel.
-“享於克誠”, masanitalj a 總督 na taiwan ti Sakuma Samata a sema ta kivala ta biu a 北港朝天宮, sa pinaka “享於克誠”taizua ka 1913 a cavilj(a大正a drusa a cavilj) a sangacu.
-biu a 佐久間, izuazua a biu i 花蓮港廳花蓮郡 na taiwan ka ripuanan, avan a 無格社. riningedjlj taicu a biu na sihu a ripun ka 1923 a cavilj(a大正a tapuluq kata drusa a cavilj), sa kakipaqenetjan ta makaqeci ta karukuzuku, penalisi tua 大己貴命kati a masanlimalj a總督 na taiwan ti Sakuma Samata. izua i tuca a 天祥 i 太魯閣國家公園, ljawa nu remingedjlj ta djalan a 中橫公路 ka 1960 a cavilj, sa remingedjljuta ta銅像na 文天祥kata papungadan ta “文天祥公園”taizua.
-“研海庄”, aicu a ngadan ni Sakuma Samata a sinan ta pangaljan nua kaizuanan, avan a tucu a新城鄉 i kalinku.
-gadu a佐久間山, aicu a ngadan ni Sakuma Samata a sinan taicu a gadu, avan a tucu a秀林鄉 i kalinku.
-
+“[]”, masanitalj a [] na taiwan ti Sakuma Samata a sema ta kivala ta biu a [], sa pinaka “[]”taizua ka 1913 a cavilj(a[]a drusa a cavilj) a sangacu.
+biu a [], izuazua a biu i [] na taiwan ka ripuanan, avan a []. 
+riningedjlj taicu a biu na sihu a ripun ka 1923 a cavilj(a[]a tapuluq kata drusa a cavilj), sa kakipaqenetjan ta makaqeci ta karukuzuku, penalisi tua []kati a masanlimalj a[] na taiwan ti Sakuma Samata. 
+izua i tuca a [] i [], ljawa nu remingedjlj ta djalan a [] ka 1960 a cavilj, sa remingedjljuta ta[]na []kata papungadan ta “[]”taizua.
+“[]”, aicu a ngadan ni Sakuma Samata a sinan ta pangaljan nua kaizuanan, avan a tucu a[] i kalinku.
+gadu a[], aicu a ngadan ni Sakuma Samata a sinan taicu a gadu, avan a tucu a[] i kalinku.
 Tjimur:
-sancigu（三地門鄉）
-a i sancigu i maza i taiwan i 'akaw saka tjaljavirivirian. a tjaikaviri tua sesancigu mavan aicu a setakaw a 茂林區, 六龜區, a i tjaikacedas sebudaygu, a i tjaikaledep payrang a se高樹鄉, se塩埔鄉, a i tjainavalj izua a 內埔鄉 katua semakagu. a pinaljavakan a kadjunangan a penuljat izua 196平方公里 a pasatalji'aca, sikamasantjelulj tua kinatalji'acan a gu i 'akaw, (pasuvililj ta i sisigu katua budaygu); a cawcau izua, izua a pitju a kuzulj katu pitju a iday a pasaliav, tjaljatjuruvuan a cawcau i tua makakacalisian a gu. aicu a i sancigu a kinaizuanan i tua gadu katua kazatazatan a cinevungan, azua a namatazua a kadjunangan pinaka"丘陵地" aya a 'ivu, a vavavan nua kadjunangan izua a 100~2159 a pasavavav. izua a pana a nacemalivat i tua kadjunangan, azua a kina'adavan namasan熱帶季風 a kina'adavan. a sikata'aljan izua a ravar, izua a vuculj, izua uta a mavekelj a drekay a setaljamakaw, i maza i , ka i situcutucuan a cavilj masankakivangavangananga, saka sipaseljavak tua 茂林國家風景區. 
-likisi (歷史).
-aicu a sancigu(三地門鄉), kinasi tua kinacalisianan a "timur" aya, azua a namalivu a semamaza a payrang, semusu tua ljingav a si'aivuan tua 山豬毛 katua山地門 aya, patjetucu aicu a payrang "Suann-tē-mn̂g" aya sakamaya. ka i 1935 a cavilj, aicu a i timur, taravacalj, salalaw pasekawmaljen nua ripung a pasamaza i tjailalauz tua i katimuran, sa sikulet tua kinakemudan nua 'inaljan, marumavan a 棋盤. 
-ka ljawtianga a djemadjas tua i taiwan, umaljen nua kicapicapilj a i tjaivavav a takaw州 'akav郡 a " 三地盟" aya, ka 1947 a cavilj umaljen uta a "sancigu" aya. ka 1950 a cavilj patjawmalj tu 'akaw king" a kicapilj, pay ka 1992 a caviljan alu a 'iljasan 
-inumalj uta a ngadan, tua inumaljan a ngadan a kemasizua a patjetucu iniangaka inumalj.
+sancigu
+a i sancigu i maza i taiwan i 'akaw saka tjaljavirivirian. 
+a tjaikaviri tua sesancigu mavan aicu a setakaw a [], [], a i tjaikacedas sebudaygu, a i tjaikaledep payrang a se[], se[], a i tjainavalj izua a [] katua semakagu. 
+a pinaljavakan a kadjunangan a penuljat izua 196[] a pasatalji'aca, sikamasantjelulj tua kinatalji'acan a gu i 'akaw, (pasuvililj ta i sisigu katua budaygu); 
+a cawcau izua, izua a pitju a kuzulj katu pitju a iday a pasaliav, tjaljatjuruvuan a cawcau i tua makakacalisian a gu. 
+aicu a i sancigu a kinaizuanan i tua gadu katua kazatazatan a cinevungan, azua a namatazua a kadjunangan pinaka"[]" aya a 'ivu, a vavavan nua kadjunangan izua a 100~2159 a pasavavav. 
+izua a pana a nacemalivat i tua kadjunangan, azua a kina'adavan namasan[] a kina'adavan. 
+a sikata'aljan izua a ravar, izua a vuculj, izua uta a mavekelj a drekay a setaljamakaw, i maza i, ka i situcutucuan a cavilj masankakivangavangananga, saka sipaseljavak tua [].
+likisi.
+aicu a sancigu[], kinasi tua kinacalisianan a "timur" aya, azua a namalivu a semamaza a payrang, semusu tua ljingav a si'aivuan tua [] katua[] aya, patjetucu aicu a payrang "Suann-tē-mn̂g" aya sakamaya. 
+ka i 1935 a cavilj, aicu a i timur, taravacalj, salalaw pasekawmaljen nua ripung a pasamaza i tjailalauz tua i katimuran, sa sikulet tua kinakemudan nua 'inaljan, marumavan a []. 
+ka ljawtianga a djemadjas tua i taiwan, umaljen nua kicapicapilj a i tjaivavav a takaw[] 'akav[] a "[]" aya, ka 1947 a cavilj umaljen uta a "sancigu" aya. 
+ka 1950 a cavilj patjawmalj tu 'akaw king" a kicapilj, pay ka 1992 a caviljan alu a 'iljasan inumalj uta a ngadan, tua inumaljan a ngadan a kemasizua a patjetucu iniangaka inumalj.
 paljavak tua kadjunangan.
-matja 10 a 'inaljan i Sancigu. matja 12 a 'inaljan i maza, timur（三地部落）, tjavatjavang（達來部落）napaljavak tua i djaljadjaljay, ka 1989 a cavilj sekawmalj a tjaljutjavatjavang a patjetucu, ka 2010 a cavilj secevung tua 八八 a zinaljuman, izua a mavekelj a nasekawmalj a semasanariaw(長治百合園區), pay azua a kadjunangan umaljen a kemasi長治鄉榮華村 pasansancigu a tjavatjavang a 'inaljan. valjulu（馬兒部落）, paridrayan（大社部落）, ka 2010 a cavilj ta vinaliyan nasecevung tua 88 a zaljuman saka sekawmalj a semarinarir, saka azua a kinazuanan tucu a kadjunangan umaljen uta a kemasimakagu masilid 'inaljan a masansancigu a paridrayan. sagaran（口社部落）, talamakaw（青葉部落）, cavak（青山部落）, djineljepan（安坡部落）, tjailjaking（賽嘉部落）, aicu a i tjukuvulj(德文村) a pinaljavakan, izua a tjusepaywan(北巴部落), kingdalruwane（金大露安部落）, ka secevung tua 八八 a zinaljuman, izua a sikata'aljan a sekawmalj a semasanariaw(長治百合園區), pay umaljen a kadjunangan a kemasitua長治鄉榮華村 a masansancigu a tjukuvulj. 
-sipacacikel(交通).
+matja 10 a 'inaljan i Sancigu. 
+matja 12 a 'inaljan i maza, timur, tjavatjavang napaljavak tua i djaljadjaljay, ka 1989 a cavilj sekawmalj a tjaljutjavatjavang a patjetucu, ka 2010 a cavilj secevung tua [] a zinaljuman, izua a mavekelj a nasekawmalj a semasanariaw, pay azua a kadjunangan umaljen a kemasi[] pasansancigu a tjavatjavang a 'inaljan. 
+valjulu, paridrayan, ka 2010 a cavilj ta vinaliyan nasecevung tua 88 a zaljuman saka sekawmalj a semarinarir, saka azua a kinazuanan tucu a kadjunangan umaljen uta a kemasimakagu masilid 'inaljan a masansancigu a paridrayan. 
+sagaran, talamakaw, cavak, djineljepan, tjailjaking, aicu a i tjukuvulj a pinaljavakan, izua a tjusepaywan, kingdalruwane, ka secevung tua [] a zinaljuman, izua a sikata'aljan a sekawmalj a semasanariaw, pay umaljen a kadjunangan a kemasitua[] a masansancigu a tjukuvulj. 
+sipacacikel.
 palidring a djalan.
-<br> sikamasan 185 a palidring a djalan nua i qakaw
-<br> sikamasan pitjulj a palidring a djalan nua i pingtung
-<br> sikamasan 29 a palidring a djalan nua i pingtung
-<br> sikamasan 31 a palidring a djalan nua i pingtung
-
 Shitan:
-Shitan（獅潭鄉）
-Shitan gu icuwa i Miaoli. ala atjunangn mapuljat 79.39 km² (ma’linpan atjunang 10.36 km², ma’linaule atjunang 2.57 km²). ala caucau mapuljat 387 caucau, ala daceneqlan mapuljat 156 a daceneqlan, Saysiyat (32%) a maqcuwa caucau. paiwan a maqcuwa caucau. 
-a i vecekadan tua miauli king a shitangu. pasazaya tua samangu (samˊ vanˊ hiongˊ) a shitangu. pasakacedas a viri tua pinSa'o:ol; pasakacedas a navalj tua taian.
+Shitan
+Shitan gu icuwa i Miaoli. 
+ala atjunangn mapuljat 79.39 km² (ma’linpan atjunang 10.36 km², ma’linaule atjunang 2.57 km²). 
+ala caucau mapuljat 387 caucau, ala daceneqlan mapuljat 156 a daceneqlan, Saysiyat (32%) a maqcuwa caucau. 
+paiwan a maqcuwa caucau. 
+a i vecekadan tua miauli king a shitangu. 
+pasazaya tua samangu (sam van hiong) a shitangu. 
+pasakacedas a viri tua pinSa'o:ol; pasakacedas a navalj tua taian.
 kaljaqudjaljan a kadjunangan imaza a kemasi ta qiljasan a lima a patje qiljasan a siva.
 paljavak tua atjunang.
-matja 7 qinaljan i Shitan. matja 1 qinaljan imaza, Sawi（百壽部落）.
+matja 7 qinaljan i Shitan. 
+matja 1 qinaljan imaza, Sawi.
 cinalivatan.
-kasicuayan a kaizuanan nia kacalisian imaza. qadjav a cavilj a 1900, djemaljun a ngaingai a papupaday imaza. tjaivililj, izuazua a ngaingai kata pairang uta imaza.
-izua milimilingan ta gadu a pasakaviri. pinapacunan a gadu azua a matu shize aya. shize aicu a anemanema qaca a qemuzimuzip se ciukuk. kinemenem a caucau imaza ta gadu kata puzaljuman tjaizua a kinazuganan nu vaik aicu a shize a kizaljum i puzaljuman. mavan shize a shitan aya imaza.
+kasicuayan a kaizuanan nia kacalisian imaza. 
+qadjav a cavilj a 1900, djemaljun a ngaingai a papupaday imaza. 
+tjaivililj, izuazua a ngaingai kata pairang uta imaza.
+izua milimilingan ta gadu a pasakaviri. 
+pinapacunan a gadu azua a matu shize aya. 
+shize aicu a anemanema qaca a qemuzimuzip se ciukuk. 
+kinemenem a caucau imaza ta gadu kata puzaljuman tjaizua a kinazuganan nu vaik aicu a shize a kizaljum i puzaljuman. 
+mavan shize a shitan aya imaza.
 kadjunangan.
 a i vecekad aicu a shitan gu i tua miauli king.
 caucau.
 izua 93.6% a caucau a tjatjuruvu imaza i shitan gu.
 papupaysu.
 tataleman.
-kasicuayan, pazangal a temalem ta paday kata ucia imaza. malialiaw a paday a tjaivililj, mavan putjavuvuk imaza.
+kasicuayan, pazangal a temalem ta paday kata ucia imaza. 
+malialiaw a paday a tjaivililj, mavan putjavuvuk imaza.
 tatuluan.
-izua tjelu a kedrikedri a gakku imaza i shitan gu. neka daigakku imaza.
+izua tjelu a kedrikedri a gakku imaza i shitan gu. 
+neka daigakku imaza.
 iyubingkiuku (yuzeng).
 sasupuan na iyubingkiuku.
 354 a sasupuan na iyubingkiku se sawi' (shitan gu).
@@ -2203,40 +2425,64 @@ djalan na kasicuayan.
 izua liaw a djalan na kasicuayan imaza i shitan.
 shitan a lizuk.
 shitan a lizuk aicu a tjaizua a papatjezuan na sikamasantjelulj a palidring a djalan na taiwan kata sikamasan 124 a palidring a djalan na miaoli king.
-
 Shizi:
-shizi guan (pinaywanan: sisigu) imaza i pasanavalj tua akaw king. i viri nakidjekec tua kasugagu, a i kacedas nakidjekec tua daren, a i keledep nakidjekec tua vangsan, a i pasakaledep a navalj mavananga a i cecen, au i navalj nakidjekec tua sinvaudjan. a tjaljaqacavan a qinaljan i taiwan. ka 1875 a cavilj, izua “sisigu livulivu” imaza.
-aicu guan sedjelj i vuljavuljau a kadjunangan, avan nu a gadugaduan i vecekadan tua taiwan. avan nusekuya sana kauvu a kinakadjunangan, tjaliaw a gadu izua, keri a kazatjan. pakata pana seqaljudj pasa maza izua djanau pana kata vangsan pana, imaza a kalevelevan semezan tu kemaledeledev. ljemita a cavilj i kaljaljaljeqelan kata i kaljazalazangan izua pazangal a pakaigadu a ljiuk pasamaza. aza sikataqaljan sedjelj a paiwan zuku.
+shizi guan (pinaywanan: sisigu) imaza i pasanavalj tua akaw king. 
+i viri nakidjekec tua kasugagu, a i kacedas nakidjekec tua daren, a i keledep nakidjekec tua vangsan, a i pasakaledep a navalj mavananga a i cecen, au i navalj nakidjekec tua sinvaudjan. 
+a tjaljaqacavan a qinaljan i taiwan. 
+ka 1875 a cavilj, izua “sisigu livulivu” imaza.
+aicu guan sedjelj i vuljavuljau a kadjunangan, avan nu a gadugaduan i vecekadan tua taiwan. 
+avan nusekuya sana kauvu a kinakadjunangan, tjaliaw a gadu izua, keri a kazatjan. 
+pakata pana seqaljudj pasa maza izua djanau pana kata vangsan pana, imaza a kalevelevan semezan tu kemaledeledev. 
+ljemita a cavilj i kaljaljaljeqelan kata i kaljazalazangan izua pazangal a pakaigadu a ljiuk pasamaza. 
+aza sikataqaljan sedjelj a paiwan zuku.
 cinalivatan.
-sisigu avan ca sincen a kadjunangan pasusu ta taiwan sihu a kakudan, au sedjelj aza tjakuvukuvulj kata sapediq sicuayan a kadjunangan tauta. pakata ti tjaivuvu imaza a qivu ta izua tjaqacavan a qaciljay, aza ridiu matu a likuljaw a qulu. saka sipungdan ta “sisigu a gadu”, au siqivu ta “sisigu qinaljan” tauta. ka ripun a djiday, aicu kacalisian a kadjunangan sedjelj i takaw zu(州) cawzudjin(潮州郡), lemindjelj ta gimen i mareka qinaljan, kanri ta sincen, kicaquwan kata suljivatjan a sengsengan. katjasangas ta kumin sihu djemadjas i taihuku, lemingdjlj ta gukusiu, au sipungadan ta “shizi guan”, sipavecik patakaw king sa kanrivi, ka 1950 a cavilj pavalitan ta paakaw king sa kanrivi patjeljatucu.  
+sisigu avan ca sincen a kadjunangan pasusu ta taiwan sihu a kakudan, au sedjelj aza tjakuvukuvulj kata sapediq sicuayan a kadjunangan tauta. 
+pakata ti tjaivuvu imaza a qivu ta izua tjaqacavan a qaciljay, aza ridiu matu a likuljaw a qulu. 
+saka sipungdan ta “sisigu a gadu”, au siqivu ta “sisigu qinaljan” tauta. 
+ka ripun a djiday, aicu kacalisian a kadjunangan sedjelj i takaw zu cawzudjin, lemindjelj ta gimen i mareka qinaljan, kanri ta sincen, kicaquwan kata suljivatjan a sengsengan. 
+katjasangas ta kumin sihu djemadjas i taihuku, lemingdjlj ta gukusiu, au sipungadan ta “shizi guan”, sipavecik patakaw king sa kanrivi, ka 1950 a cavilj pavalitan ta paakaw king sa kanrivi patjeljatucu.  
 paljavak tua kadjunangan.
-izua alu mula, puluq sa lima a qinaljan i sisigu. au aza sincen vecekadan nua sisigu imaza i kaidi. 
-
+izua alu mula, puluq sa lima a qinaljan i sisigu. 
+au aza sincen vecekadan nua sisigu imaza i kaidi. 
 Shoufeng:
-Shoufeng（壽豐鄉）
-Shoufeng gu icuwa i Hualien. ala atjunangn mapuljat 206.4 km² (ma’linpan atjunang 27.53 km², ma’linaule atjunang 19.03 km²). ala caucau mapuljat 17,884 caucau, ala daceneqlan mapuljat 6,803 a daceneqlan, Amis (32%) a maqcuwa caucau. 
+Shoufeng
+Shoufeng gu icuwa i Hualien. 
+ala atjunangn mapuljat 206.4 km² (ma’linpan atjunang 27.53 km², ma’linaule atjunang 19.03 km²). 
+ala caucau mapuljat 17,884 caucau, ala daceneqlan mapuljat 6,803 a daceneqlan, Amis (32%) a maqcuwa caucau. 
 paiwan a maqcuwa caucau. 
-sinipaljavakan taicu a rinahem(siayaya a shiu+ fungˋ hiongˋ na kinakaian a nginaingaian; siayaya a alupalan na kinakaian na sakizaya) a shoufeng gu. a i pasakacedas a vecekadan aicu a pinaljavakan a shoufeng gu i tu kalinku na taiwan. a i tjaikacedas izua ljavek. a i pasanavalj ta marlimu katua fakong. a i pasaviri ta cikasuan(ji'an gu). a i pasakaledep a navalj ta malibasi(wanrung gu).
-shoufeng(’inamizukan: Rinahem；kai na sakizayazuku: Alupalan；kai na客家語海陸腔：shiu+ fungˋ hiongˋ）i pasakacedas a vecekad tua kalingku tua taiwan, a i tjaiviri tua ji’an, a i tjaikacedas mavan a taipingyan, a i tjaikaledep mavananga a xiulin, a i pasakaledep a navalj mavananga a i wanrung, a i pasanavalj izua a sefenling, sefengbin.
+sinipaljavakan taicu a rinahem(siayaya a shiu fung hiong na kinakaian a nginaingaian; siayaya a alupalan na kinakaian na sakizaya) a shoufeng gu. 
+a i pasakacedas a vecekadan aicu a pinaljavakan a shoufeng gu i tu kalinku na taiwan. 
+a i tjaikacedas izua ljavek. 
+a i pasanavalj ta marlimu katua fakong. 
+a i pasaviri ta cikasuan(ji'an gu). 
+a i pasakaledep a navalj ta malibasi(wanrung gu).
+shoufeng (’inamizukan: Rinahem; kai na sakizayazuku: Alupalan; kai na[]: shiu fung hiong) i pasakacedas a vecekad tua kalingku tua taiwan, a i tjaiviri tua ji’an, a i tjaikacedas mavan a taipingyan, a i tjaikaledep mavananga a xiulin, a i pasakaledep a navalj mavananga a i wanrung, a i pasanavalj izua a sefenling, sefengbin.
 izua a vecekadan ta gadu i tjaikaledep, ljemaveljavekan ta gadu i tjaikacedas, kazatjan i vecekad i aicu a guan.
-izua a pana a 木瓜溪, 知亞干溪, 荖溪imaza. azua a kinaqadavan namasan maculjuculju a kinavaliana kinaqadavan imaza.
-azua a natemalidu a katjunangan i ljemaveljavekan imaza, sa pinaljavek na 東部海岸國家風景區. qaw liaw a pinaqenetjan ta natalidu imaza, izua a 國立東華大學校本部, 遠雄海洋公園, 鯉魚潭,立川漁場kata雲山水.
-azua a drusa a taykaku imaza, avan a國立東華大學kata臺灣觀光學院.
-ruqivu a ’inamizukan ata kai na台灣客家 imaza.
+izua a pana a []imaza. 
+azua a kinaqadavan namasan maculjuculju a kinavaliana kinaqadavan imaza.
+azua a natemalidu a katjunangan i ljemaveljavekan imaza, sa pinaljavek na []. 
+qaw liaw a pinaqenetjan ta natalidu imaza, izua a [].
+azua a drusa a taykaku imaza, avan a[]kata[].
+ruqivu a ’inamizukan ata kai na[] imaza.
 paljavak tua atjunang.
-matja 20 qinaljan i Shoufeng. matja 16 qinaljan imaza, Ciamengan（壽豐部落）, Kiku（溪口部落）, Banaw（池南部落）, Rinahem（光榮部落）, Ciwidiyan（水璉部落）, Telu´（豐坪部落）, Cealalupalantdlu（豐山部落）, Adetuman（平和部落）, Tdlu（豐裡部落）, Sawanengan（共和部落）, Taukak（樹湖部落）, Cihak（志學部落）, Cipuypuyan（米棧部落）, Tumay（鹽寮部落）, Sililasay（月眉/上部落）, Siapaluway（月眉/中部落）.
+matja 20 qinaljan i Shoufeng. 
+matja 16 qinaljan imaza, Ciamengan, Kiku, Banaw, Rinahem, Ciwidiyan, Telu, Cealalupalantdlu, Adetuman, Tdlu, Sawanengan, Taukak, Cihak, Cipuypuyan, Tumay, Sililasay, Siapaluway.
 izua a tapuluq sa lima a mula, mavan a:
-志學村, 壽豐村, 豐山村, 溪口村, 樹湖村, 豐坪村, 米棧村, 豐裡村, 光榮村, 池南村, 平和村, 共和村, 月眉村, 水璉村kata鹽寮村.
-sa izua a i tjaljaviri a 鹽寮村 itua shoufeng, a i tjaikaledep a viri ta ji’an. izua a i tjaljanavalj a 水璉村 itua shoufeng, a i tjaikaledep ta fenling, a i tjainavalj ta fengbin.
+sa izua a i tjaljaviri a itua shoufeng, a i tjaikaledep a viri ta ji’an. 
+izua a i tjaljanavalj a [] itua shoufeng, a i tjaikaledep ta fenling, a i tjainavalj ta fengbin.
 kasicuayan.
-kinaizuan aicu a qinaljan na caucau se amis(pangcah) kasicuayan. djemaljun a caucau se ciuku a semamaza ka qadjav a kacavilj a 1650. na semandjalananga a sihu na cing(ciuku) ta tjelu a djalan imaza i shoufeng gu.
-kasicuayanga, izauzua a karakudakuda a amiszuku imaza, izua a tjaljasangas ta vinecikvecik ni pairang ka 明永曆年間, qaw remingedjiji ta kisiya a djalan itjainavalj, tjaivecekan, tjaiviri ka viriviriljan tua 清朝, sa kimaumalj ta djalan tua semasasaw.
-ka ripunanan, aza sihu a papupicul ta ripung tua pasatavat a sekacedas, sa remingedjiji ta drusa a mula, izua a豐田村kata林田村, mavan a“壽役農莊” ;ka 1920 a cavilj, riningedjiji ta “壽區”, qaw riningedjijiuta ta “壽庄” ka 1937 a cavilj, sa pinaljavek nua 花蓮港廳花蓮郡.
-ka ciukukuanan, alapen a vencik a “壽” kata“豐田”tua papungadan ta “壽豐” taimaza, sa remingedjiji ta花蓮縣壽豐鄉 a patjetucu.
+kinaizuan aicu a qinaljan na caucau se amis(pangcah) kasicuayan. 
+djemaljun a caucau se ciuku a semamaza ka qadjav a kacavilj a 1650. 
+na semandjalananga a sihu na cing(ciuku) ta tjelu a djalan imaza i shoufeng gu.
+kasicuayanga, izauzua a karakudakuda a amiszuku imaza, izua a tjaljasangas ta vinecikvecik ni pairang ka [], qaw remingedjiji ta kisiya a djalan itjainavalj, tjaivecekan, tjaiviri ka viriviriljan tua [], sa kimaumalj ta djalan tua semasasaw.
+ka ripunanan, aza sihu a papupicul ta ripung tua pasatavat a sekacedas, sa remingedjiji ta drusa a mula, izua a[]kata[], mavan a“[]”; 
+ka 1920 a cavilj, riningedjiji ta “[]”, qaw riningedjijiuta ta “[]” ka 1937 a cavilj, sa pinaljavek nua [].
+ka ciukukuanan, alapen a vencik a “[]” kata“[]”tua papungadan ta “[]” taimaza, sa remingedjiji ta[] a patjetucu.
 kadjunangan.
 izua liaw a veljeluan imaza i shoufeng gu.
 tatuluan.
-izua alu a gakku a kedrikedri imaza i rinahem(shoufeng gu). izua drusa a taigakku imaza.
+izua alu a gakku a kedrikedri imaza i rinahem(shoufeng gu). 
+izua drusa a taigakku imaza.
 iyubingkiuku (yuzeng).
 sasupuan na iyubingkiuku.
 974 a sasupuan na iyubingkiku se shoufeng.
@@ -2248,211 +2494,345 @@ suyka
 kamulaw
 vuljangaw
 vuday
-
 Singapura:
-Singapura (Minalayuan: Republik Singapura, Ljinautian: 新加坡, Tamil: சிங்கப்பூர் குடியரச)
+Singapura (Minalayuan: Republik Singapura, Ljinautian: [], Tamil: [])
 siqivuan.
-aicu a “新加坡” mavan a kemasi inamilikan a siqaivuan au masan a pinairangan a sirukaian. aicu a “新加坡” a inamilikan pinaka “Singapore” mavan a kemasi malay a kai (馬來語) a “Singapura” aya, saka kemasi auta tua van a kai(梵語) “Siṃhapura” aya. aicu “Siṃhapura” a vecik, “simha” avan a “獅子” a imi, “pura” avan a kazatjan a imi. avan sika izua zuma a siqaivuan a “獅城” aya. au izua aicu a vinecikan tua kuni kata ljaicu a “魚尾獅” aya a sinipukeljang tu na kuni a langlangan. tazua ka tjaisangas ta sigapura masan ta kuni, aza sihu niamadju pinaka “新嘉坡” aicu a ngadan na kuni.   
-ka 1967 a caviljan, aza sihu na sigapura lemingdjelj ta matateveteveljan a kangadanan a djalan, avan sika napatagilj a masengseng tua kangadanan na siqivuan a kadjunangan kata djalan a penuljat nua i singapura. ka 1972 a caviljan sikasepatj a qiljasan drusa puluq sa lima a qadavan, aicu a “新加坡” masan a paqulid a ngadan a ciniukuan. ljakua katjaisangas ta masan a kuni i kacauan, aicu a sigapura izua tjuruvu a siqaivuan, izua “星嘉坡”, “星加坡”, “新架坡”, “星架坡”, “石叻”, “叻埠”, “石叻埠” kata “實叻埠” aya, saka izua a zuma a madjulu a siqaivuan pinaka “星洲”, “獅城” kata “星國” aya.
+aicu a “[]” mavan a kemasi inamilikan a siqaivuan au masan a pinairangan a sirukaian. 
+aicu a “[]” a inamilikan pinaka “[]” mavan a kemasi malay a kai a “Singapura” aya, saka kemasi auta tua van a kai “Siṃhapura” aya. 
+aicu “Siṃhapura” a vecik, “simha” avan a “[]” a imi, “pura” avan a kazatjan a imi. 
+avan sika izua zuma a siqaivuan a “[]” aya. 
+au izua aicu a vinecikan tua kuni kata ljaicu a “[]” aya a sinipukeljang tu na kuni a langlangan. 
+tazua ka tjaisangas ta sigapura masan ta kuni, aza sihu niamadju pinaka “[]” aicu a ngadan na kuni.   
+ka 1967 a caviljan, aza sihu na sigapura lemingdjelj ta matateveteveljan a kangadanan a djalan, avan sika napatagilj a masengseng tua kangadanan na siqivuan a kadjunangan kata djalan a penuljat nua i singapura. 
+ka 1972 a caviljan sikasepatj a qiljasan drusa puluq sa lima a qadavan, aicu a “新加坡” masan a paqulid a ngadan a ciniukuan. 
+ljakua katjaisangas ta masan a kuni i kacauan, aicu a sigapura izua tjuruvu a siqaivuan, izua [] kata [] aya, saka izua a zuma a madjulu a siqaivuan pinaka [] kata [] aya.
 kai.
-sipatatevelak nua caucau sesingapura a matjalialiaw a kinakaian. sikiljavaran nua sihu a singapura izua kai a amilika, ciniukuan, kai a malay, katua kai a tamil. patjara kai nua kuka a singapura, makeljang a pinapuvecik aicu a malay nua kai a kuka i tua “hulic nua singapura a sinipaljavak,” ayatua cinalivatan niamadju tua malaysia. ljakua, situlutulu a kai a amilika nua sinsi a singapura i gaku i singapura. sa tjaljapazangal a kai a amilika tua caucau a i singapura.
-
+sipatatevelak nua caucau sesingapura a matjalialiaw a kinakaian. 
+sikiljavaran nua sihu a singapura izua kai a amilika, ciniukuan, kai a malay, katua kai a tamil. 
+patjara kai nua kuka a singapura, makeljang a pinapuvecik aicu a malay nua kai a kuka i tua “hulic nua singapura a sinipaljavak,” ayatua cinalivatan niamadju tua malaysia. 
+ljakua, situlutulu a kai a amilika nua sinsi a singapura i gaku i singapura. 
+sa tjaljapazangal a kai a amilika tua caucau a i singapura.
 Suming Rupi:
-Suming Rupi, ’inamiszukuan, pinualjak i 1978 a cavilj a sicigacu a tapuluq kata pitju a qadavan, a ngadan nua pairaing ti 姜聖民, mavananga a cacaquan a semanay(歌手) kata 演員. a amiszuku na donghe i taitu timadju, a kitjualanga a kemasi 臺灣藝術大學圖文傳播藝術學系.
-masan tua cacaquan a semanay kata 吉他手 nua 圖騰樂團kata艾可菊斯, sa 演奏直笛 kata pa'urugang timadju uta. papaqayamen timadju a semananga ta liaw a senay sa sinansenay tua tjuruvu a cacaquan a semanay namadju. saka, macaqu a cempu, zemiya, zemuka timadju uta. 
-sipakalevan ta kinasengseng na senay a 《我在那邊唱》 na sikamasansimuluq saka alu a 金曲獎最佳樂團 ka 2007 a cavilj timadju. 
-sipakalevavan ta kinasengseng a 《跳格子》 na 第45屆 a 金馬獎最佳新演員獎 ka 2008 a cavilj timadju.
-sipakalevavan ta kinasengseng na senay a 《Suming舒米恩》 na sikamasanitalj a 金曲獎最佳樂團 ka 2010 a cavilj timadju. 
-semanuta timadju ta 阿米斯音樂節 kata taqaljaqaljan nua Edoulan(都蘭) ka 2013 a cavilj.
-sipakalevavan ta kinasengseng a semenay a 〈不要放棄〉nua iga a 《太陽的孩子》na  第52屆 a 金馬獎最佳原創電影歌曲獎 ka 2015 a cavilj, sa inia madradraw timadju : “maqati a semenay aken, sa maqati a 演出aken uta”ayain nimadju.
-pakalevavan tjiamadju a第27屆 a金曲獎最佳年度歌曲獎 uta ka 2016 a cavilj.
-pakalevavan tjiamadju a masnsivalj a總統文化獎 a 青年創意獎 ka 2017 a cavilj.
-tucu a masan a malailaing nua 台灣公共電視 timadju.
+Suming Rupi, ’inamiszukuan, pinualjak i 1978 a cavilj a sicigacu a tapuluq kata pitju a qadavan, a ngadan nua pairaing ti [], mavananga a cacaquan a semanay kata []. 
+a amiszuku na donghe i taitu timadju, a kitjualanga a kemasi [].
+masan tua cacaquan a semanay kata [] nua []kata[], sa [] kata pa'urugang timadju uta. 
+papaqayamen timadju a semananga ta liaw a senay sa sinansenay tua tjuruvu a cacaquan a semanay namadju. 
+saka, macaqu a cempu, zemiya, zemuka timadju uta. 
+sipakalevan ta kinasengseng na senay a [] na sikamasansimuluq saka alu a [] ka 2007 a cavilj timadju. 
+sipakalevavan ta kinasengseng a [] na []45[] a [] ka 2008 a cavilj timadju.
+sipakalevavan ta kinasengseng na senay a 《Suming[]》 na sikamasanitalj a [] ka 2010 a cavilj timadju. 
+semanuta timadju ta [] kata taqaljaqaljan nua Edoulan ka 2013 a cavilj.
+sipakalevavan ta kinasengseng a semenay a []nua iga a []na  []52[] a [] ka 2015 a cavilj, sa inia madradraw timadju: “maqati a semenay aken, sa maqati a []aken uta”ayain nimadju.
+pakalevavan tjiamadju a[]27[] a[] uta ka 2016 a cavilj.
+pakalevavan tjiamadju a masnsivalj a[] a [] ka 2017 a cavilj.
+tucu a masan a malailaing nua [] timadju.
 kinasengseng na senay.
-kinasengseng nua圖騰樂團 (Totem).
-semananga a kinasengseng na senay a 《我在那邊唱》ka 2006 a cavilj a sigacu
-semananga a kinasengseng na senay a 《我在那邊唱》ka 2009 a cavilj a kugacu
-kinasengseng nua艾可菊斯 (Echo G.S).
-semananga a senay a 〈眼睛眨眨〉kata〈養樂多〉 sa kiruku(收錄) i kinasengseng a 《美麗心民謠 想念》ka 2007 a cavilj a kugacu
-semananga a senay a 〈利澤簡 好美〉kata〈都蘭古調〉 sa kiruku(收錄) i kinasengseng a senay nua iga a 《練習曲》ka 2007 a cavilj a ziugacu
+kinasengseng nua[].
+semananga a kinasengseng na senay a []ka 2006 a cavilj a sigacu.
+semananga a kinasengseng na senay a []ka 2009 a cavilj a kugacu.
+kinasengseng nua[].
+semananga a senay a []kata[] sa kiruku[] i kinasengseng a []ka 2007 a cavilj a kugacu.
+semananga a senay a []kata[] sa kiruku i kinasengseng a senay nua iga a []ka 2007 a cavilj a ziugacu.
 kinasengseng na Suming.
 naqemati a senay a kinasengseng nimadju.
-semansenay ta kinasengseng a 《Suming》 ka 2010 a cavilj a gugucu a tapuluq kata lima a qadavan
-semansenay ta kinasengseng a《阿米斯Amis》ka 2012 a cavilj a lukugacu a tjelu a puluq a qadavan
-semansenay ta kinasengseng a《美式生活》ka 2013 a cavilj a ziunigacu a drusa a puluq a qadavan
-semansenay ta kinasengseng a《海洋·森林》ka 2014 a cavilj a hacigacu a tapuluq kata siva a qadavan
-semansenay ta kinasengseng a《Bondada》ka 2012 a cavilj a ziunigacu a tjelu a qadavan
+semansenay ta kinasengseng a 《Suming》 ka 2010 a cavilj a gugucu a tapuluq kata lima a qadavan.
+semansenay ta kinasengseng a《[]Amis》ka 2012 a cavilj a lukugacu a tjelu a puluq a qadavan.
+semansenay ta kinasengseng a[]ka 2013 a cavilj a ziunigacu a drusa a puluq a qadavan.
+semansenay ta kinasengseng a[]ka 2014 a cavilj a hacigacu a tapuluq kata siva a qadavan.
+semansenay ta kinasengseng a《Bondada》ka 2012 a cavilj a ziunigacu a tjelu a qadavan.
 naqemati a kinasengseng a EP nimadju.
-a senay a kinasengseng a《Suming》
-a senay a kinasengseng a《Suming2》
-semansenay ta kinasengseng a《Suming3》ka 2010 a cavilj
-semansenay ta kinasengseng a《遠洋》ka 2010 a cavilj a ziunigacu a tapuluq kata alu a qadavan
-semansenay ta kinasengseng a《美好的日子》ka 2013 a cavilj a sicigacu a lima a qadavan
-semansenay ta kinasengseng a《向最初的自己致敬》ka 2017 a cavilj a sicigacu a pitju a qadavan
-semansenay ta kinasengseng a《遠洋》ka 2018 a cavilj
+a senay a kinasengseng a《Suming》.
+a senay a kinasengseng a《Suming2》.
+semansenay ta kinasengseng a《Suming3》ka 2010 a cavilj.
+semansenay ta kinasengseng a[]ka 2010 a cavilj a ziunigacu a tapuluq kata alu a qadavan.
+semansenay ta kinasengseng a[]ka 2013 a cavilj a sicigacu a lima a qadavan.
+semansenay ta kinasengseng a[]ka 2017 a cavilj a sicigacu a pitju a qadavan.
+semansenay ta kinasengseng a[]ka 2018 a cavilj.
 senay.
-semansenay a《還島快樂》ka 2017 a cavilj a ziunigacu a tjelu a puluq a qadavan (kiruku(收錄) i kinasengseng a 《我來自…》 ni 吳汶芳)
-semansenay a《糖果》ka 2018 a cavilj a nigacu a drusa a puluq kata lima a qadavan
-semansenay a《還島快樂》ka 2017 a cavilj a ziunigacu a tjelu a puluq a qadavan
+semansenay a[]ka 2017 a cavilj a ziunigacu a tjelu a puluq a qadavan (kiruku i kinasengseng a [] ni []).
+semansenay a[]ka 2018 a cavilj a nigacu a drusa a puluq kata lima a qadavan.
+semansenay a[]ka 2017 a cavilj a ziunigacu a tjelu a puluq a qadavan.
 naqemati a senay a kinasengseng katua zuma.
-a senay a kinasengseng a《遊來遊去》ka 2000 a cavilj a kugacu, kiruku(收錄) ta senay a 〈浪人畫家〉
-a senay a kinasengseng a《美麗心民謠》ka 2006 a cavilj a sigacu, kiruku(收錄) ta senay a 〈巴奈十九〉
-a senay a kinasengseng a《Open Taipei》ka 2010 a cavilj a kugacu, kiruku(收錄) ta senay a 〈在這城市寫下愛〉
-a senay a kinasengseng a《Open Taiwan》ka 2011 a cavilj a kugacu, kiruku(收錄) ta senay a 〈衷心〉
-a senay a kinasengseng a《台灣美樂地》tua sinkinkiu a 蔡英文 ka 2015 a cavilj a kugacu, kiruku(收錄) ta senay a 〈亮點〉(semanay kati 荒山亮, 王俊傑, 施文彬, 董事長樂團, 滅火器樂團, 閻韋伶, 陳明章, 黃連煜, 白芯羽, 流氓阿徳, 朱頭皮, 南西樂團, 隨性)
-a senay a kinasengseng a《爲南迴而唱》 ka 2017 a cavilj a zingacu, kiruku(收錄) ta senay a 〈祈雨的婦人〉
+a senay a kinasengseng a[]ka 2000 a cavilj a kugacu, kiruku ta senay a [].
+a senay a kinasengseng a[]ka 2006 a cavilj a sigacu, kiruku ta senay a [].
+a senay a kinasengseng a[]ka 2010 a cavilj a kugacu, kiruku ta senay a [].
+a senay a kinasengseng a[]ka 2011 a cavilj a kugacu, kiruku ta senay a [].
+a senay a kinasengseng a[]tua sinkinkiu a [] ka 2015 a cavilj a kugacu, kiruku[] ta senay a [](semanay kati []).
+a senay a kinasengseng a[] ka 2017 a cavilj a zingacu, kiruku ta senay a [].
 naqemati a senay.
-a senay a kinasengseng nua iga a《KANO》 ka 2014 a cavilj a nigacu, kiruku(收錄) ta senay a 〈勇者的浪漫〉(semanay kati中孝介, Rake, 范逸臣, 羅美玲)
-a senay a kinasengseng nua iga a《太陽的孩子》 ka 2015 a cavilj a zingacu, kiruku(收錄) ta senay a 〈這個時代〉kata〈不要放棄〉
-a senay a kinasengseng nua iga a《52 Hz I Love You》 ka 2017 a cavilj a icigacu
-a senay a kinasengseng nua iga a《漂流遇見你》 ka 2019 a cavilj a kugacu
+a senay a kinasengseng nua iga a《KANO》 ka 2014 a cavilj a nigacu, kiruku ta senay a [](semanay kati[], Rake, []).
+a senay a kinasengseng nua iga a[] ka 2015 a cavilj a zingacu, kiruku ta senay a []kata[].
+a senay a kinasengseng nua iga a《52 []》 ka 2017 a cavilj a icigacu.
+a senay a kinasengseng nua iga a[] ka 2019 a cavilj a kugacu.
 kinasengseng tua vinecikan nua kemudakuda.
-a kinasengseng a 《舒米恩 2010-2011 Live演唱會》, ka 2011 a cavilj a ziuicigacu a drusa a puluq kata lima a qadavan
-a kinasengseng a 《Suming舒米恩 AKA SIWALAAY KAKO HAW!請你記得我 2016演唱會全紀錄》, ka 2017 a cavilj a sicigacu a pitju a qadavan
-kinasengseng tua 演出.
-kinasengseng a iga tua cinalivatan(紀錄片).
-a kinasengseng a《海洋熱》, ka 2004 a cavilj
-a kinasengseng a《圖騰轉呀轉》, ka 2006 a cavilj
-a kinasengseng a《誰在那邊唱》, ka 2009 a cavilj
-a kinasengseng a《扛旗子的Suming》, ka 2016 a cavilj
-a kinasengseng a《漂流遇見你》, ka 2017 a cavilj
+a kinasengseng a 《[] 2010-2011 []》, ka 2011 a cavilj a ziuicigacu a drusa a puluq kata lima a qadavan.
+a kinasengseng a 《Suming[] AKA SIWALAAY KAKO HAW![] 2016[]》, ka 2017 a cavilj a sicigacu a pitju a qadavan.
+kinasengseng tua [].
+kinasengseng a iga tua cinalivatan.
+a kinasengseng a[], ka 2004 a cavilj.
+a kinasengseng a[], ka 2006 a cavilj.
+a kinasengseng a[], ka 2009 a cavilj.
+a kinasengseng a《[]Suming》, ka 2016 a cavilj.
+a kinasengseng a[], ka 2017 a cavilj.
 aza a iga nua tilibi.
-i kinasengseng a《跳格子》ta masan 阿宗, ka 2007 a cavilj
-i kinasengseng a《我在這邊唱》(TOTEM song for home) ta masan Suming, ka 2009 a cavilj
+i kinasengseng a[]ta masan [], ka 2007 a cavilj.
+i kinasengseng a[] ta masan Suming, ka 2009 a cavilj.
 iga.
-i kinasengseng a《練習曲》ta masan caucau ta pa'urugang(彈手風琴的人), ka 2007 a cavilj
-i kinasengseng a《甜·祕密》ta masan 阿車, ka 2012 a cavilj
-i kinasengseng a《52 Hz I Love You》ta masan游大河, ka 2017 a cavilj
+i kinasengseng a[]ta masan caucau ta pa'urugang[], ka 2007 a cavilj.
+i kinasengseng a[]ta masan [], ka 2012 a cavilj.
+i kinasengseng a《52 []》ta masan[], ka 2017 a cavilj.
 tilibi.
-a kinasengseng a《這裡發現愛》, ka 2008 a cavilj
-i kinasengseng a《峰迴青春路》ta masan黑道小弟 小三, ka 2011 a cavilj
-i kinasengseng a《罪美麗》ta masan kinsac, ka 2012 a cavilj
-i kinasengseng a《他們在畢業的前一天爆炸II》ta masan潘世東, ka 2017 a cavilj
-i kinasengseng a《種菜女神》ta masan馬耀, ka 2018 a cavilj
+a kinasengseng a[], ka 2008 a cavilj.
+i kinasengseng a[]ta masan[], ka 2011 a cavilj.
+i kinasengseng a[]ta masan kinsac, ka 2012 a cavilj.
+i kinasengseng a[]ta masan[], ka 2017 a cavilj.
+i kinasengseng a[]ta masan[], ka 2018 a cavilj.
 sipakeljakeljang a vecik.
-a kinasengseng a《中華三菱青春還鄉》, ka 2015 a cavilj
+a kinasengseng a[], ka 2015 a cavilj.
 a kinasengseng ta remuing a senay.
-a kinasengseng a《天使也會受傷》nua小男孩樂團, ka 2016 a cavilj
+a kinasengseng a[]nua[], ka 2016 a cavilj.
 cinalivatan a pinakaleva.
 pinakaleva tua semansenay uta.
-pakalevavan a 臺北貢寮國際海洋音樂祭大賽–首獎海洋大賞 ka 2005 a cavilj
-pakalevavan a 【第二屆全民影音創作大賽】音樂錄影帶組第一名【Kayoing】 ka 2009 a cavilj
-pakalevavan a 臺灣音樂文化國際交流協會－2014硬地英雄獎 ka 2014 a cavilj
+pakalevavan a [] ka 2005 a cavilj.
+pakalevavan a [] ka 2009 a cavilj.
+pakalevavan a []－2014[] ka 2014 a cavilj.
 pinakaleva tua iga.
-pakalevavan a臺北電影節評審團特別獎kata觀眾票選最佳影片–紀錄片【海洋熱】 ka 2004 a cavilj
-pakalevavan a【第45屆金馬獎最佳新演員獎】–【跳格子】 ka 2008 a cavilj
-pakalevavan a【第50屆金馬獎最佳原創電影歌曲獎】–【如果情歌都一樣】《甜·祕密》 ka 2013 a cavilj
-pakalevavan a【第51屆金馬獎最佳原創電影歌曲獎】–【小鳥先生】《KANO》 ka 2014 a cavilj
-pakalevavan a【第52屆金馬獎最佳原創電影歌曲獎】–【不要放棄】《太陽的孩子》 ka 2015 a cavilj
+pakalevavan a[]kata[] ka 2004 a cavilj.
+pakalevavan a[]45[] ka 2008 a cavilj.
+pakalevavan a[]50[] ka 2013 a cavilj.
+pakalevavan a[]51[] ka 2014 a cavilj.
+pakalevavan a[]52[] ka 2015 a cavilj.
 pinakaleva tua pinapebulay a paridiu.
-pakalevavan asikamasansivalj a 總統文化獎「青年創意獎」 ka 2017 a cavilj
-
+pakalevavan asikamasansivalj a [] ka 2017 a cavilj.
 Tailiku:
-Tailiku (Ljinautian: 中华人民共和国)
+Tailiku (Ljinautian: []])
 paljavakan.
 matja 22 a senhun kata 4 a zesiase i Tailiku tucu.
-
 Tjavualji:
-Taimali（太麻里鄉）
-Taimali gu icuwa i Taitung. ala atjunangn mapuljat 102.29 km² (ma’linpan atjunang 4.53 km², ma’linaule atjunang 57.38 km²). ala caucau mapuljat 7,128 caucau, ala daceneqlan mapuljat 2,979 a daceneqlan, Puyuma, Amis (67%) a maqcuwa caucau. 
+Taimal
+Taimali gu icuwa i Taitung. 
+ala atjunangn mapuljat 102.29 km² (ma’linpan atjunang 4.53 km², ma’linaule atjunang 57.38 km²). 
+ala caucau mapuljat 7,128 caucau, ala daceneqlan mapuljat 2,979 a daceneqlan, Puyuma, Amis (67%) a maqcuwa caucau. 
 tjauvali
-aicu a tjauvali(penaywanan: Tjavualji；’inamizukan: Tjavualji；kai na taiwan: Thài-mâ-lí-hiong；kai na客家語四縣腔：tai maˇ liˊ hiongˊ）i pasakacedas a navalj tua taitu tua taiwan, nakidekes tua seputuma、valangaw, a i tjaikacedas mavan a taipingyan, a i tjaikaledep mavananga a jinfeng, a i pasakaledep a navalj mavananga a i daren, a i pasanavalj izua a sedawu.
-Nakitangez tua gadu i vecekadan tua taiwan, izuazua a lizuk namaka ljeveljevek, izuazua a liyaw a gadu, a tjaljavavavavavan a gadu izua a kuzulj katu sepatj a iday a pasavavaw.(2000公尺), azua a kina'adavan namasanmaculjuculju a kinavaliyan imaza(氣候上屬熱帶季風氣候。)
-a caucau i tjauvali, izua tjuruvu(2/3) a pairang（閩南人、客家人、外省人）kata kasalisiyan (1/3), izua a amizuku, drekay, paiwan, ruqivu tiamadju a sipenaywanan ata kai na amizuku.
-nu 2000 a cavilj, izua a sikivangavangan a “千禧迎曙光活動”, pungadan tua tjauvali, qaw izua a “日升之鄉”a ngadan auta.
+aicu a tjauvali(penaywanan: Tjavualji; ’inamizukan: Tjavualji; kai na taiwan: Thài-mâ-lí-hiong; kai na[]: tai ma li hiong) i pasakacedas a navalj tua taitu tua taiwan, nakidekes tua seputuma、valangaw, a i tjaikacedas mavan a taipingyan, a i tjaikaledep mavananga a jinfeng, a i pasakaledep a navalj mavananga a i daren, a i pasanavalj izua a sedawu.
+Nakitangez tua gadu i vecekadan tua taiwan, izuazua a lizuk namaka ljeveljevek, izuazua a liyaw a gadu, a tjaljavavavavavan a gadu izua a kuzulj katu sepatj a iday a pasavavaw.
+[], azua a kina'adavan namasanmaculjuculju a kinavaliyan imaza[].
+a caucau i tjauvali, izua tjuruvu(2/3) a pairang kata kasalisiyan (1/3), izua a amizuku, drekay, paiwan, ruqivu tiamadju a sipenaywanan ata kai na amizuku.
+nu 2000 a cavilj, izua a sikivangavangan a “[]”, pungadan tua tjauvali, qaw izua a “[]”a ngadan auta.
 paljavak tua atjunang.
-matja 9 qinaljan i Taimali. matja 13 qinaljan imaza, Lupakatj（魯巴卡茲部落）, Tjavualji（大麻里部落）, Kiring（給陵部落）, Tjatjigel（喳其格勒部落）, Anasolay（荒野部落）, Davugele（大武窟部落）, Takidis（德其里部落）, Padrangigrang（溫泉部落）, Calavi（查拉密部落）, Kanadun（金崙部落）Sasaljak（沙薩拉克部落）, Lalauran（拉勞蘭部落）, Cilalongay（吉拉龍噯部落）.
+matja 9 qinaljan i Taimali. 
+matja 13 qinaljan imaza, Lupakatj, Tjavualji, Kiring, Tjatjigel, Anasolay, Davugele, Takidis, Padrangigrang, Calavi, Kanadun, Sasaljak, Lalauran, Cilalongay.
 likisi.
-kasicuayanga a ngadan na aicu a tjavuali a “tjavualji”(大貓貍)，mavan a “pazarezar a qadaw tua culj a katjunangan” a siniaya i paiwan a kai. izuazua a ngadan a “大貓貍、大麻里” a vinecikan na ciukuk.
-nu 1920 a cavilj, papungadan taicu a guan a “太麻里”, qaw inumalj nua sihu a ngadan a “太麻里庄”, se台東廳台東郡. nu pakavilji a masanmusalj a makaqeci sekacawan, inumalj a ngadan a “台東縣太麻里鄉” patjetucu.
+kasicuayanga a ngadan na aicu a tjavuali a “tjavualji”，mavan a “pazarezar a qadaw tua culj a katjunangan” a siniaya i paiwan a kai. 
+izuazua a ngadan a “[]” a vinecikan na ciukuk.
+nu 1920 a cavilj, papungadan taicu a guan a “[]”, qaw inumalj nua sihu a ngadan a “[]”, se[]. 
+nu pakavilji a masanmusalj a makaqeci sekacawan, inumalj a ngadan a “[]” patjetucu.
 zuku.
-izuazua a tjuruvu a zuku i tjavuali, izua a paiwan zuku (排灣族), amizuku(阿美族), drekai(魯凱族).
-izuazua a tjuruvu a zuku i tjavuali, izua a paiwanzuku、amizuku、drekai、外省人、閩南人kata客家人。
-aicu a paiwanzuku imaza, mavan a paqaroqaro(巴卡羅群)、a sepaqaluqalu. avan a 大王部落a kava、kakudanan niamadju, nasetevelj ta puyuma kata amizuku.
+izuazua a tjuruvu a zuku i tjavuali, izua a paiwan zuku, amizuku, drekai.
+izuazua a tjuruvu a zuku i tjavuali, izua a paiwanzuku、amizuku、drekai, []kata[]。
+aicu a paiwanzuku imaza, mavan a paqaroqaro, a sepaqaluqalu. 
+avan a []a kava, kakudanan niamadju, nasetevelj ta puyuma kata amizuku.
 caucau.
-i tjavuali a caucau, tjuruvu(2/3) a pairang, izau zuma a kaimaza a caucau. a kinavadavadayan nua kaimaza a caucau, savid ta大王、北里、香蘭、金崙、多良kata德其里.qaw, aicu a paiwan zuku, kinavadavaday i 大王村、新香蘭村、金崙村kata多良村。aicu a amizuku, kinavadavaday i荒野、舊香蘭kata德其里.
+i tjavuali a caucau, tjuruvu(2/3) a pairang, izau zuma a kaimaza a caucau. 
+a kinavadavadayan nua kaimaza a caucau, savid ta[]kata[].
+qaw, aicu a paiwan zuku, kinavadavaday i [].
+aicu a amizuku, kinavadavaday i[]kata[].
 sipacacikelan.
 palidring a djalan.
-<br> sikamasansimuluq saka ita a palidring a djalan na taiwan
-
 Taitu king:
-taituking (pinaywanan：valangaw；pinairangan：Tâi-tang-kuān；nginaingayngan：Thòi-tûng-yen）avan angata ca king nua i taiwan. imaza i pasakacedas a navalj tua taiwan, izua tu 3515.2526 km² a pulingetjan nua kadjunangan. a qacavan masantjelulj a king i taiwan tja kedri ta i kalingu katua nantu (南投). aza taitu hichi avan tjalja tjuruvuan a caucau i pasakacedas i taituking. ljakua malua a caucau ika napapamapamaw a kinaqepu, aza mareka caucau sedjelja i taitu hichi, aicu i taituking a kadjunangan pasamaza tua peihuikuisiyen a navalj, a i tjaikacedas mavan a taipingyan (ljavek a viliping), a i navalj katua i kaledep mavan anga a ljaviljaving a gadugaduan i vecekadan tua taiwan kata akaw, takau uta. i viri nakidjekec tua kalingu , izua liaw tjinaula na sicuayan a nemanga.
-taituking imaza a kalevelevan semezan tu kemaledeledev. lja aicu i imaza nakitangez tua gadu kata pasacemedas nakicevung ta ljavek, avan sinan pazangal a racev saka liaw a ika kinapalak laulju a kadjunangan. ljaki ginitjegit drinasy a ciqaw kudamunu a qamuljumulju, ucia, pangudralj, kingtjang katua yulizu, na masan tjalja pungadangadan i taiwan.
-aza pakata zuku imaza, izua tjaisangasan a kacalisian angata, au aza zuma sikataqaljan avan angata aza i tu taiday sa lima puluq a cavilj naza patjavat a mamaza a mareka aljak anga. aza tjalja sangasangasan a pairang kemasi vudjan(福建) i ciuku, ka kumintang sihu sekaumalj kemasi ciuku sema i taihuk, izua sivitai kata tacemekeljan niamadju semanumaq ta kakaizuanan na gaisiuzing a qinaljan sa paseqeljing. saka izua a namaluyuc kemasi kaledep sekaumalj pinitjay vililjan a baci (八七) a zinaljuman (ka 1959 a cavilj). au izua ngaingai a kaizua kemasi ljudiw(六堆) i akaw. ayatua aravac a zukuan imaza maqepuqepu, tucu taituking masan temalidu aravac a kakudanan a siakai.
-pakata siakai a kinsic tjapacunan, temalem a sinan pazangal nua i taituking. aza sikilacevan tjalja kerivan tauta za kinaikacauan a nasi tjalja rikitjan imaza i taiwan, aicu a kiningkiu, sualapen a nakuyangata a kinaizuanan a kadjunangan, avan za pakata tima nadjemadjase a kanri nucu a qinaljan a tjalja qacavan a pacugan, avan nu ika mirazek setjauvililj tua maljeqaljan. djalepan namaitucu, ljakua situcutucuan a cavilj kisamulja a sihu paljazua ta remayurangan kinsic, aicu sinivarung a sengesengan siqiyaw ta tjuruvu a caucau kivanvang a semamaza.
+taituking (pinaywanan：valangaw；pinairangan：Tâi-tang-kuān；nginaingayngan：Thòi-tûng-yen）avan angata ca king nua i taiwan. 
+imaza i pasakacedas a navalj tua taiwan, izua tu 3515.2526 km² a pulingetjan nua kadjunangan. 
+a qacavan masantjelulj a king i taiwan tja kedri ta i kalingu katua nantu. 
+aza taitu hichi avan tjalja tjuruvuan a caucau i pasakacedas i taituking. 
+ljakua malua a caucau ika napapamapamaw a kinaqepu, aza mareka caucau sedjelja i taitu hichi, aicu i taituking a kadjunangan pasamaza tua peihuikuisiyen a navalj, a i tjaikacedas mavan a taipingyan (ljavek a viliping), a i navalj katua i kaledep mavan anga a ljaviljaving a gadugaduan i vecekadan tua taiwan kata akaw, takau uta. 
+i viri nakidjekec tua kalingu , izua liaw tjinaula na sicuayan a nemanga.
+taituking imaza a kalevelevan semezan tu kemaledeledev. 
+lja aicu i imaza nakitangez tua gadu kata pasacemedas nakicevung ta ljavek, avan sinan pazangal a racev saka liaw a ika kinapalak laulju a kadjunangan. 
+ljaki ginitjegit drinasy a ciqaw kudamunu a qamuljumulju, ucia, pangudralj, kingtjang katua yulizu, na masan tjalja pungadangadan i taiwan.
+aza pakata zuku imaza, izua tjaisangasan a kacalisian angata, au aza zuma sikataqaljan avan angata aza i tu taiday sa lima puluq a cavilj naza patjavat a mamaza a mareka aljak anga. 
+aza tjalja sangasangasan a pairang kemasi vudjan i ciuku, ka kumintang sihu sekaumalj kemasi ciuku sema i taihuk, izua sivitai kata tacemekeljan niamadju semanumaq ta kakaizuanan na gaisiuzing a qinaljan sa paseqeljing. 
+saka izua a namaluyuc kemasi kaledep sekaumalj pinitjay vililjan a baci a zinaljuman (ka 1959 a cavilj). 
+au izua ngaingai a kaizua kemasi ljudiw i akaw. 
+ayatua aravac a zukuan imaza maqepuqepu, tucu taituking masan temalidu aravac a kakudanan a siakai.
+pakata siakai a kinsic tjapacunan, temalem a sinan pazangal nua i taituking. 
+aza sikilacevan tjalja kerivan tauta za kinaikacauan a nasi tjalja rikitjan imaza i taiwan, aicu a kiningkiu, sualapen a nakuyangata a kinaizuanan a kadjunangan, avan za pakata tima nadjemadjase a kanri nucu a qinaljan a tjalja qacavan a pacugan, avan nu ika mirazek setjauvililj tua maljeqaljan. 
+djalepan namaitucu, ljakua situcutucuan a cavilj kisamulja a sihu paljazua ta remayurangan kinsic, aicu sinivarung a sengesengan siqiyaw ta tjuruvu a caucau kivanvang a semamaza.
 kadjunangan.
-taituking imaza i pasakacedas a navalj tua taiwan, izua tu 3515.2526 km² a pulingetjan nua kadjunangan. a qacavan masantjelulj a king i taiwan tja kedri ta i kalingu katua nantu. a i tjaikacedas mavan a taipingyan (ljavek a viliping), a i navalj katua i kaledep mavan anga a ljaviljaving a gadugaduan i vecekadan tua taiwan kata akaw, takau uta. i viri a pasaljaviljavi tua bulasanke a gadu, luntian a gadu kata ljavek a gadugauan a nakidjekec tua kalingu. maka ljaviljaving ta ljavek tu 176 km, masan tjaljaladruqan a king i taiwan.
-aicu a kadjunangan imaza na masan a gadugaduan i vecekadan tua taiwan, kalinku a sema taitu sevesevec a lizulizuk, vudavudas a laviing pakata binan a pana, ljavek a gadugauan kata taiyun(泰源) a malikeljung a kadjunangan. izua binan pana, djipun pana, likavung pana, kanalun pana, tjavualji pana kata mawuku pana, au binan pana masan tjaljaqacavan i taituking, kemasi a gadugaduan i vecekadan tua taiwan i  akana binan gaduan i pasakacedasan, tu 84.35 km. seqaljudj pasa ta pitju a qinaljan. saka aicu pana a pulingetjan nua kadjunangan tu 1,603 km², avan a tjalja sipazangazangalan a sitalem tua lami.
+taituking imaza i pasakacedas a navalj tua taiwan, izua tu 3515.2526 km² a pulingetjan nua kadjunangan. 
+a qacavan masantjelulj a king i taiwan tja kedri ta i kalingu katua nantu. 
+a i tjaikacedas mavan a taipingyan (ljavek a viliping), a i navalj katua i kaledep mavan anga a ljaviljaving a gadugaduan i vecekadan tua taiwan kata akaw, takau uta. 
+i viri a pasaljaviljavi tua bulasanke a gadu, luntian a gadu kata ljavek a gadugauan a nakidjekec tua kalingu. 
+maka ljaviljaving ta ljavek tu 176 km, masan tjaljaladruqan a king i taiwan.
+aicu a kadjunangan imaza na masan a gadugaduan i vecekadan tua taiwan, kalinku a sema taitu sevesevec a lizulizuk, vudavudas a laviing pakata binan a pana, ljavek a gadugauan kata taiyun a malikeljung a kadjunangan. 
+izua binan pana, djipun pana, likavung pana, kanalun pana, tjavualji pana kata mawuku pana, au binan pana masan tjaljaqacavan i taituking, kemasi a gadugaduan i vecekadan tua taiwan i  akana binan gaduan i pasakacedasan, tu 84.35 km. 
+seqaljudj pasa ta pitju a qinaljan. 
+saka aicu pana a pulingetjan nua kadjunangan tu 1,603 km², avan a tjalja sipazangazangalan a sitalem tua lami.
 pakata mirazek a hisiu.
 hisiu i taituking.
-aza hisiu i taituking izua canping hisiu, cesan hisiu, guansan hisiu, shikanu hisiu, luliaw hisiu, binan hisiu kata djipun hisiu. au binan hisiu avan tjaljqacavan, aza guansan hisiu masan sikamasanmusalj.
-ka 1867 a cavilj, tia pepuzuku i canping guan tucu i taituking, tiamadju na lemingdjelj ta hisiu,lemakac ta na seken pana a zaljum sasi sitalem tua lami pasa a canping kata cenkung a kadjunangan. izua tu sepatj puluq sa unem a hisiu i canping mula. sedjelja i qinaljan a na kisamalaing a cukulu ta hisiu. ka 1966 a cavilj, taiwan sihu suylicy a sivarung a semananguaq tua canping hisiu. sa kemasi 1971 a cavilj mata 1974 a cavilj, pacacurucuruing a kana hisiu, au lemingdjelj ta sinitaladjan ta zaljum i suimudin(水母丁) a pana pasanavalj a qinaljan. izua a veljeng tu 25 maru tadjekuacan, aicu a zaljum a suimudin kemasi qetjung a tjayquvulj tua maruqalu a suimudin. au tjevuta i tua
-masansimuluq sa ita a djalanan i taiwan, sa gemadugaduan pasa navalj a ljitaladj tua canping a pana.
-ka 1878 a cavalj kemasi tjiusiw patjavat ta mamaza a caucau ti 陳和枝 kata tapuluq sa unem a caucau, kaqepui a semananguaq ta hisiu i cesan, tjemabeku ta zaljum kemasi binan a pana, avan sitalem tua lami. tucu aza hisiu pinakakudan i cesan tinevelj a drusa hiciu kata tapuluq tjaljakuljay a hisiu, saka lemingdjelj tua ita a tjabeku, penenetj tua kikay a umaq kata papapiljiq tua tjakakudralan a qacilay a puzaljuman.
-aza binan hisiu avan angata tjaljaqacan a hisiu i pasakacedas i taiwan. ka 1898 a cavilj liningdjelj na dripung, au ka 1936 a cavilj mumaljem semananguaq. ka 1941 a cavilj a qemacuvung tua sengesengan, izua tjuruvu a pairang patjavat semamaza a qemuma ta kadjunangan. aza tinalem a cam a pulingetjan nua kadjunangan kemasi 600 marutarauljan mapazulju tu 2,423 marutarauljan. aza zaljum a binan hisiu kemasi binan pana, tu siva km, izua puluq sa tjelu a sevesevec a hisiu, au aza inalangan matu karuc.
-ka 1899 a cavilj aza i djipun kata zinhe(建和) a sika taqaljan i lizu pasa tua likavung pana kata djipun pana, marepusaladj a lemindjelj tua hisiu masan djipun hisiu, saka ita cavilj a qinacuvungan, kemasi djipun pana a pasaviri ljavaing kilakac zaljum. pasa hung (洪) lima a tjakuljay a hisiu, au papirazeken na djipun, izua sepatj a tjaljakuljay a hisiu a sangasangasan mihe hisiu pasa djipun pana a pasanavalj ljavaing i tjavualji, au kata tjaisangas a djipun hisiu masan djipun hisiu. ljakua aicu tjaisangas a djipun hisiu pavalitan ta siqivuan tu masanmusalj mihe hisiu.
-ka 1907 a cavilj, aza pirang kemasi kaledep sema pasakacedas a kemangekang, sa tjemabeku ta zaljum kemasi binan hisiu au lemindjelj lilung(里壟) hisiu, a maqati sitalem tua lami a kadjunangan izua tu tjelu puluq marutarauljan. ulja aza izua angata a pirang lukalivu kata kacalisian, kadrusanga cavilj sualapen sa pavaliten tua lilung hisiu. ka kailikuz 1915 a cavilj na ripun a djiday, aza ripun sihu patagitagilj a gindjiw kanri tua kacalisian, au meliaw a kemasi tjuzuma patjavat ta mamaza a caucau. ka 1923 a cavilj lemindjelj ta lilung dantay hisiu, ka 1941 a cavilj pavalitan ta guansan suyli qinepu. ka 1948 a cavilj lemindjelj ta guansan hisiu, semananguaq ta binan pana lja rikitj tu djaljaw a siqaljudjan. ka 1958 a cavilj qacuvungan a sengesengan, a laruqan 17 km, puluq pitju a tjakuljay a hisiu,aza inalangan matu karu pinakakudan,aza quma a pulingetjan nua kadjunangan 2,874 marutarauljan, a qacavan masanmusalj a hisiu i pasakacedas a taiwan.
-kemasi 1953 a cavilj mata 1957 a cavilj lemindjelj tua shikanu hisiu, satjemabeku ta zaljum kemasi luliaw(鹿寮) pana pasa navalj ljavaing, sitalem tua lami i maka kalinku a sema taitu sevesevec a lizulizuk pasavilj. izua a naitjumalji a hisiu i shikanu avan luliaw hisiu, ulja a sitaladjan na zaljum izua za djineqis a kinapalak a munday,  sa kemasi 1970 a cavilj aza siljtaladj a zaljum kata shikanu hisiu mamaw a tjabeku. ljakua ika tjezua a zaljum imaza, aza i shikanu hisiu amin za ita tjakuljay a hisiu izuangata segaljugaljutj a zaljum, azazuma tjakuljay a hisiu a ika namakeljang, saka aza masan nemelj a tjakuljay a hisiu avan zua sinsekez, mata 1995 a cavilj mumalj semananguaq a qemacuvung tua sengesengan.
+aza hisiu i taituking izua canping hisiu, cesan hisiu, guansan hisiu, shikanu hisiu, luliaw hisiu, binan hisiu kata djipun hisiu. 
+au binan hisiu avan tjaljqacavan, aza guansan hisiu masan sikamasanmusalj.
+ka 1867 a cavilj, tia pepuzuku i canping guan tucu i taituking, tiamadju na lemingdjelj ta hisiu, lemakac ta na seken pana a zaljum sasi sitalem tua lami pasa a canping kata cenkung a kadjunangan. 
+izua tu sepatj puluq sa unem a hisiu i canping mula. 
+sedjelja i qinaljan a na kisamalaing a cukulu ta hisiu. 
+ka 1966 a cavilj, taiwan sihu suylicy a sivarung a semananguaq tua canping hisiu. 
+sa kemasi 1971 a cavilj mata 1974 a cavilj, pacacurucuruing a kana hisiu, au lemingdjelj ta sinitaladjan ta zaljum i suimudin a pana pasanavalj a qinaljan. 
+izua a veljeng tu 25 maru tadjekuacan, aicu a zaljum a suimudin kemasi qetjung a tjayquvulj tua maruqalu a suimudin. 
+au tjevuta i tua masansimuluq sa ita a djalanan i taiwan, sa gemadugaduan pasa navalj a ljitaladj tua canping a pana.
+ka 1878 a cavalj kemasi tjiusiw patjavat ta mamaza a caucau ti [] kata tapuluq sa unem a caucau, kaqepui a semananguaq ta hisiu i cesan, tjemabeku ta zaljum kemasi binan a pana, avan sitalem tua lami. 
+tucu aza hisiu pinakakudan i cesan tinevelj a drusa hiciu kata tapuluq tjaljakuljay a hisiu, saka lemingdjelj tua ita a tjabeku, penenetj tua kikay a umaq kata papapiljiq tua tjakakudralan a qacilay a puzaljuman.
+aza binan hisiu avan angata tjaljaqacan a hisiu i pasakacedas i taiwan. 
+ka 1898 a cavilj liningdjelj na dripung, au ka 1936 a cavilj mumaljem semananguaq. 
+ka 1941 a cavilj a qemacuvung tua sengesengan, izua tjuruvu a pairang patjavat semamaza a qemuma ta kadjunangan. 
+aza tinalem a cam a pulingetjan nua kadjunangan kemasi 600 marutarauljan mapazulju tu 2,423 marutarauljan. 
+aza zaljum a binan hisiu kemasi binan pana, tu siva km, izua puluq sa tjelu a sevesevec a hisiu, au aza inalangan matu karuc.
+ka 1899 a cavilj aza i djipun kata zinhe a sika taqaljan i lizu pasa tua likavung pana kata djipun pana, marepusaladj a lemindjelj tua hisiu masan djipun hisiu, saka ita cavilj a qinacuvungan, kemasi djipun pana a pasaviri ljavaing kilakac zaljum. 
+pasa hung lima a tjakuljay a hisiu, au papirazeken na djipun, izua sepatj a tjaljakuljay a hisiu a sangasangasan mihe hisiu pasa djipun pana a pasanavalj ljavaing i tjavualji, au kata tjaisangas a djipun hisiu masan djipun hisiu. 
+ljakua aicu tjaisangas a djipun hisiu pavalitan ta siqivuan tu masanmusalj mihe hisiu.
+ka 1907 a cavilj, aza pirang kemasi kaledep sema pasakacedas a kemangekang, sa tjemabeku ta zaljum kemasi binan hisiu au lemindjelj lilung hisiu, a maqati sitalem tua lami a kadjunangan izua tu tjelu puluq marutarauljan. 
+ulja aza izua angata a pirang lukalivu kata kacalisian, kadrusanga cavilj sualapen sa pavaliten tua lilung hisiu. 
+ka kailikuz 1915 a cavilj na ripun a djiday, aza ripun sihu patagitagilj a gindjiw kanri tua kacalisian, au meliaw a kemasi tjuzuma patjavat ta mamaza a caucau. 
+ka 1923 a cavilj lemindjelj ta lilung dantay hisiu, ka 1941 a cavilj pavalitan ta guansan suyli qinepu. 
+ka 1948 a cavilj lemindjelj ta guansan hisiu, semananguaq ta binan pana lja rikitj tu djaljaw a siqaljudjan. 
+ka 1958 a cavilj qacuvungan a sengesengan, a laruqan 17 km, puluq pitju a tjakuljay a hisiu,aza inalangan matu karu pinakakudan,aza quma a pulingetjan nua kadjunangan 2,874 marutarauljan, a qacavan masanmusalj a hisiu i pasakacedas a taiwan.
+kemasi 1953 a cavilj mata 1957 a cavilj lemindjelj tua shikanu hisiu, satjemabeku ta zaljum kemasi luliaw pana pasa navalj ljavaing, sitalem tua lami i maka kalinku a sema taitu sevesevec a lizulizuk pasavilj. 
+izua a naitjumalji a hisiu i shikanu avan luliaw hisiu, ulja a sitaladjan na zaljum izua za djineqis a kinapalak a munday,  sa kemasi 1970 a cavilj aza siljtaladj a zaljum kata shikanu hisiu mamaw a tjabeku. 
+ljakua ika tjezua a zaljum imaza, aza i shikanu hisiu amin za ita tjakuljay a hisiu izuangata segaljugaljutj a zaljum, azazuma tjakuljay a hisiu a ika namakeljang, saka aza masan nemelj a tjakuljay a hisiu avan zua sinsekez, mata 1995 a cavilj mumalj semananguaq a qemacuvung tua sengesengan.
 cinalivatan.
 i tua uranda kata sipanya djiday.
-ka djinadjas a taiwan na uranda djiday, aza uranda dungindu(東印度) a kuba lemanda a liaw king imaza kacedasan, au 1637 a cavilj drusa qiljas sauing tu paljilji taza na djemadjas ta sengesengan a kamakama. ka 1642 a cavilj djadjasen i kacedasan, izua sividay i binan kata dakangku(大港口). ka 1644 a cavaij, dungindu a kuba lemingdjelj i binan qinaljan ta huyicy, masan kanri a kemasi kalingu kata valangaw, ljakua amin kemasi yuli a kalingu pasa tjacuqu pana i taitu.
+ka djinadjas a taiwan na uranda djiday, aza uranda dungindu a kuba lemanda a liaw king imaza kacedasan, au 1637 a cavilj drusa qiljas sauing tu paljilji taza na djemadjas ta sengesengan a kamakama. 
+ka 1642 a cavilj djadjasen i kacedasan, izua sividay i binan kata dakangku. 
+ka 1644 a cavaij, dungindu a kuba lemingdjelj i binan qinaljan ta huyicy, masan kanri a kemasi kalingu kata valangaw, ljakua amin kemasi yuli a kalingu pasa tjacuqu pana i taitu.
 cinting a djiday.
-ka dungnin a djiday( aza mincen 明鄭 sihu i pasanavlj tua taiwan) neka tjavavaw a kamakama a kanri semamaza. ka tjasangas a cintin a djiday, izua tjara puluq a qinaljan papavayan ta nanguwaq lja kisaseljan tu masan niamadju a caucau, ljakua kaivilj izua zuyikwi (朱一貴) marivu, aza cintin sihu qivu tu dikinay a matua na kacalisian a kadjunangan mata itaiday a cavilj. aicu tideq amin mapulju a pairang mabinan, kasiwtu, cenkungaw, ily kata sincen (’inamizukuan: sudadatan) a qemuljic.
-lja nusekuya sana kauvu a kinakadjunangan kata ika pasu madjulu pakata varukur i ljavek. katjaisangas a 1850 a cavilj, taituking sinan ika mirazek, au amin za kemasi rusung a caucau,tja tjuruvu a caucau marekutj a vaik a makacedas a kadjunangan, mata 1874 a cavilj, izua makaqeci kata ljukiu(琉球) a sikataqalljan a rikishi, ma pavalitan aicu a munday. ka cinting sihu linlingen aza tjavavaw a kamakama ti沈葆楨 kamangetjez a ciuku vutjan (福建) a sema cemedas a qemulic ta kadjunangan, saka kemasi gadugaduan i vecekadan tua taiwan i pasakacedas, tucu i pasanavalj a yilanking, kalingu, taituking patje tua sinevaudjan kata i pasakacedas tua ljaviljaving a vangecul, sipavecik pabinanting pakata taiwanvu(台灣府), sa lemindjelj a ting  tucu a taitu hichi. lja pazangal a linraku pakata cing ting sihu i kaledep kata qinaljan i kacedas. saka ti 沈葆楨 seman djalan pasa kacedas a kadjunangan.
-au ka izua djalan tjuruvu a caucau kemasi vutjan ljivavaw ta varukur a semamaza i valangaw, sa aicu a  bausang(寶桑) a mula avan sangasangasan a kinaizuanan nua pairang. ka 1886 a cavilj, taiwan masan a sen(省), au pavalitan a binanting tua taitucelizu (臺東直隸州), au aza 州治 lemidjelj i kalingu a ruisui qinaljan, saka za kamayan binanting lemindjelj tua zutung (州同), sa lemindjelj tua zupan(州判) i kalingu a minatu. au sini varung angata tjelu a kinapangaljan a paljavak, ljakua izua大莊rivuan (pairang kata pepu zukua rivuan a rikishi) , sa nakuyakuya pakata 州治, sa icu a 州治 avan angata pini binan.
+ka dungnin a djiday( aza mincen [] sihu i pasanavlj tua taiwan) neka tjavavaw a kamakama a kanri semamaza. 
+ka tjasangas a cintin a djiday, izua tjara puluq a qinaljan papavayan ta nanguwaq lja kisaseljan tu masan niamadju a caucau, ljakua kaivilj izua zuyikwi marivu, aza cintin sihu qivu tu dikinay a matua na kacalisian a kadjunangan mata itaiday a cavilj. 
+aicu tideq amin mapulju a pairang mabinan, kasiwtu, cenkungaw, ily kata sincen (’inamizukuan: sudadatan) a qemuljic.
+lja nusekuya sana kauvu a kinakadjunangan kata ika pasu madjulu pakata varukur i ljavek. 
+katjaisangas a 1850 a cavilj, taituking sinan ika mirazek, au amin za kemasi rusung a caucau, tja tjuruvu a caucau marekutj a vaik a makacedas a kadjunangan, mata 1874 a cavilj, izua makaqeci kata ljukiu a sikataqalljan a rikishi, ma pavalitan aicu a munday. 
+ka cinting sihu linlingen aza tjavavaw a kamakama ti[] kamangetjez a ciuku vutjan a sema cemedas a qemulic ta kadjunangan, saka kemasi gadugaduan i vecekadan tua taiwan i pasakacedas, tucu i pasanavalj a yilanking, kalingu, taituking patje tua sinevaudjan kata i pasakacedas tua ljaviljaving a vangecul, sipavecik pabinanting pakata taiwanvu, sa lemindjelj a ting  tucu a taitu hichi. 
+lja pazangal a linraku pakata cing ting sihu i kaledep kata qinaljan i kacedas.
+ saka ti [] seman djalan pasa kacedas a kadjunangan.
+au ka izua djalan tjuruvu a caucau kemasi vutjan ljivavaw ta varukur a semamaza i valangaw, sa aicu a  bausang a mula avan sangasangasan a kinaizuanan nua pairang. 
+ka 1886 a cavilj, taiwan masan a sen, au pavalitan a binanting tua taitucelizu, au aza [] lemidjelj i kalingu a ruisui qinaljan, saka za kamayan binanting lemindjelj tua zutung, sa lemindjelj tua zupan i kalingu a minatu. 
+au sini varung angata tjelu a kinapangaljan a paljavak, ljakua izua[]rivuan (pairang kata pepu zukua rivuan a rikishi), sa nakuyakuya pakata [], sa icu a [] avan angata pini binan.
 ripun a djiday.
-ka 1895 a cavilj, pakata sinanpapasusuan a maguan a vecik, taiwan siveciq sasipavay ta ripun. ka pitju qiljas tjelu qadaw pasekeljang ta《地方官假官制制定件》, aicu sini varung aza i cinting sihu a vu(府) pavalitan tua king, au kata citing(支廳), saka taitucelizu ljateku masan ta citing mamaw kata citing i kaledep. au sini varung tu lemindjelj tua taituciting i tainanking. ljakua ripun sihu inika nakanri a pasakacedas a navalj kata vecekadan tua taiwan, mata alu qiljas pavalit tainan mincencebu(民政支部) taiducucansu. ka 1896 a cavilj a sepatj qiljas, ripun sihu avan zuanga kanri tua i  cemedasan a kadjunangan, au ka 1897 a cavilj unem qiljas lemindjelj a taiduciting nasetainanking, saka taitucelizu a sini varung lemindjelj tjelu a kinapangaljan a paljavak, izua binan (tucu masan taiduking ika cesan kata guansan), suiwi(tucu kemasi i pasanavalj nua sufung a guan kata cesan saka guansan), kata cilay (tucu na i kalingu pasaviri a sufung) kakudan a gimeng. ka 1898 a cavilj unem qiljas, sualapen a kakudan a gimeng. saka alu qiljas lemindjelj tua kalingu minatu cucansu, aicu kanri ta kemasi pasaviri nua ruisui qinaljan. ka 1900 a cavilj lima qiljas, au lemindjelj tua cenkungaw(tucu i cenkung, dunghe kata canping), buseke(tucu i ily kata vuli), kata binan a cucansu. ka 1901 a cavilj unem qiljas, aza binan cucansu ceviqen a zuma palangwi cucansu(tucu i tjavuali kata daibu). 
-ka 1901 a cavilj tapuluq sa ita qiljas, aicu pakata qinaljan a pavaliten a sirasudjan, cucansu pavalitan tua citing. au izua kalingu minatu, buseke, cenkungaw kata palangwi masan sepatj a citing. ka 1909 a cavilj tapuluq qiljas, kalingu minatu kata buseke citing piliqen sa lemindjelj tua kalingu minatu ting. ka 1915 a cavilj, tucu i cesan, guansan kata luye guan lemindjelj tua lilungciting(里巄支廳). ka 1920 a cavij, lilungciting qepuing pasa ta taidu citing, sa cenkungaw kata palangwi citing pavalitan a ngadan tua sinkang kata daibu citing. ka 1931 a cavilj, taiduciting pakilingdjelem tua lilungciting. ka 1937 a cavilj, aza daibuciting kata taiduciting qepuing ta i taidudjin. sa lilungciting kata sinkang citing pavalitan a ngdan tu guansandjin kata sinkangdjin.
+ka 1895 a cavilj, pakata sinanpapasusuan a maguan a vecik, taiwan siveciq sasipavay ta ripun. 
+ka pitju qiljas tjelu qadaw pasekeljang ta[], aicu sini varung aza i cinting sihu a vu pavalitan tua king, au kata citing, saka taitucelizu ljateku masan ta citing mamaw kata citing i kaledep. 
+au sini varung tu lemindjelj tua taituciting i tainanking. 
+ljakua ripun sihu inika nakanri a pasakacedas a navalj kata vecekadan tua taiwan, mata alu qiljas pavalit tainan mincencebu taiducucansu. 
+ka 1896 a cavilj a sepatj qiljas, ripun sihu avan zuanga kanri tua i  cemedasan a kadjunangan, au ka 1897 a cavilj unem qiljas lemindjelj a taiduciting nasetainanking, saka taitucelizu a sini varung lemindjelj tjelu a kinapangaljan a paljavak, izua binan (tucu masan taiduking ika cesan kata guansan), suiwi(tucu kemasi i pasanavalj nua sufung a guan kata cesan saka guansan), kata cilay (tucu na i kalingu pasaviri a sufung) kakudan a gimeng. 
+ka 1898 a cavilj unem qiljas, sualapen a kakudan a gimeng. 
+saka alu qiljas lemindjelj tua kalingu minatu cucansu, aicu kanri ta kemasi pasaviri nua ruisui qinaljan. 
+ka 1900 a cavilj lima qiljas, au lemindjelj tua cenkungaw(tucu i cenkung, dunghe kata canping), buseke(tucu i ily kata vuli), kata binan a cucansu. 
+ka 1901 a cavilj unem qiljas, aza binan cucansu ceviqen a zuma palangwi cucansu(tucu i tjavuali kata daibu). 
+ka 1901 a cavilj tapuluq sa ita qiljas, aicu pakata qinaljan a pavaliten a sirasudjan, cucansu pavalitan tua citing. 
+au izua kalingu minatu, buseke, cenkungaw kata palangwi masan sepatj a citing. 
+ka 1909 a cavilj tapuluq qiljas, kalingu minatu kata buseke citing piliqen sa lemindjelj tua kalingu minatu ting. 
+ka 1915 a cavilj, tucu i cesan, guansan kata luye guan lemindjelj tua lilungciting. 
+ka 1920 a cavij, lilungciting qepuing pasa ta taidu citing, sa cenkungaw kata palangwi citing pavalitan a ngadan tua sinkang kata daibu citing. 
+ka 1931 a cavilj, taiduciting pakilingdjelem tua lilungciting. 
+ka 1937 a cavilj, aza daibuciting kata taiduciting qepuing ta i taidudjin. 
+sa lilungciting kata sinkang citing pavalitan a ngdan tu guansandjin kata sinkangdjin.
 kapuamin a maqaqeci.
-ka 1945 a cavilj puluq qiljas 25 qadaw, tjuka minku sihu djemadjas i taihuku. ka tapuluq sa ita qiljas unem qadaw lemindjelj tua taiduking接管委會. au ka 1946 a cavilj ita qiljas tapuluq sa drusa lemindjelj tua taiduking patjeljatucu, aza guansandjin, taidudjin kata sinkangdjin pavalitan tua king. au taiducen, a pitje vililan anga a cavilj a ripun a djiday, taidudje(臺東街) qepuing ta i binanzuang(卑南庄), saka kapuamin a maqaqeci, aza binanzuang kata taidudjin a kacalisian a kadjunangan qepuing a binan qinaljan, saka taidudje pavalitan tua taiducen. ka sepatj qiljas ita qadaw, shikanu, guansan, tjavuali kata daibu a gadugaduan cineviqe a yaping, haydan, kanalun, daren masan a kacalisian a qinaljan. au unem qiljas ita qadaw, lemindjelj tua zuma kacalisian a qinaljan i tamazatu. mamaw a cavilj, aza sinkang qinaljan paljavavaven masan cenkungcen, guansan qinaljan paljavavaven masan lilungcen, dulan qinaljan pavalitan tua vavukud qinaljan. au tapuluq sa ita qiljas, kanalun qinaljan pavalitan qepuing a tjavuali, au kanalun pavalitan ngadan masan tjisan(金山). ka 1947 a cavilj, tamazatu masan lanyu aya. ka 1948 a cavilj drusa qiljas, sualapen aza tjelu a king, au a guan pavalitan masan a king. ka 1949 a cavilj tjelu qiljas, lemindjelj tua dungvungcisu(東峰區署) i lilungcen, kanri tua lima a kacalisian a qinaljan mata 1951 a cavilj sepatj qiljas qulipen. ka 1954 a cavilj, lilungcen pavalitan ta guansancen. ka 1958 a cavilj, tjisan pavalitan tua djinvung. ka 1974 a cavilj puluq qiljas, taiducen qepuing a pasa binan qinaljan masan mula. au ka 1976 a cavilj ita qiljas ita qadaw, taiducen pavalitan masan taidu hichi.
+ka 1945 a cavilj puluq qiljas 25 qadaw, tjuka minku sihu djemadjas i taihuku. 
+ka tapuluq sa ita qiljas unem qadaw lemindjelj tua taiduking[]. 
+au ka 1946 a cavilj ita qiljas tapuluq sa drusa lemindjelj tua taiduking patjeljatucu, aza guansandjin, taidudjin kata sinkangdjin pavalitan tua king. 
+au taiducen, a pitje vililan anga a cavilj a ripun a djiday, taidudje qepuing ta i binanzuang, saka kapuamin a maqaqeci, aza binanzuang kata taidudjin a kacalisian a kadjunangan qepuing a binan qinaljan, saka taidudje pavalitan tua taiducen. 
+ka sepatj qiljas ita qadaw, shikanu, guansan, tjavuali kata daibu a gadugaduan cineviqe a yaping, haydan, kanalun, daren masan a kacalisian a qinaljan. 
+au unem qiljas ita qadaw, lemindjelj tua zuma kacalisian a qinaljan i tamazatu. 
+mamaw a cavilj, aza sinkang qinaljan paljavavaven masan cenkungcen, guansan qinaljan paljavavaven masan lilungcen, dulan qinaljan pavalitan tua vavukud qinaljan. 
+au tapuluq sa ita qiljas, kanalun qinaljan pavalitan qepuing a tjavuali, au kanalun pavalitan ngadan masan tjisan. 
+ka 1947 a cavilj, tamazatu masan lanyu aya. 
+ka 1948 a cavilj drusa qiljas, sualapen aza tjelu a king, au a guan pavalitan masan a king. 
+ka 1949 a cavilj tjelu qiljas, lemindjelj tua dungvungcisu i lilungcen, kanri tua lima a kacalisian a qinaljan mata 1951 a cavilj sepatj qiljas qulipen. 
+ka 1954 a cavilj, lilungcen pavalitan ta guansancen. 
+ka 1958 a cavilj, tjisan pavalitan tua djinvung. 
+ka 1974 a cavilj puluq qiljas, taiducen qepuing a pasa binan qinaljan masan mula. 
+au ka 1976 a cavilj ita qiljas ita qadaw, taiducen pavalitan masan taidu hichi.
 caucau.
-lja taituking tja kigalju a mirazek, au mavan padjengi tjaljaliaw aza na sicuacuayan a nemanemanga imaza. izua 30% a kacalisiyan, amizuku, puyuma zuku, rukai zuku, paiwan zuku kata tau zuku, avan angata tjalja tjuruvuan a kacalisian pakata king i taiwan.
-izua tu drusa puluq sa ita kudraw a caucau, 60 caucau/km², avan nangata tjalja kerian a king imaza i taiwan a caucau. saka ta tjalja kerian a caucau aza kinapangaljan a paljavak a sangasangasan kata masanmusalj. aicu a caucau i taituking tjakedri ta i cangwa hici a caucau.
-· tjaliaw ta puluq kudraw a caucau: taitu hici
-· tapuluq kudraw mata drusa kudraw a caucau: bianan, cenkungceng, tjauvali.
-· lima kuzulj mata ita kudraw a caucau: guansanceng, vavukud, cesan, shikanu, canping, daibu, tamazatu.
-· tjakedri ta lima kuzulj a caucau: hayduan, kasiwtu, djinvung, yanping, daren.
-caucau a mapavalitan i taiduking
-· ljemeqaca：neka
-· mirazek：tamazatu
-· ika pasekakezeng：kasiwtu
-· sisekez：neka
-· mekedri：taitu hici、djinvung、cesan、binan、tjauvali、yanping
-· selapay mekedri：vavukud、guansanceng、shikanu、daren、aydan、canping、cenkung、daibu
+lja taituking tja kigalju a mirazek, au mavan padjengi tjaljaliaw aza na sicuacuayan a nemanemanga imaza. 
+izua 30% a kacalisiyan, amizuku, puyuma zuku, rukai zuku, paiwan zuku kata tau zuku, avan angata tjalja tjuruvuan a kacalisian pakata king i taiwan.
+izua tu drusa puluq sa ita kudraw a caucau, 60 caucau/km², avan nangata tjalja kerian a king imaza i taiwan a caucau. 
+saka ta tjalja kerian a caucau aza kinapangaljan a paljavak a sangasangasan kata masanmusalj. 
+aicu a caucau i taituking tjakedri ta i cangwa hici a caucau.
+tjaliaw ta puluq kudraw a caucau: taitu hici.
+tapuluq kudraw mata drusa kudraw a caucau: bianan, cenkungceng, tjauvali.
+lima kuzulj mata ita kudraw a caucau: guansanceng, vavukud, cesan, shikanu, canping, daibu, tamazatu.
+tjakedri ta lima kuzulj a caucau: hayduan, kasiwtu, djinvung, yanping, daren.
+caucau a mapavalitan i taiduking.
 sinupuan.
 tucu i taitu izua ita daigaku, ita siumung sengsengan gaku, tapuluq a kaucung a gaku, ita gaku tinevelj kaucung kata kucung, drusa puluq sa drusa kucung a gaku kata siva puluq sa ita a kukumin a gaku.
 nasidjaravacan.
 hikuki.
 aicu a siayaya pakata hikugiu masan ta hikugiu na caucau, au izua malji na sivitai a hikugiu, a zihang hikugiu, i pasaviri tua taidu hichi, saka tucu izua sepatj a hikugiu i taiduking, masan tjaljaliaw a hikugiu aza king i taiwan.
 kakipucemelan.
-aicu i taituking kemasi cuay namasan i taiwan tjalja kedrian pakata kakipucemel a kadjunangan
+aicu i taituking kemasi cuay namasan i taiwan tjalja kedrian pakata kakipucemel a kadjunangan.
 sinkiw.
 aicu a pakata i taituking a sinkiw, aza nadjemadjas a centan avan nukisamalaing, sumaya ca itaitu numapavalit a kamakama maljian a nakipusengsengan a caucau, ljaki za ika kumuing angata nu mapavalit a i dukusiw a guciw, malji u tauta, aza napusalatj a sinkiu izua manguaqan a tja pacucunan.
-i taitu, namaljetimalji a tadjalan, izua kemasi ta cacukingan a kisankiciqaw kata nugiu,  kata igukusiu a mareka kumuing, timazua a i likuz izua maljetimalji a kinicaingan a manguaqan. kemasi 1950 a cavilj djemulung tua sinkiu tazua, aza i taituking a sinkiw matjatjuaya wu(吳), huang(黃) tiamadju sedjelja kumintang, ljakua maqaqariw, tucuanga cavilj, aicu i taituking tjevuta tja liaw a saki puvarung tua nasihu a sengesengan.
+i taitu, namaljetimalji a tadjalan, izua kemasi ta cacukingan a kisankiciqaw kata nugiu,  kata igukusiu a mareka kumuing, timazua a i likuz izua maljetimalji a kinicaingan a manguaqan. 
+kemasi 1950 a cavilj djemulung tua sinkiu tazua, aza i taituking a sinkiw matjatjuaya wu, huang tiamadju sedjelja kumintang, ljakua maqaqariw, tucuanga cavilj, aicu i taituking tjevuta tja liaw a saki puvarung tua nasihu a sengesengan.
 i taituking a tadjalan a sidjiyan keming tua manguwaqan nucuayanga malji a kinisan kata zuma a sidjiyan, avan zua masan ulaimi tiamadju, au nu izua nazuma tja bulay a kinipuvarung a kinsic a munday, ika sananemaing nua nadjemadjas ta qapulu a marekatja pupicul a kamakama, sa ika kicaciul pasaladjan, au nudjemaljum ta sinkiw, sa hantai tua ika pacencen a i qinaljan, sipazulung tua tjuzuma a sidjiyan marivurivu sakamaya, ka 1970 a cavilj lja malivu a sidjiyan, aza i taitu nakisya a disiba uli patjavaten anga ta pasa kanle disiaba kata taituking kakaigiyan a kadjunangan, lja avan a nadjemadjas a sidjiyan, tiamadju a kisanmalaing tu pasa mazing nanga i yinwan.
-
 Taiwan:
 Taiwan 
-Taiwan (ciniukukuan: 台灣; pinairangan: Tâi-oân; nginaingayngan: Thòi-vàn; pinaywanan: taiwan), izuanan a zuma ngadan aza “福爾摩沙” (qivu ti sipanya "Hermosa" ka 1584 a cavilj) aya, mavan a qinaljan imaza i pasakacedas a asia, avan tauta a qinaljan i pasakaledep a viri a taipingyan, imaza i vecekadan a liucyu (琉球) qinaljan kata viliping qinaljan. i kaledep avan zua taiwan ljavek (台灣海峽) kata tailiku, izua tu 36,197 km² a pulingetjan nua kadjunangan. avan nu sikamasansi tjelu puluq sa alu a qinaljan i kacauan. au pimaza itua sedjelj a gadugaduan, au aza lizuk sedjelj a i pasakalep patje makaljaving ta ljavek. sa izua maretimaljimalji a kadjunangan i qinaljan. izua peihuikuisiyen pakamaza, saka mavan a 副熱帶季風氣候 i viri ta peihuikuisiyen, i navalj ta peihuikuisiyen avan cu a kalevelevan semezan tu kemaledeledev. avan auta maretimaljimalji a kadjunangan a temalimuzav katua liaw a racev. 
-Izua drusa kuzulj sa tjelu taiday a kudrav a caucau, au izua paselaw ta 70 % imaza i pasakaledep a man lima a tjaqacavan a tjaljaveqeveqan. au izua tu pitju taiday a kudrav a caucau imaza i taipaq aicu a kadjunangan. saka kimaya tua pairang kata kacalisian zuku. pakata kacalisian imaza, sedjelj a 南島 zuku tiamadju, au pakata pairang izua 閩南, haka kata ljautia aicu tjelu a zuku, saka a 閩南 zuku avan nu tjatjuruvuan a caucau nua i taiwan. 
-中華民國 zunghua minku, avan nu 民主共和制 a kuga i papamaw a lingulj i kacedas ta kacauan (asia aya itjen), mavan auta aza sangasangasan a 民主共和制a kuga i asia. kemasi 1912 a cavilj mata 1971 a cavilj tjaisangas ta kitjaula ta 聯合國, nakemeljang aicu a “中國” a timitim nua minecengan paka mareka kuga, ljakua izua tu 36,197 km² a pulingetjan nua kadjunangan. imaza i taiwan a qinaljan, penhu a qinaljan, kinmen a qinaljan imaza i ljaqedi ta vutjan sen, izuanan wucyu (烏坵) a qinaljan, liantjang a qinaljan, dungsa qinaljan (東沙群島), taipin qinaljan (太平島) kata zungsa djiaw (中洲礁). au sangasangasan a hici avan nu taipaq hici, au aza tjaljaqacavan a hici mavan a atalasi a taipaq hici. izua tu 2,360 a kudraw a caucau, sedjelj a kacalisian kata pairang. pakata kai na kuga, izua ciniukukuan, kemacalisianan, pinairangan, nginaingayngan, kai nase wucyu, kai nase mazu (馬祖) kata semalima a kai. au pakata vecik na kuga sedjelj a han (漢) a vinecikan. 
-Puaming ta 辛亥革命, ka 1912 a cavilj icigac ita qadaw lemindjelj ta zunghua minku, masan ta sangasangasan a 民主共和a kuga nakinemekeljang aravac pakata tjuruvu a kuga i gaikuku. kemasi cinting alapen ta kadjunangan na ciuku, ka 1945 a cavilj makilu a ripun a kadjunangan i taiwan. tazua ayatua aza sikamasanmusalj a maqaqeci kata gungcangtang (共產黨), sa ka 1949 a cavilj aza kumintang sihu patjavat imaza i taiwan. au izua kuria a maqaqeci (1950-1953) sa azua amirika a sivitay mangetjez imaza i taiwan, sa ka 1954 a cavilj, izua sinanpapasusuan a “中美共同防禦條約” aicu a vecik kata amirika.
-Ka 1991 a cavilj gugac ici qadav, aza cungtung ti li den-huy sualapen ta “動員戡亂時期臨時條款”, imi na semkez ta maqaqeci kata gungcangtang. ayatua pavalitan ta paljavak tua kadjunangan sa dungsa qinaljan kata nansa qinaljan sipavecik pasa tua takaw hici, tucu izua drusa a sen, unem a zesiase (taipaq hici, atalasi a taipaq hici, tawyen, taizung, tainan kata takaw) kimaya ta 22 a vineqeveqan nua simicengan. 
-Pakata “臺灣” aicu a sinipapungadan kemasi izua aicu a nase silaya zuku a qinaljan imaza i pasanavalj a taiwan qivu ta “ tayouan” (台窩灣社), aicu a kadjunangan avan angata imaza i detdet tua tainan anpin cy, au izuanan a zuma tjaucikel tua kemasi aza dawulung zuku a “taiwuwang” (台窩灣社) a qinaljan. sa aza uranda qivu ta aicu a ngadan au sivecikan tua “teyoan”, “taioan”, “teyouvan”, “tayouan”, “taiyouan” kata “taiyouhan”. au aza pairang sivecikan pasa ciniukukuan tua “大員” (Tāi-uân)」, “大苑” (Tāi-uán), “臺員” (Tâi-uân), “大灣” (Tāi-uân), kata “臺窩灣 (Tâi-o-uân)”. au mata cinting a djiday, na sikeljangan aicu a “臺灣” patje tucu.
-Kasicuayan pimaza i taiwan avan a kacalisian a kakaizuanan, ljakua mata tu 1850 a cavilj, tjaljazua caucau namangetjez imaza kemasi ciuku, napapucekelj tiamadju kata pinpuzuku, saka aicu han zuku kitjauvalit tua kacalisian, masan ta tjatjuruvuan a zuku i taiwan. pakata paqulid a vecikan patje tucu, aza cinalivatan izua dadu (大肚王國), uranda kata sipanya a djiday (荷西時期), mincen a djiday (明鄭時期), cinting a djiday (清治時期) kata ripun a djiday (日治時期), au ka 1945 a cavilj 10 qiljas puamin ta maqaqeci maumalj pavalitan tua kumin sihu sa kanri. ka 1949 a cavilj, azua kumintang patjavat i taiwan, sa tucu aicu a taiwan a kadjunangan masan ta zunghua minku sihu na paljavak patjeljatucu. 
-Kemasi 1860 a cavilj, pimaza i taiwan patagilj mirazek tua mareka minatu, au mata ripun a djiday izua liaw a vaquan a sengesengan, ka mingku sihu patjavat imaza kata pusaladj a amirika auta. ka 1960 a cavilj, izua maumalj aravac pakata kinsic kata siakai imaza, izua nanguaq a ligu, namasan ta “亞洲四小龍” i aisa. ka 1990 a caviljan, taiwan mavan a tjalja mirazek a kuga patjelja tucu. avan sika pimaza i taiwan izuanga mirazek a manalang a sengsengan kata maretimaljimalji a keci a sengsengan. pakata siubay imaza, kimaya tua keci a sengsengan, avan sika kipaisu itjen kemasi i gaikuku, kumalji sinan pazangal itua keci a sengsengan kata siubay tucu, izuanan bunka a sengsengan kata kakivangavangan a sengsengan. 
+Taiwan (ciniukukuan: 台灣; pinairangan: Tâi-oân; nginaingayngan: Thòi-vàn; pinaywanan: taiwan), izuanan a zuma ngadan aza “[]” (qivu ti sipanya "Hermosa" ka 1584 a cavilj) aya, mavan a qinaljan imaza i pasakacedas a asia, avan tauta a qinaljan i pasakaledep a viri a taipingyan, imaza i vecekadan a liucyu qinaljan kata viliping qinaljan. 
+i kaledep avan zua taiwan ljavek kata tailiku, izua tu 36,197 km² a pulingetjan nua kadjunangan. 
+avan nu sikamasansi tjelu puluq sa alu a qinaljan i kacauan. 
+au pimaza itua sedjelj a gadugaduan, au aza lizuk sedjelj a i pasakalep patje makaljaving ta ljavek. 
+sa izua maretimaljimalji a kadjunangan i qinaljan. 
+izua peihuikuisiyen pakamaza, saka mavan a [] i viri ta peihuikuisiyen, i navalj ta peihuikuisiyen avan cu a kalevelevan semezan tu kemaledeledev. 
+avan auta maretimaljimalji a kadjunangan a temalimuzav katua liaw a racev. 
+Izua drusa kuzulj sa tjelu taiday a kudrav a caucau, au izua paselaw ta 70 % imaza i pasakaledep a man lima a tjaqacavan a tjaljaveqeveqan. 
+au izua tu pitju taiday a kudrav a caucau imaza i taipaq aicu a kadjunangan. 
+saka kimaya tua pairang kata kacalisian zuku. 
+pakata kacalisian imaza, sedjelj a [] zuku tiamadju, au pakata pairang izua [], haka kata ljautia aicu tjelu a zuku, saka a [] zuku avan nu tjatjuruvuan a caucau nua i taiwan. 
+[] zunghua minku, avan nu [] a kuga i papamaw a lingulj i kacedas ta kacauan (asia aya itjen), mavan auta aza sangasangasan a []a kuga i asia. 
+kemasi 1912 a cavilj mata 1971 a cavilj tjaisangas ta kitjaula ta [], nakemeljang aicu a “[]” a timitim nua minecengan paka mareka kuga, ljakua izua tu 36,197 km² a pulingetjan nua kadjunangan. 
+imaza i taiwan a qinaljan, penhu a qinaljan, kinmen a qinaljan imaza i ljaqedi ta vutjan sen, izuanan wucyu a qinaljan, liantjang a qinaljan, dungsa qinaljan, taipin qinaljan kata zungsa djiaw. 
+au sangasangasan a hici avan nu taipaq hici, au aza tjaljaqacavan a hici mavan a atalasi a taipaq hici. 
+izua tu 2,360 a kudraw a caucau, sedjelj a kacalisian kata pairang. 
+pakata kai na kuga, izua ciniukukuan, kemacalisianan, pinairangan, nginaingayngan, kai nase wucyu, kai nase mazu kata semalima a kai. 
+au pakata vecik na kuga sedjelj a han a vinecikan. 
+Puaming ta [], ka 1912 a cavilj icigac ita qadaw lemindjelj ta zunghua minku, masan ta sangasangasan a []a kuga nakinemekeljang aravac pakata tjuruvu a kuga i gaikuku. 
+kemasi cinting alapen ta kadjunangan na ciuku, ka 1945 a cavilj makilu a ripun a kadjunangan i taiwan. 
+tazua ayatua aza sikamasanmusalj a maqaqeci kata gungcangtang, sa ka 1949 a cavilj aza kumintang sihu patjavat imaza i taiwan. 
+au izua kuria a maqaqeci (1950-1953) sa azua amirika a sivitay mangetjez imaza i taiwan, sa ka 1954 a cavilj, izua sinanpapasusuan a “[]” aicu a vecik kata amirika.
+Ka 1991 a cavilj gugac ici qadav, aza cungtung ti li den-huy sualapen ta “[]”, imi na semkez ta maqaqeci kata gungcangtang. 
+ayatua pavalitan ta paljavak tua kadjunangan sa dungsa qinaljan kata nansa qinaljan sipavecik pasa tua takaw hici, tucu izua drusa a sen, unem a zesiase (taipaq hici, atalasi a taipaq hici, tawyen, taizung, tainan kata takaw) kimaya ta 22 a vineqeveqan nua simicengan. 
+Pakata “臺灣” aicu a sinipapungadan kemasi izua aicu a nase silaya zuku a qinaljan imaza i pasanavalj a taiwan qivu ta “ tayouan”, aicu a kadjunangan avan angata imaza i detdet tua tainan anpin cy, au izuanan a zuma tjaucikel tua kemasi aza dawulung zuku a “taiwuwang” a qinaljan. 
+sa aza uranda qivu ta aicu a ngadan au sivecikan tua “teyoan”, “taioan”, “teyouvan”, “tayouan”, “taiyouan” kata “taiyouhan”. 
+au aza pairang sivecikan pasa ciniukukuan tua [], kata []. au mata cinting a djiday, na sikeljangan aicu a “[]” patje tucu.
+Kasicuayan pimaza i taiwan avan a kacalisian a kakaizuanan, ljakua mata tu 1850 a cavilj, tjaljazua caucau namangetjez imaza kemasi ciuku, napapucekelj tiamadju kata pinpuzuku, saka aicu han zuku kitjauvalit tua kacalisian, masan ta tjatjuruvuan a zuku i taiwan. 
+pakata paqulid a vecikan patje tucu, aza cinalivatan izua dadu, uranda kata sipanya a djiday, mincen a djiday, cinting a djiday kata ripun a djiday, au ka 1945 a cavilj 10 qiljas puamin ta maqaqeci maumalj pavalitan tua kumin sihu sa kanri. 
+ka 1949 a cavilj, azua kumintang patjavat i taiwan, sa tucu aicu a taiwan a kadjunangan masan ta zunghua minku sihu na paljavak patjeljatucu. 
+Kemasi 1860 a cavilj, pimaza i taiwan patagilj mirazek tua mareka minatu, au mata ripun a djiday izua liaw a vaquan a sengesengan, ka mingku sihu patjavat imaza kata pusaladj a amirika auta. 
+ka 1960 a cavilj, izua maumalj aravac pakata kinsic kata siakai imaza, izua nanguaq a ligu, namasan ta “[]” i aisa. 
+ka 1990 a caviljan, taiwan mavan a tjalja mirazek a kuga patjelja tucu. avan sika pimaza i taiwan izuanga mirazek a manalang a sengsengan kata maretimaljimalji a keci a sengsengan. 
+pakata siubay imaza, kimaya tua keci a sengsengan, avan sika kipaisu itjen kemasi i gaikuku, kumalji sinan pazangal itua keci a sengsengan kata siubay tucu, izuanan bunka a sengsengan kata kakivangavangan a sengsengan. 
 Avan sika izua maretimaljimalji a caucau patjavat imaza, sa izuanan maretimaljimalji a tja vinarungan a sikataqaljan. 
 kadjunangan.
-Tucu a 99% kadjunangan na zunghua minku sihu avan zua i taiwan a qinaljan kata 1% zuma kedri a qinaljan ljededet. sa izua tu 36,197 km² a pulingetjan nua kadjunangan. a i kaledep mavan a taiwan ljavek (台灣海峽), a i viri avan zua dunghai (東海), a i tjaikacedas mavan a taipingyan (ljavek a viliping), a i navalj avan zua lusung ljavek (呂宋海峽), a i keledep a navalj mavan a nanhai (南海). maka ljaviljaving kemasi viri patje navalj tu 400 km, a tjaljalavan kimaya 145km a tjeza. au izua anan i pasakaledep a viri a penhu a qinaljan, izua kimen a qinaljan, wucyu (烏坵), mazu (liantjang) ljaqeti ta ciuku a kadjunangan. izua dungsa qinaljan (東沙群島), zungsa qinaljan (中沙群島) kata nansa qinaljan (南沙群島) na sepulingetj i nanhai ljavek, ljakua neka nu sikataqaljan imaza. 
-A kinalangan nua kadjunangan matu vurasi, izua gadugaduan, calisi, likeljukeljung, lizulizk kata 台地, 
+Tucu a 99% kadjunangan na zunghua minku sihu avan zua i taiwan a qinaljan kata 1% zuma kedri a qinaljan ljededet. 
+sa izua tu 36,197 km² a pulingetjan nua kadjunangan. a i kaledep mavan a taiwan ljavek, a i viri avan zua dunghai, a i tjaikacedas mavan a taipingyan (ljavek a viliping), a i navalj avan zua lusung ljavek, a i keledep a navalj mavan a nanhai. 
+maka ljaviljaving kemasi viri patje navalj tu 400 km, a tjaljalavan kimaya 145km a tjeza. 
+au izua anan i pasakaledep a viri a penhu a qinaljan, izua kimen a qinaljan, wucyu, mazu (liantjang) ljaqeti ta ciuku a kadjunangan. 
+izua dungsa qinaljan, zungsa qinaljan kata nansa qinaljan na sepulingetj i nanhai ljavek, ljakua neka nu sikataqaljan imaza. 
+A kinalangan nua kadjunangan matu vurasi, izua gadugaduan, calisi, likeljukeljung, lizulizk kata [], 
 siqivuan.
-Ka uranda a djiday, qivu ta “Tayouan” aya, au ka mincen djiday sualapen ta “Tayouan” aicu a siqivuan, sa pavalitan ta “東都”（ti kamakama 鄭成功), “東寧” (ti kamakama 鄭經). katjaivililj, aza cinting sihu lemingdjelj ta “vu” sa qivu ta “taiwan” siayaya. izuanan liaw a siqivuan “寶島”, “鯤島”, “蓬萊”, “福爾摩沙”, “福摩薩” kata “高砂國”. 
-Ayatua pimaza i taiwan izua tja liaw a racev, avan sika izuanan “寶島” aicu a siqivuan. pakata imaza i sicuayan a sunatj a《山海經》, venecik ta taiwan avan zua “海上神山仙島蓬萊” kata “瀛洲” aicu a bulay a ngadan. au ayatua izua lizuk a kadjunangan, avan sika izuanan “鯤島” aya tjaucikel. 
-Aza ripun kasicuayan qivu taiwan ta “高砂”, “高砂國” kata “高山國” siayaya. kemasi tua “打狗山” a ljingav au pavalitan tua “高砂 Takasago” aya. pacun ta venecikan i《異國渡海御朱印帳》aicu a sunatj tucu pimaza i ripun a 京都金地院, izuanga mamaw a qivu “タカサゴ Takasago” aicu avan nu kai na ripun a 片假名 a vecik. 
-Aza sicuayan a kuria qivu taiwan ta “大樊”, kai na kuria venecik ta “대번”, “daebeon” aya, avan angata kemasi “大員” aicu a han a vecik. 
-Tucu nu venecik ta han a vecik a taiwan, avan zua “臺灣”, amin a sivecikan ta “臺” i kubung kata官方國書, ljakua makaya i sinbung kata timitja a taqaljaqaljan venecik ta “台”. 
-Ka 1905 a cavilj, lemindjelj ta 中國同盟會 i ripun tukiyu (東京), tazua a palaingan qivu ta “驅除韃虜, 恢復中華, 創立民國, 平均地權”. tjaivililj a cavilj, ti 孫中山 i kaigigi mapaqulid ta kuga a ngadan avan nu “中華民國” aya. au aicu a “民” a vecik kicuacual tua rishi (瑞士) kata amirika aicu drusa a kuga mavan a “民權制度”, imi ta sinan pazangal aza taqaljaqaljan italadj tua kuga. 
-Au kemai zunghua minku lemindjeljanga, izua anan “中國” kata “華” aicu a siqivuan. kumalji ka 1949 a cavilj aza zunghua minku sihu lja zua maqaqeci kata 共產黨 italadj i ciuku, sa patjavat ta sihu imaza i taipaq patjetucu. ljakua mata vaik imaza i kacauan ti ciang djin-ku cungtung, tja zunghua minku sihu qivu anan itjen “中國”, “自由中國” aya. saka inika gemaugaw aicu a “中華人民共和國” mavan a paqulid a kuga, siqivu ta kadjunangnan i ciuku avan zua “大陸地區” kata “大陸淪陷區”. au tja zunghua minku sihu qivu ta titjen nadjemadjas tua kadjunangan avan nu “臺閩地區”, “臺灣地區” kata “自由地區” ayain.  
+Ka uranda a djiday, qivu ta “Tayouan” aya, au ka mincen djiday sualapen ta “Tayouan” aicu a siqivuan, sa pavalitan ta “[]”（ti kamakama []), “[]” (ti kamakama []). 
+katjaivililj, aza cinting sihu lemingdjelj ta “vu” sa qivu ta “taiwan” siayaya. 
+izuanan liaw a siqivuan [] kata []. 
+Ayatua pimaza i taiwan izua tja liaw a racev, avan sika izuanan “[]” aicu a siqivuan. 
+pakata imaza i sicuayan a sunatj a[], venecik ta taiwan avan zua “[]” kata “[]” aicu a bulay a ngadan. 
+au ayatua izua lizuk a kadjunangan, avan sika izuanan “[]” aya tjaucikel. 
+Aza ripun kasicuayan qivu taiwan ta “[]”, “[]” kata “[]” siayaya. kemasi tua “打狗山” a ljingav au pavalitan tua “[] Takasago” aya. 
+pacun ta venecikan i[]aicu a sunatj tucu pimaza i ripun a [], izuanga mamaw a qivu “[]” aicu avan nu kai na ripun a [] a vecik. 
+Aza sicuayan a kuria qivu taiwan ta “[]”, kai na kuria venecik ta “[]”, “[]” aya, avan angata kemasi “[]” aicu a han a vecik. 
+Tucu nu venecik ta han a vecik a taiwan, avan zua “[]”, amin a sivecikan ta “[]” i kubung kata[], ljakua makaya i sinbung kata timitja a taqaljaqaljan venecik ta “[]”. 
+Ka 1905 a cavilj, lemindjelj ta [] i ripun tukiyu, tazua a palaingan qivu ta “[]”. 
+tjaivililj a cavilj, ti [] i kaigigi mapaqulid ta kuga a ngadan avan nu “[]” aya. 
+au aicu a “[]” a vecik kicuacual tua rishi kata amirika aicu drusa a kuga mavan a “[]”, imi ta sinan pazangal aza taqaljaqaljan italadj tua kuga. 
+Au kemai zunghua minku lemindjeljanga, izua anan “[]” kata “[]” aicu a siqivuan. 
+kumalji ka 1949 a cavilj aza zunghua minku sihu lja zua maqaqeci kata [] italadj i ciuku, sa patjavat ta sihu imaza i taipaq patjetucu. 
+
+ljakua mata vaik imaza i kacauan ti ciang djin-ku cungtung, tja zunghua minku sihu qivu anan itjen “中國”, “自由中國” aya. saka inika gemaugaw aicu a “中華人民共和國” mavan a paqulid a kuga, siqivu ta kadjunangnan i ciuku avan zua “大陸地區” kata “大陸淪陷區”. au tja zunghua minku sihu qivu ta titjen nadjemadjas tua kadjunangan avan nu “臺閩地區”, “臺灣地區” kata “自由地區” ayain.  
 Kemasi tua aza taqaljaqaljan i taiwan maqati itjen a sinkiu, lja zua inika mamaw a puqenetjan pakata siqivuan, sa aicu a 總統候選人nase kumintang qivu ta timitim nua minecengan i ciuku avan nu “中國大陸”, “北京當局” kata “大陸”, au qivu tiamadju avan nu “zunghua minku”. sa aicu a 總統候選人 nase mindjintang qivu ta timitim nua minecengan i ciuku avan nu “北京當局”, “中國大陸” kata “中國”, au qivu tiamadju avan nu “zunghua minku”, “zunghua minku (taiwan)” kata “taiwan” aya. katjaisangas ta 1990 a caviljan, qivu itjen ta “中國”, au pavalitan tu qivu ta “臺灣”. au tucu imaza aza sihu kata 民間 siqivu ta “台灣” aicu drusa vecik kitauvalit tua zunghua minku, saka vinecikan tua “台” sinan pukeljang i gaikuku.  
 Pimaza i gaikuku, pitjaivililj a 1949 a cavilj, siqivu ta zunghua minku avan nu “國府中國”, “自由中國” kata “民主中國” ljakua kemasi 1971 a cavilj, amin kedrikedri anga a kuga lemindjelj ta kapacacapilj a minecengan kata zunghua minku sihu. saka ayatua “中華人民共和國 (tucu i ciuku a sihu)” kata gaikuku a hulic a ikiw, sa pimaza izua mareka siqivuan tua taiwan i gaiakuku, katjaivililj a 1984 a cavilj i qaca a undukai kata 世衛組織 qivu ta “中華臺北”, au i 世界貿易組織 qivu ta “臺澎金馬個別關稅領域” siayaya. 
 cinalivatan.

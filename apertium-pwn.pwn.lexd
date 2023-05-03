@@ -53,6 +53,7 @@ semanvasizem:semanvasizem # fascism
 midiya:midiya           # media
 mitru:mitru             # metro
 mitrubasu:mitrubasu     # metrobuses
+tilibi:tilibi
 
 LEXICON ProperNounRoot(2)
 chionghoa:chionghoa     <top>:  # Changhua
@@ -83,13 +84,17 @@ Pilipinas:Pilipinas     <top>:  # Philipines
 Mintian:Mintian         <top>:
 Vietnam:Vietnam         <top>:  # Vietnam
 Indunisia:Indunisia     <top>:  # Indonesia
-amilika (Central America)
-iyurupu (Europe)
+amilika:amilika         <top>:  # America
+iyurupu:iyurupu         <top>:  # Europe
 
 drinipunan:drinipunan   <al>:   # Japanese
-Amis:Amis               <al>:   # Amis/Pangcah
+amis:amis               <al>:   # Amis/Pangcah
+pangcah:pangcah         <al>:   # Amis/Pangcah
 Maui:Maui               <al>:
 Paiwan:Paiwan           <al>:
+Latin:Latin             <al>:
+pinaywanan:pinaywanan   <al>:   # Paiwan language?
+ciniukukuan:ciniukukuan <al>:   # Chinese language?
 
 Hideki:Hideki           <ant>:
 Yukawa:Yukawa           <ant>:
@@ -105,7 +110,10 @@ akedrik:akedrik         <ant>:  # Cedric
 madisen:madisen         <ant>:  # Madison
 karmen:karmen           <ant>:  # Carmen
 turutjilj:turutjilj     <ant>:  # Dorothy
-
+Sakuma:Sakuma           <ant>:
+Samata:Samata           <ant>:
+Suming:Suming           <ant>:
+Rupi:Rupi               <ant>:
 
 
 PATTERN Number
