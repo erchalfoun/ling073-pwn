@@ -50,6 +50,7 @@ daygaku:daygaku         # university # or daigakku
 king:king               # county
 pulitik:pulitik         # politics
 semanvasizem:semanvasizem # fascism
+midiya:midiya           # Media
 
 LEXICON ProperNounRoot(2)
 chionghoa:chionghoa     <top>:  # Changhua
@@ -60,6 +61,18 @@ Dripun:Dripun           <top>:  # Japan
 kuriya:kuriya           <top>:  # Korea
 asiya:asiya             <top>:  # Asia
 djermeny:djermeny       <top>:  # Germany
+avirika:avirika         <top>:  # Africa # or avrika
+israil:israil           <top>:  # Israel
+isubya:isubya           <top>:  # Ethiopia
+sumalia:sumalia         <top>:  # Somalia
+djibuti:djibuti         <top>:  # Djibouti
+ericiya:ericiya         <top>:  # Eritrea
+kenya:kenya             <top>:  # Kenya
+sudan:sudan             <top>:  # Sudan
+boliviya:boliviya       <top>:  # Bolivia
+ericiya:ericiya         <top>:  # Eritrea
+sumaliland:sumaliland   <top>:  # Somaliland
+sumaliya:sumaliya       <top>:  # Somalia
 
 drinipunan:drinipunan   <al>:   # Japanese
 Amis:Amis               <al>:   # Amis/Pangcah
