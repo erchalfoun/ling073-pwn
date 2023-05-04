@@ -89,6 +89,8 @@ qayaqayam:qayaqayam     # bird
 cikaw:cikaw             # fish
 ceqel:cekel             # frog
 ljequ:ljequ             # owl
+djulis:djulis           # djulis
+gakku:gakku             # school
 
 LEXICON COnjuntionStem
 kati:kati           # and? also morph unknown
@@ -161,7 +163,7 @@ wanrung:Wanrong         <top>:  # Wanrong
 sincen:sincen           <top>:  # Xincheng
 hulien:hulien           <top>:  # Hualien
 
-drinipunan:drinipunan   <al>:   # Japanese
+drinipunan:drinipunan   <al>:   # Japanese # or rinipungan
 amis:amis               <al>:   # Amis/Pangcah
 pangcah:pangcah         <al>:   # Amis/Pangcah
 maui:maui               <al>:
@@ -178,16 +180,17 @@ tinurukuan:tinurukuan   <al>:   # a language
 ʼinamizukuan:ʼinamizukuan <al>: # a language
 pinairangan:pinairangan <al>:   # a language
 nginaingayngan:nginaingayngan <al>: # a language
+sedjerman:sedjerman     <al>:   # German
 
 Hideki:Hideki           <ant>:
 Yukawa:Yukawa           <ant>:
 Malaki:Malaki           <ant>:      # Malachai?
 Yisu:Yisu               <ant>:      # Jesus?
 djiyudji:djiyudji       <ant><m>:   # George 
-’erl:’erl               <ant>:      # Earl
+ʼerl:ʼerl               <ant>:      # Earl
 raver:raver             <ant>:      # Rafer 
 djanseng:djanseng       <ant>:      # Johnson
-'eljeven:'eljeven       <ant>:      # Elvin 
+ʼeljeven:ʼeljeven       <ant>:      # Elvin 
 dreik:dreik             <ant><m>:   # Drake
 akedrik:akedrik         <ant><m>:   # Cedric
 madisen:madisen         <ant><f>:   # Madison
@@ -214,8 +217,9 @@ sakinu:sakinu           <ant><m>:
 dremedreman:dremedreman <ant><f>:
 saljeljeng:saljeljeng   <ant><f>:
 sauniyaw:sauniyaw       <ant><f>:
-kawabata
-yasunari
+kawabata:kawabata       <ant>:
+yasunari:yasunari       <ant>:
+grimm:grimm             <ant>:      # Grimm
 
 PATTERN Number
 Numeral+ [<num>:]

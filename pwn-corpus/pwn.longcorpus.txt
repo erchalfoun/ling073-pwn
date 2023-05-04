@@ -1,19 +1,18 @@
 na tarivak sun? # how are you?
-ui, na tarivak aken, saka tisun? # I am (very) good/well, and you?
-ui, na tarivak aken, uta. I am (also) well, thanks.
-makuda sun?
+ui, na tarivak aken, saka tisun?
+ui, na tarivak aken, uta.
 saqetju a ku maca.
 saqetju a ku qulu.
 vaikanga aken!
 ui, sauanga!
-masalu! # Thanks!
-ui, masal! # you're welcome!
-tima su ngadan? # what is your name/what are you called?
-ti sakinu a ku ngadan. # I am (called)/my name is sakinu.
-tima ngadan na su kama? # what is your father's name?
-a ku kama ti cudjuy lja kadjaljavan. # My father is (called/named) cudjuy.
-tima zua? # who is that person (? not sure if my chinese is right)
-ti sauniyaw timadju. # they (she) is sauniyaw.
+masalu!
+ui, masal!
+tima su ngadan?
+ti sakinu a ku ngadan.
+tima ngadan na su kama?
+a ku kama ti cudjuy lja kadjaljavan.
+tima zua?
+ti sauniyaw timadju.
 tima zua a uqaljay?
 timadju ti cudjuy a lja kadjaljavan.
 tima sun?
@@ -34,3 +33,679 @@ pida anga su cavilj?
 tapuluq sa lima anga ku cavilj.
 pida anga cavilj na su kaka a tjaljaljak a vavayan?
 unem anga cavilj nimadju.
+pida anga cavilj na su kama?
+sepatj a puluq anga cavilj ni kama.
+pida vatu naicu a kakedrian?
+ita vatu nimadju.
+pida su qadupu?
+drusa ku qadupu.
+pida qadaw nu isiukang?
+pitju a qadaw nu isiukang.
+pida milingan tucu?
+sepatj a milingan tucu.
+pida milingan a su sipaceged nu kadjamadjaman?
+unem a milingan a ku sipaceged nu kadjamadjaman.
+pida milingan a su sikataqed nu qezemezemetj?
+tapuluq a milingan a ku sikataqed nu qezemezemetj.
+sikamasan pida qadaw tucu ta isiukang?
+niciyu tucu.
+singidan a su sinisa vavua?
+sitiavan a ku sinisa vavua.
+nungida sisavavua nimadju?
+nutiau a sisa vavua nimadju.
+anema cu?
+gung cu.
+anema azua?
+kasiw azua.
+quljivangeraw azua.
+ainu a ku inpic?
+aicu a su inpic.
+inuan a su kama?
+i gakku a ku kama.
+inuan a nu umaq?
+i vavua nia umaq.
+kemasinu sun?
+kemasi akaw a ken.
+na kemasinu sun tucu?
+na kemasi tjumaq a ken.
+uri semainu sun tucu?
+uri sematjumaq aken tucu.
+kasinu mun katiaw?
+kasivavua amen katiaw.
+uri mainu sun nutiaw?
+uri semavavua ken nutiaw.
+nima cu a aljak?
+nimadju cu a aljak.
+nima cu a sizi?
+nimadju cu sizi.
+nima cu a tjalupung?
+niaken cu a tjalupung.
+vurasi azua?
+ui, vurasi azua.
+veljevelj azua?
+ini, vuday azua.
+situ sun?
+ui, situ aken.
+sinsi timadju?
+ini, kuisang timadju.
+su sinsi timadju?
+ui, ku sinsi timadju.
+su sinsi timadju?
+ini, ku kina timadju.
+qecengecengl a su ngiaw?
+ui, qecengecengl a ku ngiaw.
+qudjidjilj a kava nimadju?
+ini, vuteqiteqilj a kava nimadju.
+sadjelung za cekui?
+ui, sadjelung za cekui.
+sadjelung azua qiladjan?
+ini, saceqalj azua qiladjan.
+qaca su kama?
+ui, qacaqaca a ku kama.
+qaca su kina?
+ini, kedrikedri a ku kina.
+ladruq a quvalj nimadju?
+ui, ladruq a quvalj nimadju.
+ladruq a su quvalj?
+ini, drikidrikitj a ku quvalj.
+padjalim timadju?
+ui, padjalim timadju.
+padjalim timadju?
+ini, mavulaqut timadju.
+izua aljak nimadju?
+ui, izua aljak nimadju. 
+izua su vatu?
+ui, izua ku vatu a ita.
+macidilj a su kaka a tjaljaljak a vavayan?
+ui, macidilj a ku kaka a tjaljaljak a vavayan.
+ini, madrusa ku kaka a tjaljaljak a vavayan.
+bulay a quljivangeraw?
+ui, bulay aravac a quljivangeraw.
+tjaljiqaca azua umaq?
+ui, tjaljiqaca azua umaq.
+ini, tjaljikedri azua umaq.
+bulay a kinaqadavan kasauni?
+ui, bulay a kinaqadavan ka sauni.
+bulay a kinaqadavan ka sauni?
+ini, qemudjaqudjalj kasauni.
+na semezam kasauni?
+ui, na semezam kasauni.
+ini, na ljemaljeqelan kasauni.
+masulemanga?
+ui, maledepanga qadaw!
+venalivalianga?
+ui, paljeqacanga qudjalj.
+ljemita ta qadaw a pacun ta tiribi tiamadju?
+ui, ljemita ta qadaw a pacucun ta tiribi tiamadju.
+ljemita ta qadaw sun a pacun ta tiribi?
+ini, ljimita ta qadaw aken a semupusupu.
+rutjemalupung timadju?
+ui, rutjemalupung timadju.
+na taqed a su kaka a tjaljaljak a vavayan?
+ui, na taqed timadju.
+kivangavangavang azua kakedrian?
+ui, kivangavangavang azua kakedrian.
+qemudjaljanga! namasiljinay sun?
+ui, namasiljinay aken.
+qemudjaqudjalj?
+ui, qemudjaqudjalj.
+qemudjaqudjalj?
+ini, na qemadawanga!
+Aupaljilji mun ta nu vuvu a uqaljay?
+ui, rupaljilji amen tjai vuvu a uqaljay.
+ljemita ta vengin mun a semamaza a kaiv?
+ui, ljemita ta vengin amen a semamaza a kaiv.
+tjengelay a zemuga azua kakedrian?
+ui, tjengelay a zemuga azua kakedrian.
+tjengelay sun a semupu?
+ui, tjengelay aken a semupu.
+saigu a semenay azua kakedrian?
+ui, saigu a semenay tiamadju. 
+saigu sun a venateq?
+ui, saigu aken a venateq.
+uri vaik mun a sema gakku a kivangavang?
+ui, uri vaivaik amen a sema gakku a kivangavang.
+maqati aken a vaik a kivangavang nu makakincengelj?
+ui, maqati sun a vaik a kivangavang!
+gacalju!
+na tarivak sun sinsi.
+na tarivak mun.
+qiladju!
+kiljavaranu!
+kilangedau!
+kisupu!
+paljiljiyu ti vuvu a uqaljay!
+maya gemalju!
+maya piteval!
+suqeljevi a qezung!
+ui!
+vuvu, suqeljevi!
+ui, azuanga!
+ljequ azua?
+ini, inika ljequ azua.
+sinsi timadju?
+ini, inika sinsi timadju.
+su sinsi timadju?
+ini, inika ku sinsi timadju.
+qudjidjilj a kava nimadju?
+ini, inika qudjidjilj a kava nimadju.
+sadjelung azua qiladjan?
+ini, inika sadjelung azua qiladjan.
+qaca su kina?
+ini, inika qaca ku kina.
+ladruq a su quvalj?
+ini, inika ladruq a ku quvalj.
+padjalim azua timadju?
+ini, inika padjalim timadju.
+izua su kaka a tjaljaljak a uqaljay?
+neka, neka a ku kaka a tjaljaljak a uqaljay.
+tjalji qaca azua umaq?
+ini, inika tjalji qaca azua umaq.
+nasemezam kasauni?
+ini, inika nasemezam kasauni.
+ljemita ta qadaw a pacucun ta tirib tiamadju?
+ini, inika ljemita ta qadaw a pacucun ta tirib tiamadju.
+ljemita ta qadaw sun a kisupusupu?
+ini, inika ken a kisupusupu a ljemita ta qadaw.
+kisupusupu sun?
+ini, inika ken a kisupusupu.
+qemudjaqudjaljanga! na masiljinay sun?
+ini, inika namasiljinay aken.
+qemudjaqudjalj?
+ini, inika qemudjaqudjalj!
+tjengelay timadju tazua qadupu?
+ini, inika tjengelay timadju tazua qadupu.
+sengelit sun tjai vuvu a vavayan?
+ui, sengelit aken tjai vuvu a vavayan.
+ljemita ta vengin mun a semamaza a kaiv?
+ini, inika men a ljemita ta vengin a semamaza a kaiv.
+tjengelay a zemuga azua kakedrian?
+ini, inika tjengelay a zemuga tiamadju.
+saigu a semenay azua kakedrian?
+ini, inika saigu a semenay tiamadju.
+uri vaik mun a sema gakku a semenay?
+ini, inika men a vaik a sema gakku a semenay.
+maqati aken a vaik a kivangavang nu makakincengelj?
+ini, maya vaik a ljesasaw a kivangavang!
+pineljuqananga ta tjanes a drakuyan niamadju?
+ini, inika pineljuqan ta tjanes a drakuyan niamadju.
+maya taqed!
+inika ken a na taqed.
+maya semuqeljev!
+kemeljang aken!
+maya madraudraw tu sematjumaq a kaiv!
+kemeljanganga ken!
+nu meljay anga, maqati aken a vaik a kivangavang?
+ui, nu meljay anga, maqati sun a vaik a kivangavang.
+ka ljesasaw ti kina, na tjemalupung timadju?
+ui, ka ljesasaw ti kina, na tjemalupung timadju.
+ka ljesasaw ti kama, na masiljinay timadju?
+ini, ka ljesasaw ti kama, ini a na masiljinay timadju.
+kemeljang mun tu uri mangetjez nu tiaw ti vuvu a vavayan?
+ui, kemeljang amen tu uri mangetjez nutiaw ti vuvu a vavayan.
+kemeljang mun tu uri mangetjez nu tiaw ti kina i savan?
+ini, inika men a kemeljang tu uri mangetjez nu tiaw ti kina.
+kaljazalangezangan tucu.
+ruremaljiz nu kaljazalangezangan.
+qaca zaljum i veljeluan nu kaljazalangezangan.
+kedri a zaljum i veljeluan nu kaljavuceleljan.
+nu kaljauragan, malumanga tjanes.
+tjengelay aken a keman ta tjanes.
+izua ku vatu a ita.
+izua ku ngiyaw a ita.
+izua ku ceqel a ita.
+izua qadupu niamadju.
+izua siquliqulip niamadju.
+izua tuki niamadju.
+izua su vurasi?
+izua su vuday?
+izua su vasa?
+izua nia kava.
+izua nia ljinay.
+izua nia tjalupung. 
+izua kaka a tjavulung a vavayan nimadju.
+izua drava nimadju.
+izua kama nimadju a ti ljua.
+inuan a ku gung?
+inuan a ku sizi?
+inuan a ku ljequ?
+inuan a cekui niamadju?
+inuan a qiladjan niamadju?
+inuan a tingnaw niamadju?
+inuan a su vurasi?
+inuan a su vuday?
+inuan a su siak?
+inuan a nu veljevelj?
+inuan a nu tjeves?
+inuan a nu ljaves?
+inuan a umaq nimadju?
+inuan a gakku nimadju?
+inuan a qinaljan nimadju?
+kisupusupu aken ta qadupu.
+venatevateq aken ta kava.
+inulinuli aken.
+paljiljiljilji ta vuvu a vavayan azua kakedriyan.
+pacucun ta tiribi azua kakedriyan.
+zemiazian azua kakedrian.
+semenasenay sun?
+pinaqunaqup sun?
+venatevateq sun?
+kemakan amen.
+kivangavangavang amen.
+paljiljiljilji amen tjaya vuvu.
+zemugazuga azua uqaljay.
+zemiazian azua uqaljay.
+na taqed azua uqaljay.
+macaqu aken a venateq.
+macaqu aken a kisupu.
+macaqu aken a inuli.
+tjengelay a pacun ta tiribi azua vavayavayan.
+tjengelay a paljilji ta vuvu a uqaljay azua vavayavayan.
+tjengelay a zemian azua vavayavayan.
+macaqu sun semenay?
+macaqu sun a pinaqup?
+macaqu sun a venateq?
+tjengelay a kivangavang azua vavayavayan.
+tjengelay a keman azua kakedrian.
+tjengelay a paljilji tjaya vuvu azua kakedrian.
+tjengelay a zemian azua vavayan.
+tjengelay a zemuga azua vavayan.
+tjengelay a taqed azua vavayan.
+cemedasanga qadaw!
+minqutanga qiljas!
+tjevutanga quljivangeraw!
+bulay a vitjuqan!
+bulay a qiljas!
+bulay a qerepus!
+minqut a anga vitjuqan?
+na cemedasanga qadaw?
+na tjevutanga quljivangeraw?
+bulay nu tja pacunan a quljivangeraw!
+bulay a qiljas nu tja pacunan!
+bulay a qerepus nu tja pacunan!
+bulay a kalevelevan kasauni!
+qemudjaljanga!
+venalianga!
+tima zua uqaljay?
+ku sinsi timadju.
+tima zua vavayan?
+ku sinsi timadju.
+tima azua uqaljay?
+timadju ku kaka a tjavulung a uqaljay.
+tima azua vavayan?
+timadju ku kaka a tjavulung a vavayan.
+anema cu?
+kulavaw cu.
+gung cu.
+ceqel cu.
+ljequ cu.
+anema azua?
+kasiw azua.
+vuljangaw azua.
+tjanes azua.
+vuday azua.
+cekui azua.
+paisu azua.
+tjalupung azua.
+mapida mun a taqumaqanan?
+maljeunem umen a taqumaqanan.
+mapida tiamadju a taqumaqanan?
+maljeunem tiamadju a taqumaqanan.
+mapida mun a taqumaqanan?
+maljelima men a taqumaqanan.
+mapida tiamadju a taqumaqanan?
+masepatj tiamadju a taqumaqanan.
+mapida su siruvetjek?
+macidilj a tjavulung a vavayan kata tjaljaljak a vavayan.
+mapida su siruvetjek?
+izua ku kaka a macidilj a tjaljaljak a vavayan.
+mapida su siruvetjek?
+macidilj a tjavulung a uqaljay kata macidilj a tjaljaljak a uqaljay.
+pida su vatu?
+izua ku vatu a ita.
+izua su vatu?
+drusa ku vatu.
+liaw a ku vatu.
+pida qadupu nazua kakedrian?
+ita qadupu nimadju.
+drusa qadupu nimadju.
+liaw a qadupu ni madju.
+pidanga milingan tucu?
+sepatj anga milingan tucu.
+pida milingan a su sipaceged nu kadjamadjaman?
+paceged aken nu unem a milingan nu kadjamadjaman.
+pida milingan a su sikataqed nu qezemezemetj?
+tapuluq a milingan a ku sikataqed nu qezemezemetj.
+inuan a ku inpic?
+imaza su inpic.
+inuan a ku qadupu?
+imaza su qadupu.
+inuan a tjalupung nimadju?
+imaza tjalupung nimadju.
+inuan a drakuyan nimadju?
+izua drakuyan nimadju.
+inuan a nu umaq?
+i gadu a nia umaq.
+inuan a su kama?
+i gakku ti kama.
+inuan a su kina?
+i tjumaq a ku kina.
+uri mainu sun nutiaw?
+uri vaik aken a semavavua nutiaw.
+uri mainu sun nutiaw?
+uri vaik aken a semagakku nutiaw.
+uri mainu sun nutiaw?
+uri sema ti vuvu aken nu tiaw.
+na mainu mun katiaw?
+na kasivavua men katiaw.
+na mainu tiamadju katiaw?
+na vaik a paljilji tjai vuvu tiamadju katiaw.
+na mainu tiamadju katiaw?
+na vaik a magakku tiamadju katiaw.
+uri mainu sun tucu?
+uri sematjumaq aken tucu.
+kemasinu sun?
+kemasi tjumaq aken.
+kemasinu sun?
+na kemasi vavua aken.
+situ sun?
+ui, situ aken.
+sinsi timadju?
+ini, kuisang timadju.
+su sinsi timadju?
+ui, ku sinsi timadju.
+su kama timadju?
+ini, ku sinsi timadju.
+macidilj a su kaka a tjaljaljak a vavayan?
+ini, madrusa ku kaka a tjaljaljak a vavayan.
+madrusa su kaka a tjaljaljak a uqaljay?
+ini, macidilj a tjavulung a uqaljay katua macidilj a tjaljaljak a uqaljay.
+madrusa su kaka a tjavulung a vavayan?
+ini, macidilj a tjavulung a vavayan kata macidilj a tjavulung a uqaljay.
+niaken a paisu cu?
+ui, aicu nisun a paisu.
+nisun a vuljangaw azua?
+ini, ikaniaken azua vuljangaw.
+makuda sun?
+saqetju a ku qulu.
+makuda sun?
+saqetju a ku maca.
+sadjelung cu a cekui?
+ui, sadjelung cu a cekui.
+sadjelung azua qiladjan?
+ini, saceqalj azua qiladjan.
+qucengecengel a su ngiaw?
+ui, qucengecengel a ku ngiaw.
+ljemita ta qadaw a pacun ta tiribi tiamadju?
+ui, ljemita ta qadaw a pacun ta tiribi tiamadju.
+bulay a kalevelevan kasauni?
+ui, bulay a kalevelevan kasauni.
+semupusupu sun?
+ui, semupusupu aken.
+semupusupu sun?
+ini, zemugazuga aken.
+na taqed a su kaka a tjaljaljak a vavayan?
+ui, na taqed timadju.
+na taqed a su kaka a tjaljaljak a vavayan?
+ini, zemiazian timadju.
+kivangavangavang azua kakedrian?
+ui, kivangavangavang azua kakedrian.
+semenasenay tiamadju?
+ini, semupusupu tiamadju.
+qemudjaqudjalj?
+ui, qemudjaqudjalj.
+qemudjaqudjalj?
+ini, cemedasanga qadaw!
+rupaljilji mun ta nu vuvu a uqaljay?
+ui, rupaljilji amen ta nia vuvu a uqaljay.
+macaqu sun a venateq?
+ui, macaqu aken a venateq.
+macaqu a semenay azua kakedrian?
+ui, macaqu a semenay tiamadju.
+tjengelay sun a semupu?
+ui, tjengelay sun a semupu.
+tjengelay a zemuga azua kakedrian?
+ui, tjengelay a zemuga timadju.
+tjengelay a semenay azua kakedrian?
+ui, tjengelay a semenay tiamadju.
+tjengelay a zemian azua kakedrian?
+ini, tjengelay a pacun ta tiribi tiamadju.
+tjengelay a kivangavang azua kakedrian?
+ini, tjengelay a keman tiamadju.
+tima ngadan na kaka a tjavulung a vavayan ni madju?
+tima ngadan na vuvu a vavayan ni madju?
+tima ngadan na kina nimadju?
+tima zua ramaljeng?
+tima zua uqaljay?
+tima zua kakedrian?
+pida vurasi naicu a kakedrian?
+pida tjanes naicu a kakedrian?
+pida veljevelj naicu a kakedrian?
+pidanga su cavilj?
+pidanga cavilj na su kaka a tjavulung a uqaljay?
+pidanga cavilj na su kaka a tjaljaljak a vavayan?
+inuan a tja kava?
+inuan a tja paisu?
+inuan a tja ljinay?
+sinsi sun?
+kuisang sun?
+situ sun?
+su kaka a tjaljaljak a uqaljay timadju?
+su kaka a tjavulung a uqaljay timadju?
+su qali timadju?
+ceqel cu?
+ljequ cu?
+ciqaw cu?
+niaken azua tjalupung?
+niaken azua cekui?
+niaken azua vuljangaw?
+qecengecengel a kava nimadju?
+qudjidjilj a kava nimadju?
+vuteqiteqilj a kava nimadju?
+ru masiljinay aken.
+ru vateq aken.
+ru djavac aken.
+tjuruvu a qaliyalian niamadju.
+qacaqaca a qali niamadju.
+valeljevelj a drava niamadju.
+kedri azua uqaljay.
+padjalim azua uqaljay.
+mavulaqut azua uqaljay.
+inika navenateq timadju.
+inika napinaqup timadju.
+inika nataqed timadju.
+inika ken a kemakan ta vasa.
+inika ken a semenasenay.
+inika ken a kisupusupu ta qadupu.
+gacalju!
+qiladju!
+kiljavaranu.
+sau! 
+zugau!
+taqedu!
+kisupu!
+paljiljiyu ti vuvu a uqaljay!
+senayu! 
+vatequ!
+maya kiljavaran!
+maya pasuvililj!
+maya piteval!
+maya tjemalupung a ku tjalupung!
+maya keman a ku tjanes!
+maya malap a ku ljinay!
+macaqu aken a venateq.
+macaqu aken a zemian.
+macaqu aken a zemuga.
+tjengelay a taqed timadju.
+tjengelay a kitulu timadju.
+tjengelay a kivangavang timadju.
+madraudarawanga tjemalupung timadju.
+madraudarawanga keman ta cemel timadju.
+madraudarawanga masiljinay timadju.
+maqati aken a keman ta tjanes?
+maqati aken a pacun ta tiribi?
+maqati aken a taqed?
+nu meljayanga, maqati aken a semuqeljev ta qezung?
+nu meljayanga, maqati aken a sema vavua?
+nu meljayanga, maqati aken a sema gakku?
+maca cu.
+calinga cu.
+ngudjus cu.
+angalj cu.
+aljis cu.
+qulu cu.
+quvalj cu.
+mudingan cu.
+lima cu.
+kula cu.
+vatu cu.
+ngiyaw cu.
+qacang cu.
+gung cu.
+sizi cu.
+drail cu.
+vuyu cu.
+kulavaw cu.
+ceqel cu.
+ljequ cu.
+vuljangaw azua.
+cemel azua.
+kasiw azu.
+asaw azua.
+vurasi azua.
+paday azua.
+vuday azua.
+veljevelj azua.
+tjanes azua.
+ljaves azua.
+inpic azua.
+qadupu azua.
+siquliqulip azua.
+cekui azua.
+qiladjan azua.
+paisu azua.
+kava azua.
+ljinay azua.
+tjalupung azua.
+drakuyan azu.
+gadu azua.
+umaq azua.
+gakku azua.
+qadaw azua.
+qiljas azua.
+vitjuqan azua.
+veljeluan azua.
+zaljum azua.
+paljing azua.
+qezung azua.
+masulemanga!
+maledepanga qadaw!
+venalianga!
+qemudjaljanga!
+meljayanga!
+niciyu kasauni.
+semezam kasauni.
+inika ljaljeqel kasauni.
+qaca qudjalj kasauni.
+qaca uta a vali kasauni.
+kaljazalangezangan tucu.
+ruvenali nu kaljazalangezangan.
+qaca zaljum i veljeluan uta.
+malum a tjanes nu kaljauragan.
+kedri a zaljum i veljeluan nu kaljavuceleljan.
+qacaqaca cu a uqaljay.
+valeljevalj cu a vavayan.
+mavelaqut cu a kakedrian.
+maleva cu a sinsi.
+padjalim cu a situ.
+sadjelung azua cekui.
+saceqalj azua qiladjan.
+tjaljiqaca azua umaq.
+kedri azua gakku.
+ladruq azua inpic.
+ljemita ta qadaw a djemavadjavac a ku vuvu a uqaljay.
+ljemita ta qadaw a venateq a ku vuvu a vavayan.
+ljemita ta qadaw a pacun ta tiribi ti kama.
+ljemita ta qadaw a masiljinay ti kina.
+ljemita ta qadaw a zemuga ti kama i cudjuy.
+na taqed a kaka nimadju a tjavulung a uqaljay.
+na tjemalupung a kaka nimadju a tjavulung a vavayan.
+kemakan ta vasa a kaka nimadju a tjaljaljak a uqaljay.
+semenasenay a kaka nimadju a tjaljaljak a vavayan.
+semupusupu a qali nimadju.
+na taqed sun?
+na tjemalupung sun?
+kemakan sun ta vasa?
+semenasenay sun?
+kisupusupu sun?
+inika ken a na taqed.
+inika ken a na tjemalupung.
+inika ken a kemakan ta vasa.
+inika ken a semenasenay.
+inika ken a kisupusupu.
+sengelit sun ta su vuvu a vavayan?
+tjuruvu a qali nimadju?
+na mapeljuq a drakuyan niamadju?
+imaza nu gakku?
+ladruq a quvalj ni vuvu a vavayan?
+na tarivak sun?
+kemasinu sun ka sauni?
+mapida mun a taqumaqanan?
+macaqu sun a penayuanan?
+rupenayuan sun?
+na tarivak sun ka sauni?
+inuan sun tucu?
+mapida su siruvetjek?
+tjengelay sun a kitulu?
+uri temulu sun ta pinayuanan nu tjavililj?
+tima su ngadan?
+inuan a nu umaq?
+pidanga su cavilj?
+tjengelay sun a kitulu ta pinayuanan?
+rupenayuanan sun?
+na tarivak sun?
+inuan a su gakku?
+mapida su qali?
+ljemita ta qadaw mun a maciur a semupu?
+rupenayuanan mun?
+tima su ngadan?
+uri semainu sun nu sauni?
+pida nu tiribi i tjumaq?
+tjengelay sun a pacun ta tiribi?
+pida milingan a su sikataqed nu ljemita ta vengin?
+na tarivak sun?
+kemasinu sun kasauni?
+mapida mun a taqumaqanan?
+macaqu a su kama ta pinayuanan?
+macaqu a temulu a su kama ta pinayuanan?
+na tarivak sun?
+inuan sun tucu?
+mapida siruvetjek?
+tjengelay mun a semenay?
+tjengelay mun a zemian uta?
+tima su ngadan?
+inuan a su kina tucu?
+pidanga cavilj nimadju?
+rupenayuanan sun kata su kina?
+rupenayuanan mun a taqumaqanan?
+na tarivak sun?
+inuan tia su vuvu?
+rupaljilji sun tia su vuvu?
+macaqu a penayuanan tia vuvu?
+penayuanan mun a taqumaqanan?
+tima su ngadan?
+inuan a su gakku?
+mapida su qali?
+tjengelay sun a zemuga?
+ruzemuga sun?
+tjuruvu a ku salasaladj, izua uqaljay, izua vavayan. 
+ljemita ta qadaw amen a maciuciur a kitulu, a kivangavang uta. 
+bulay aravac a nia sinsi, kisaseljang tjanuamen a penayuanan, a semenay uta, tjengelay aravac amen ta nia sinsi.
+situ aken. 
+a ku gakku i dudut ta ku umaq. 
+ljemita ta qadaw aken a djemavac a sema gakku, a djemavac a matjumaq uta. 
+tjaljiqaca a nia gakku, tjuruvu a situ, tjuruvu a sinsi uta. 
+bulay aravac a nia sinsi, maciuciur amen a kitilu, maciuciur amen a semenay uta. 
+ru penayuanan amen, tjengelay aravac aken ta ku gakku. 
+ljemita ta qadaw amen a kitulu,a semenay uta,ru penayuanan amen.
+tjengelay aravac aken ta ku gakku.
