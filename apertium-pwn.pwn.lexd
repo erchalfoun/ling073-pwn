@@ -1,24 +1,33 @@
 # Morphological Transducer for Paiwan
 
 # Part of speech categories
-# <n>      # Noun
-# <v>      # Verb
-# <adj>    # Adjective
-# <num>    # Numeral
+# <n>       # Noun
+# <v>       # Verb
+# <adj>     # Adjective
+# <num>     # Numeral
 
-# <sent>   # Sentence-ending punctuation
-# <guio>   # Hyphen
-# <cm>     # Comma
-# <apos>   # Apostrophe
-# <quot>   # Quotation mark
-# <lquot>  # Left quotation mark
-# <rquot>  # Right quotation mark
-# <lpar>   # Left parenthesis
-# <rpar>   # Right parenthesis
+# <sent>    # Sentence-ending punctuation
+# <guio>    # Hyphen
+# <cm>      # Comma
+# <apos>    # Apostrophe
+# <quot>    # Quotation mark
+# <lquot>   # Left quotation mark
+# <rquot>   # Right quotation mark
+# <lpar>    # Left parenthesis
+# <rpar>    # Right parenthesis
 
 # Number morphology
-# <pl>     # Plural
-# <sg>     # Singular
+# <pl>      # Plural
+# <sg>      # Singular
+
+# Proper noun tags
+# <top>     # Toponym
+# <ant>     # Anthronym
+# <al>      # Other
+
+# Gender tags
+# <m>       # Masculine
+# <f>       # Feminine
 
 # Other symbols
 # >        # Morpheme boundary
@@ -52,7 +61,6 @@ semanvasizem:semanvasizem # fascism
 midiya:midiya           # media
 mitru:mitru             # metro
 mitrubasu:mitrubasu     # metrobuses
-tilibi:tilibi
 guan:guan               # township
 sinsi:sinsi             # teacher(?)
 vavayan:vavayan         # woman
@@ -95,17 +103,63 @@ puitiks:puitiks         # poetics
 vaqu:vaqu               # foxtail millet
 kumik:kumik             # comic
 kriptukitis:kriptukitis # CryptoKitties
-pana a tjames ("River Thames")
-qasi (Protobothrops mucrosquamatus)
-tiribi:tiribi           # television
-djaz (Jazz)
-bugi wugi (boogie woogie)
-guspil (gospel)
-piyanu (piano)
+pana:pana               # river
+qasi:qasi               # Protobothrops mucrosquamatus
+tilibi:tilibi           # television
+djaz:djaz               # jazz
+bugi:bugi               # boogie 
+wugi:wugi               # woogie
+guspil:guspil           # gospel
+piyanu:piyanu           # piano
 saksevung:saksevung     # Saxophone
-gitar (guitar)
-cis (cheese)
+gitar:gitar             # guitar
+cis:cis                 # cheese
 pizza:pizza
+qunuqunu:qunuqunu       # boy
+kumi:kumi               # girl
+vuljangaw:vuljangaw     # flower
+cemel:cemel             # grass, medicine
+kasiw:kasiw             # tree
+asaw:asaw               # leaf
+vurasi:vurasi           # sweet potato
+vuday:vuday             # corn
+paday:paday             # rice
+veljevelj:veljevelj     # banana
+tjanes:tjanes           # tangerine, orange
+tjeves:tjeves           # sugar cane
+vat:vat                 # rice grains (hulled)
+vasa:vasa               # taro
+siak:siak               # pumpkin
+ljaves:ljaves           # guava
+qadupu:qadupu           # book
+inpic:inpic             # pen, pencil
+siquliqulip:siquliqulip # eraser
+cekui:cekui             # table
+qiladjan:qiladjan       # chair
+paisu:paisu             # money # or paysu
+kava:kava               # clothing
+ljinay:ljinay           # umbrella
+dinguwa:dinguwa         # telephone
+bulu:bulu               # ball
+tjalupung:tjalupung     # hat
+tuki:tuki               # bell
+tingnaw:tingnaw         # computer
+drakuyan:drakuyan       # basket
+gadu:gadu               # mountain
+umaq:umaq               # home, house
+qadaw:qadaw             # sun, day
+qiljas:qiljas           # moon
+vitjuqan:vitjuqan       # star
+qerepus:qerepus         # cloud
+quljivangeraw:quljivangeraw # rainbow
+kalevelevan:kalevelevan # sky
+qinaljan:qinaljan       # village, tribe
+paljing:paljing         # door
+qezung:qezung           # window
+veljeluan:veljeluan     # creek, brook, stream
+zaljum:zaljum           # water
+qudjalj:qudjalj         # rain(water)
+cavilj:cavilj           # year, also used for age
 
 LEXICON COnjuntionStem
 kati:kati           # and? also morph unknown
