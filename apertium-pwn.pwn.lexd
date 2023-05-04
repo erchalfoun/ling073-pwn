@@ -45,7 +45,7 @@ Punctuation
 ###############################################################################
 
 LEXICON NounRoot
-daygaku:daygaku         # university # or daigakku
+daygaku:daygaku         # university # or daigakku/daigaku
 king:king               # county
 pulitik:pulitik         # politics
 semanvasizem:semanvasizem # fascism
@@ -91,10 +91,26 @@ ceqel:cekel             # frog
 ljequ:ljequ             # owl
 djulis:djulis           # djulis
 gakku:gakku             # school
+puitiks:puitiks         # poetics
+vaqu:vaqu               # foxtail millet
+kumik:kumik             # comic
+kriptukitis:kriptukitis # CryptoKitties
+pana a tjames ("River Thames")
+qasi (Protobothrops mucrosquamatus)
+tiribi:tiribi           # television
+djaz (Jazz)
+bugi wugi (boogie woogie)
+guspil (gospel)
+piyanu (piano)
+saksevung:saksevung     # Saxophone
+gitar (guitar)
+cis (cheese)
+pizza:pizza
 
 LEXICON COnjuntionStem
 kati:kati           # and? also morph unknown
 kata:kata           # and?
+katua:katua
 
 LEXICON Number
 ita:ita                 # one
@@ -162,13 +178,28 @@ babil:babil             <top>:  # Babel
 wanrung:Wanrong         <top>:  # Wanrong
 sincen:sincen           <top>:  # Xincheng
 hulien:hulien           <top>:  # Hualien
+vinlan:vinlan           <top>:  # Finland
+lundun:lundun           <top>:  # London
+ukinawa:ukinawa         <top>:
+ingelend ("England")
+se'ingelend (England)
+pana a tjames ("River Thames")
+indiya, nipal(尼泊爾), miyamar(緬甸), tailan(泰國)
+ukeran:ukeran           <top>:  # Ukraine(?) iyukurin (Ukraine)
+kinsingtun (Kensington)
+pakisitam(巴基斯坦), indisiya, miyamar(緬甸), tailan(泰國), malaysia,
+atlantis:atlantis
+puland (Poland)
+austrunisiya:austrunisiya
+pulinisiya:pulinisiya
+tailend (Thailand)
 
 drinipunan:drinipunan   <al>:   # Japanese # or rinipungan
 amis:amis               <al>:   # Amis/Pangcah
 pangcah:pangcah         <al>:   # Amis/Pangcah
 maui:maui               <al>:
 mauri:mauri             <al>:   # Māori
-Paiwan:Paiwan           <al>:
+Paiwan:Paiwan           <al>:   # or payuwan
 Latin:Latin             <al>:
 pinaywanan:pinaywanan   <al>:   # Paiwan language?
 ciniukukuan:ciniukukuan <al>:   # Chinese language?
@@ -181,6 +212,19 @@ tinurukuan:tinurukuan   <al>:   # a language
 pinairangan:pinairangan <al>:   # a language
 nginaingayngan:nginaingayngan <al>: # a language
 sedjerman:sedjerman     <al>:   # German
+drinipunan:drinipunan   <al>:   # a language
+ljinautjian:ljinautjian <al>:   # a language
+pinuyumakan:pinuyumakan <al>:   # a language
+binununan:binununan     <al>:   # a language
+pinairangan:pinairangan <al>:   # a language
+nginaingayngan:nginaingayngan <al>: # a language
+pinuyumakan; ciniukukan
+amizukuan; yinamizukan; pinairangan
+audesi ("Odyssey")
+iliyad:iliyad           <al>:   # Iliad
+iyutub (youtube)
+kinuriyan:kinuriyan     <al>:   # Korean Language # kai nua kuriya
+hangul:hangul
 
 Hideki:Hideki           <ant>:
 Yukawa:Yukawa           <ant>:
@@ -220,6 +264,21 @@ sauniyaw:sauniyaw       <ant><f>:
 kawabata:kawabata       <ant>:
 yasunari:yasunari       <ant>:
 grimm:grimm             <ant>:      # Grimm
+liu tulstuy (Leo Tolstoy)
+anna karinina (Anna Karenina)
+djurudji urewil ("George Orwell")
+senupy:senupy           <ant>:      # Snoopy
+pati ("Patty")
+nicay (Nietzsche)
+verdjinia wuv ( Virginia Woolf)
+tima'us kati kritiyas (Timaeus and Critias)
+platu (Plato)
+humer ("Homer")
+audisius (Odysseus)
+hilius (Helios)
+tjiuguni (Theogony)
+hisiud (Hesiod)
+djasun (Jason)
 
 PATTERN Number
 Numeral+ [<num>:]
