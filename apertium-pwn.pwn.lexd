@@ -44,7 +44,6 @@ Punctuation
 ###                          L E X I C O N                                  ###
 ###############################################################################
 
-## Example stem lexicon:
 LEXICON NounRoot
 daygaku:daygaku         # university # or daigakku
 king:king               # county
@@ -54,6 +53,64 @@ midiya:midiya           # media
 mitru:mitru             # metro
 mitrubasu:mitrubasu     # metrobuses
 tilibi:tilibi
+guan:guan               # township
+sinsi:sinsi             # teacher(?)
+vavayan:vavayan         # woman
+kama:kama               # father
+kina:kina               # mother
+uqaljay:uqaljay         # man
+caucau:caucau           # person
+qali:qali               # friend
+drava:drava             # friend
+situ:situ               # student
+kuisang:kuisang         # doctor
+ngadan:ngadan           # name
+maca:maca               # eye
+calinga:calinga         # ear
+ngudjus:ngudjus         # nose
+angalj:angalj           # mouth
+aljis:aljis             # teeth
+qulu:qulu               # head
+quvalj:quvalj           # hair
+mudingan:mudingan       # face
+lima:lima               # hand
+kula:kula               # foot
+kinacavacavan:kinacavacavan # body
+djapalj:djapalj         # thigh
+vatu:vatu               # dog
+ngiyaw:ngiyaw           # cat
+qacang:qacang           # pig
+gung:gung               # cow, ox
+sizi:sizi               # sheep
+drail:drail             # monkey
+kulavaw:kulavaw         # mouse
+vuyu:vuyu               # chicken
+qayaqayam:qayaqayam     # bird
+cikaw:cikaw             # fish
+ceqel:cekel             # frog
+ljequ:ljequ             # owl
+
+LEXICON COnjuntionStem
+kati:kati           # and? also morph unknown
+kata:kata           # and?
+
+LEXICON Number
+ita:ita                 # one
+drusa:drusa             # two
+tjelu:tjelu             # three
+sepatj:sepatj           # four
+lima:lima               # five
+unem:unem               # six
+pitju:pitju             # seven
+alu:alu                 # eight
+siva:siva               # nine
+tapuluq:tapuluq         # ten
+
+LEXICON Tens
+puluq:puluq             # tens when making larger numbers
+
+LEXICON NumberAnd
+sa:sa                   # drusa puluq sa ita (twenty one) alu a puluq sa ita (eighty one)
 
 LEXICON ProperNounRoot(2)
 chionghoa:chionghoa     <top>:  # Changhua
@@ -86,35 +143,77 @@ Vietnam:Vietnam         <top>:  # Vietnam
 Indunisia:Indunisia     <top>:  # Indonesia
 amilika:amilika         <top>:  # America
 iyurupu:iyurupu         <top>:  # Europe
+spain:spain             <top>:  # Spain
+briten:briten           <top>:  # Britain
+nanumanga:nanumanga     <top>:  # Nanumanga
+niutaw:niutaw           <top>:  # Niutao
+niulakita:niulakita     <top>:  # Niulakita
+vunavuti:vunavuti       <top>:  # Funafuti
+nanumiya:nanumiya       <top>:  # Nanumea
+nui:nui                 <top>:  # Nui
+nukuvetaw:nukuvetaw     <top>:  # Nukufetau
+nukulaelae:nukulaelae   <top>:  # Nukulaelae
+vaitupu:vaitupu         <top>:  # Vaitupu
+tuvalu:tuvalu           <top>:  # Tuvalu
+vietnam:vietnam         <top>:  # Vietnam
+babil:babil             <top>:  # Babel
+wanrung:Wanrong         <top>:  # Wanrong
+sincen:sincen           <top>:  # Xincheng
+hulien:hulien           <top>:  # Hualien
 
 drinipunan:drinipunan   <al>:   # Japanese
 amis:amis               <al>:   # Amis/Pangcah
 pangcah:pangcah         <al>:   # Amis/Pangcah
-Maui:Maui               <al>:
+maui:maui               <al>:
+mauri:mauri             <al>:   # Māori
 Paiwan:Paiwan           <al>:
 Latin:Latin             <al>:
 pinaywanan:pinaywanan   <al>:   # Paiwan language?
 ciniukukuan:ciniukukuan <al>:   # Chinese language?
+de:de                   <al>:   # spanish name thing
+vinietan:vinietan       <al>:   # Vietnamese language?
+viet:viet               <al>:   # VIetnamese People
+hiniberayan:hiniberayan <al>:   # a language, possibly Hebrew
+tinurukuan:tinurukuan   <al>:   # a language
+ʼinamizukuan:ʼinamizukuan <al>: # a language
+pinairangan:pinairangan <al>:   # a language
+nginaingayngan:nginaingayngan <al>: # a language
 
 Hideki:Hideki           <ant>:
 Yukawa:Yukawa           <ant>:
-Malaki:Malaki           <ant>:  # Malachai?
-Yisu:Yisu               <ant>:  # Jesus?
-djiyudji:djiyudji       <ant>:  # George 
-’erl:’erl               <ant>:  # Earl
-raver:raver             <ant>:  # Rafer 
-djanseng:djanseng       <ant>:  # Johnson
-'eljeven:'eljeven       <ant>:  # Elvin 
-dreik:dreik             <ant>:  # Drake
-akedrik:akedrik         <ant>:  # Cedric
-madisen:madisen         <ant>:  # Madison
-karmen:karmen           <ant>:  # Carmen
-turutjilj:turutjilj     <ant>:  # Dorothy
+Malaki:Malaki           <ant>:      # Malachai?
+Yisu:Yisu               <ant>:      # Jesus?
+djiyudji:djiyudji       <ant><m>:   # George 
+’erl:’erl               <ant>:      # Earl
+raver:raver             <ant>:      # Rafer 
+djanseng:djanseng       <ant>:      # Johnson
+'eljeven:'eljeven       <ant>:      # Elvin 
+dreik:dreik             <ant><m>:   # Drake
+akedrik:akedrik         <ant><m>:   # Cedric
+madisen:madisen         <ant><f>:   # Madison
+karmen:karmen           <ant><f>:   # Carmen
+turutjilj:turutjilj     <ant><f>:   # Dorothy
 Sakuma:Sakuma           <ant>:
 Samata:Samata           <ant>:
 Suming:Suming           <ant>:
 Rupi:Rupi               <ant>:
-
+alevaru:alevaru         <ant>:      # Álvaro
+mendana:mendana         <ant>       # Mendaña
+aliksander:aliksander   <ant><m>:   # Alexander
+eilis:eilis             <ant>:      # Ellice
+isak:isak               <ant><m>:   # Isaac
+aberaham:aberaham       <ant><m>:   # Abraham
+adam:adam               <ant><m>:   # Adam
+iva:iva                 <ant><f>:   # Eve
+abil:abil               <ant><m>:   # Abel
+yakub:yakub             <ant><m>:   # Jacob
+yusiv:yusiv             <ant><m>:   # Joseph
+kuliw:kuliw             <ant><m>:
+puljaljuyan:puljaljuyan <ant><m>:
+sakinu:sakinu           <ant><m>:
+dremedreman:dremedreman <ant><f>:
+saljeljeng:saljeljeng   <ant><f>:
+sauniyaw:sauniyaw       <ant><f>:
 
 PATTERN Number
 Numeral+ [<num>:]
