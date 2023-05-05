@@ -8,6 +8,8 @@
 # <mc>      # case marker
 # <numb>    # number
 # <np>      # proper noun
+# <pr>      # preposition
+# <prn>     # pronoun
 
 # <sent>    # Sentence-ending punctuation
 # <guio>    # Hyphen
@@ -52,6 +54,7 @@
 # <loc>     # Locative
 
 # Pronoun Tags
+# <pers>    # personal
 # <p1>      # 1st person
 # <p2>      # 2nd person
 # <p3>      # 3rd person
@@ -77,6 +80,7 @@ CaseMarker
 Number
 ProperNoun
 Pronoun
+Preposition
 
 PATTERN CaseMarker
 MarkerCase(1) CaseMarkerRoot(1) [<mc>:] CaseMarkerRoot(2) MarkerCase(2)
@@ -101,6 +105,9 @@ BeHaveRoot [<vbser>:]
 
 PATTERN Number
 NumberRoot [<numb>:]
+
+PATTERN Preposition
+PrepositionRoot [<pr>:]
 
 ## Example inflection lexicon:
 # LEXICON RegNounInfl
@@ -292,7 +299,10 @@ aya:aya                 # to say
 LEXICON CaseMarkerRoot(2)
 i:i         <pers><sg>:
 ia:ia       <pers><pl>:
-{u}{A}:{u}{A}     <sp>:
+# {u}{A}:{u}{A}     <sp>:
+a:a             <sp>:
+ua:ua           <sp>:
+u:u             <sp>:
 
 LEXICON MarkerCase(2)
 :{t}>       <nom>:
