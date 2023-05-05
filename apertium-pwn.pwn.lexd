@@ -25,9 +25,24 @@
 # <ant>     # Anthronym
 # <al>      # Other
 
+# Voice tags
+# <av>      # actor voice
+# <uv>      # non-actor voice
+# <gv>      # goal voice
+# <iv>      # instrument voice
+# <lv>      # locative voice
+
 # Gender tags
 # <m>       # Masculine
 # <f>       # Feminine
+
+# Case Tags
+# <nom>     # nominative
+# <obl>     # oblique
+# <gen>     # genitive
+
+# Verb Tags
+# <perf>    # Perfective
 
 # Other symbols
 # >        # Morpheme boundary
@@ -41,6 +56,16 @@ PATTERNS
 # NounRoot RegNounInfl
 Number
 Punctuation
+Linker
+
+PATTERN Linker
+Link [<lnk>:]
+
+PATTERN Noun
+NounRoot [<n>:]
+
+PATTERN VerbBeHave
+BeHaveRoot [<vbser>:]
 
 
 ## Example inflection lexicon:
@@ -185,11 +210,39 @@ LEXICON NumberAnd
 sa:sa                   # drusa puluq sa ita (twenty one) alu a puluq sa ita (eighty one)
 
 LEXICON VerbRoot
+kan:kan                 # to eat
+kesa:kesa               # to cook
+
+LEXICON BeHaveRoot
+izua:izua               # to be, to have
+
 LEXICON PronounRoot 
 LEXICON CommonNounRoot
+LEXICON CaseMarkerRoot(2)
+i:i         <pers><sg>:
+ia:ia       <pers><pl>:
+{u}{A}:{u}{A}     <sp>:
+
+LEXICON MarkerCase(2)
+:{t}>       <nom>:
+:t{j}>      <obl>:
+:n>         <gen>:
+
+LEXICON Link
+a:a                     # no real English comparison
 
 LEXICON Infix
-:em
+:e{N}   # <av>
+:in     # <gv>
+
+LEXICON VerbPrefix(2)
+:m>         <av>:
+:si>        <iv>:
+:na>        <perf>:
+
+LEXICON VerbSuffix
+# <>:>u
+<lv>:>an
 
 LEXICON ProperNounRoot(2)
 chionghoa:chionghoa     <top>:  # Changhua
@@ -254,7 +307,6 @@ atlantis:atlantis       <top>:
 puland:puland           <top>:  # Poland
 austrunisiya:austrunisiya <top>:
 pulinisiya:pulinisiya   <top>:
-
 drinipunan:drinipunan   <al>:   # Japanese # or rinipungan
 amis:amis               <al>:   # Amis/Pangcah
 pangcah:pangcah         <al>:   # Amis/Pangcah
@@ -282,8 +334,7 @@ audesi:audesi           <al>:   # Odyssey
 iliyad:iliyad           <al>:   # Iliad
 iyutub:iyutub           <al>:   # youtube
 kinuriyan:kinuriyan     <al>:   # Korean Language # kai nua kuriya
-hangul:hangul
-
+hangul:hangul           <al>:   # Hangeul
 Hideki:Hideki           <ant>:
 Yukawa:Yukawa           <ant>:
 Malaki:Malaki           <ant>:      # Malachai?

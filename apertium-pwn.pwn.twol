@@ -1,17 +1,26 @@
 Alphabet
  A B C D E F G H I J K L Ɬ M N O P Q R S T U Ʉ V W X Y Z %ʼ
  a b c d e f g h i j k l ɬ m n o p q r s t u ʉ v w x y z
- %{A%}:a %>:0  ;
+ %{A%}:a 
+ %{A%}:u  
+ %{N%}:n
+ %{N%}:m
+ %{j%}:j %>:0
+ %{u%}:a %>:0
+ %{t%}:t %>:0 ;
 
 Sets
 
-Vowel = A E Ä I O Ö U Ü Y Ý
-        a e ä i o ö u ü y ý ;
+Vowel = A E I O U Ʉ Y
+        a e i o u ʉ y ;
 
 Rules
 
 "Remove suffix vowel with vowel-ending stem"
 i:0 <=> Vow %{VSUF%}:0 _ [ m | n ] ;
+
+"{N} manifests as m before labial"
+%{N%}:m <=> _ [ p | b | v ]: ;
 
 ! Resources:
 ! https://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Enter_twol
