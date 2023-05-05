@@ -8,6 +8,8 @@
 # <mc>      # case marker
 # <numb>    # number
 # <np>      # proper noun
+# <pr>      # preposition
+# <prn>     # pronoun
 
 # <sent>    # Sentence-ending punctuation
 # <guio>    # Hyphen
@@ -52,6 +54,7 @@
 # <loc>     # Locative
 
 # Pronoun Tags
+# <pers>    # personal
 # <p1>      # 1st person
 # <p2>      # 2nd person
 # <p3>      # 3rd person
@@ -77,12 +80,21 @@ CaseMarker
 Number
 ProperNoun
 Pronoun
+Preposition
+Conjunction
+Adverb
 
 PATTERN CaseMarker
 MarkerCase(1) CaseMarkerRoot(1) [<mc>:] CaseMarkerRoot(2) MarkerCase(2)
 
+PATTERN Conjunction
+ConjuntionPrefix CaseMarker [<conj>:]
+
 PATTERN Pronoun
-PronounCase(1) PronounRoot(1) [<mc>:] PronounRoot(2) PronounCase(2)
+PronounCase(1) PronounRoot(1) [<prn>:] PronounRoot(2) PronounCase(2)
+
+PATTERN Adverb
+LocativeAffix?(1) AdverbRoot [<adv>:] LocativeAffix?(2)
 
 PATTERN Verb
 GenCliticPronoun?(1) VerbPrefix?(1) VerbRoot [<v>:] VerbPrefix?(2) GenCliticPronoun?(2) VerbSuffix? NomCliticPronoun?
@@ -101,6 +113,9 @@ BeHaveRoot [<vbser>:]
 
 PATTERN Number
 NumberRoot [<numb>:]
+
+PATTERN Preposition
+PrepositionRoot [<pr>:]
 
 ## Example inflection lexicon:
 # LEXICON RegNounInfl
@@ -219,6 +234,7 @@ veljeluan:veljeluan     # creek, brook, stream
 zaljum:zaljum           # water
 qudjalj:qudjalj         # rain(water)
 cavilj:cavilj           # year, also used for age
+kadjunangan:kadjunangan
 
 LEXICON PronounRoot(2)
 aken:aken       <pers><sg><p1>:
@@ -249,10 +265,8 @@ LEXICON GenCliticPronoun(2)
 :nia>           <pers><pl><p1><excl><gen>:
 :nu>            <pers><pl><p2><gen>:
 
-LEXICON ConjuntionStem
-kati:kati           # and? also morph unknown
-kata:kata           # and?
-katua:katua
+LEXICON ConjuntionPrefix
+:ka>
 
 LEXICON NumberRoot
 ita:ita                 # one
@@ -280,6 +294,17 @@ aya:aya                 # to [be/do] thus
 ipere:ipere             # to fly
 sa:sa                   # to go
 le:le                   # to move to
+davak:davak             # to walk
+rivu:rivu               # to quarrel
+vaik:vaik               # to leave, go 
+ekel:ekel               # to run
+cun:cun                 # to see/watch
+cakaw:cakaw             # to steal
+senay:senay             # to sing
+
+LEXICON AdverbRoot
+maza:maza               # Here 
+zuua:zuua               # there
 
 LEXICON BeHaveRoot
 izua:izua               # to be, to have
@@ -292,7 +317,10 @@ aya:aya                 # to say
 LEXICON CaseMarkerRoot(2)
 i:i         <pers><sg>:
 ia:ia       <pers><pl>:
-{u}{A}:{u}{A}     <sp>:
+# {u}{A}:{u}{A}     <sp>:
+a:a             <sp>:
+ua:ua           <sp>:
+u:u             <sp>:
 
 LEXICON MarkerCase(2)
 :{t}>       <nom>:
@@ -382,6 +410,7 @@ ukeran:ukeran           <top>:  # Ukraine(?) iyukurin (Ukraine)
 kinsingtun:kinsingtun   <top>:  # Kensington
 pakisitam:pakisitam     <top>:  # Pakistan
 atlantis:atlantis       <top>:
+taihuku:taihuku         <top>:  # Taipei
 puland:puland           <top>:  # Poland
 austrunisiya:austrunisiya <top>:
 pulinisiya:pulinisiya   <top>:
