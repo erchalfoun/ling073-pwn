@@ -46,6 +46,8 @@
 
 # Verb Tags
 # <perf>    # Perfective
+# <imp>     # imperative
+# <caus>    # causative
 
 # <loc>     # Locative
 
@@ -273,9 +275,19 @@ sa:sa                   # drusa puluq sa ita (twenty one) alu a puluq sa ita (ei
 LEXICON VerbRoot
 kan:kan                 # to eat
 kesa:kesa               # to cook
+sekez:sekez             # to stop
+aya:aya                 # to [be/do] thus
+ipere:ipere             # to fly
+sa:sa                   # to go
+le:le                   # to move to
 
 LEXICON BeHaveRoot
 izua:izua               # to be, to have
+
+LEXICON SayRoot
+aya:aya                 # to say
+
+# LEXICON GoRoot
 
 LEXICON CaseMarkerRoot(2)
 i:i         <pers><sg>:
@@ -298,9 +310,10 @@ LEXICON VerbPrefix(2)
 :m>         <av>:
 :si>        <iv>:
 :na>        <perf>:
+:pa>        <caus>:
 
 LEXICON VerbSuffix
-# <>:>u
+<imp>:>u
 <lv>:>an
 
 LEXICON LocativeAffix
