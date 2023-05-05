@@ -5,6 +5,8 @@
 # <v>       # Verb
 # <adj>     # Adjective
 # <num>     # Numeral
+# <mc>      # case marker
+# <numb>    # number
 
 # <sent>    # Sentence-ending punctuation
 # <guio>    # Hyphen
@@ -57,6 +59,10 @@ PATTERNS
 Number
 Punctuation
 Linker
+VerbBeHave
+Noun
+CaseMarker
+Number
 
 PATTERN Linker
 Link [<lnk>:]
@@ -67,6 +73,11 @@ NounRoot [<n>:]
 PATTERN VerbBeHave
 BeHaveRoot [<vbser>:]
 
+PATTERN CaseMarker
+MarkerCase(1) CaseMarkerRoot(1) [<mc>:] CaseMarker(2) MarkerCase(2)
+
+PATTERN Number
+NumberRoot [<numb>:]
 
 ## Example inflection lexicon:
 # LEXICON RegNounInfl
@@ -191,7 +202,7 @@ kati:kati           # and? also morph unknown
 kata:kata           # and?
 katua:katua
 
-LEXICON Number
+LEXICON NumberRoot
 ita:ita                 # one
 drusa:drusa             # two
 tjelu:tjelu             # three
