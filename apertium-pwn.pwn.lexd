@@ -81,12 +81,20 @@ Number
 ProperNoun
 Pronoun
 Preposition
+Conjunction
+Adverb
 
 PATTERN CaseMarker
 MarkerCase(1) CaseMarkerRoot(1) [<mc>:] CaseMarkerRoot(2) MarkerCase(2)
 
+PATTERN Conjunction
+ConjuntionPrefix CaseMarker [<conj>:]
+
 PATTERN Pronoun
-PronounCase(1) PronounRoot(1) [<mc>:] PronounRoot(2) PronounCase(2)
+PronounCase(1) PronounRoot(1) [<prn>:] PronounRoot(2) PronounCase(2)
+
+PATTERN Adverb
+LocativeAffix?(1) AdverbRoot [<adv>:] LocativeAffix?(2)
 
 PATTERN Verb
 GenCliticPronoun?(1) VerbPrefix?(1) VerbRoot [<v>:] VerbPrefix?(2) GenCliticPronoun?(2) VerbSuffix? NomCliticPronoun?
@@ -226,6 +234,7 @@ veljeluan:veljeluan     # creek, brook, stream
 zaljum:zaljum           # water
 qudjalj:qudjalj         # rain(water)
 cavilj:cavilj           # year, also used for age
+kadjunangan:kadjunangan
 
 LEXICON PronounRoot(2)
 aken:aken       <pers><sg><p1>:
@@ -256,10 +265,8 @@ LEXICON GenCliticPronoun(2)
 :nia>           <pers><pl><p1><excl><gen>:
 :nu>            <pers><pl><p2><gen>:
 
-LEXICON ConjuntionStem
-kati:kati           # and? also morph unknown
-kata:kata           # and?
-katua:katua
+LEXICON ConjuntionPrefix
+:ka>
 
 LEXICON NumberRoot
 ita:ita                 # one
@@ -287,6 +294,17 @@ aya:aya                 # to [be/do] thus
 ipere:ipere             # to fly
 sa:sa                   # to go
 le:le                   # to move to
+davak:davak             # to walk
+rivu:rivu               # to quarrel
+vaik:vaik               # to leave, go 
+ekel:ekel               # to run
+cun:cun                 # to see/watch
+cakaw:cakaw             # to steal
+senay:senay             # to sing
+
+LEXICON AdverbRoot
+maza:maza               # Here 
+zuua:zuua               # there
 
 LEXICON BeHaveRoot
 izua:izua               # to be, to have
@@ -392,6 +410,7 @@ ukeran:ukeran           <top>:  # Ukraine(?) iyukurin (Ukraine)
 kinsingtun:kinsingtun   <top>:  # Kensington
 pakisitam:pakisitam     <top>:  # Pakistan
 atlantis:atlantis       <top>:
+taihuku:taihuku         <top>:  # Taipei
 puland:puland           <top>:  # Poland
 austrunisiya:austrunisiya <top>:
 pulinisiya:pulinisiya   <top>:
