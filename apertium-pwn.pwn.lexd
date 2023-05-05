@@ -184,6 +184,13 @@ puluq:puluq             # tens when making larger numbers
 LEXICON NumberAnd
 sa:sa                   # drusa puluq sa ita (twenty one) alu a puluq sa ita (eighty one)
 
+LEXICON VerbRoot
+LEXICON PronounRoot 
+LEXICON CommonNounRoot
+
+LEXICON Infix
+:em
+
 LEXICON ProperNounRoot(2)
 chionghoa:chionghoa     <top>:  # Changhua
 taiwan:taiwan           <top>:  # Taiwan
@@ -235,18 +242,18 @@ hulien:hulien           <top>:  # Hualien
 vinlan:vinlan           <top>:  # Finland
 lundun:lundun           <top>:  # London
 ukinawa:ukinawa         <top>:
-ingelend ("England")
-se'ingelend (England)
-pana a tjames ("River Thames")
-indiya, nipal(尼泊爾), miyamar(緬甸), tailan(泰國)
+tjames:tjames           <top>:  # Thames
+indiya:indiya           <top>:
+nipal:nipal             <top>:
+miyamar:miyamar         <top>:
+tailan:tailan           <top>:  # Thailand # or tailend
 ukeran:ukeran           <top>:  # Ukraine(?) iyukurin (Ukraine)
-kinsingtun (Kensington)
-pakisitam(巴基斯坦), indisiya, miyamar(緬甸), tailan(泰國), malaysia,
-atlantis:atlantis
-puland (Poland)
-austrunisiya:austrunisiya
-pulinisiya:pulinisiya
-tailend (Thailand)
+kinsingtun:kinsingtun   <top>:  # Kensington
+pakisitam:pakisitam     <top>:  # Pakistan
+atlantis:atlantis       <top>:
+puland:puland           <top>:  # Poland
+austrunisiya:austrunisiya <top>:
+pulinisiya:pulinisiya   <top>:
 
 drinipunan:drinipunan   <al>:   # Japanese # or rinipungan
 amis:amis               <al>:   # Amis/Pangcah
@@ -262,7 +269,7 @@ vinietan:vinietan       <al>:   # Vietnamese language?
 viet:viet               <al>:   # VIetnamese People
 hiniberayan:hiniberayan <al>:   # a language, possibly Hebrew
 tinurukuan:tinurukuan   <al>:   # a language
-ʼinamizukuan:ʼinamizukuan <al>: # a language
+ʼinamizukuan:ʼinamizukuan <al>: # a language # possibly also yinamizukan
 pinairangan:pinairangan <al>:   # a language
 nginaingayngan:nginaingayngan <al>: # a language
 sedjerman:sedjerman     <al>:   # German
@@ -270,13 +277,10 @@ drinipunan:drinipunan   <al>:   # a language
 ljinautjian:ljinautjian <al>:   # a language
 pinuyumakan:pinuyumakan <al>:   # a language
 binununan:binununan     <al>:   # a language
-pinairangan:pinairangan <al>:   # a language
-nginaingayngan:nginaingayngan <al>: # a language
-pinuyumakan; ciniukukan
-amizukuan; yinamizukan; pinairangan
-audesi ("Odyssey")
+ciniukukan:ciniukukan   <al>?   # Chinese language?
+audesi:audesi           <al>:   # Odyssey
 iliyad:iliyad           <al>:   # Iliad
-iyutub (youtube)
+iyutub:iyutub           <al>:   # youtube
 kinuriyan:kinuriyan     <al>:   # Korean Language # kai nua kuriya
 hangul:hangul
 
@@ -318,21 +322,26 @@ sauniyaw:sauniyaw       <ant><f>:
 kawabata:kawabata       <ant>:
 yasunari:yasunari       <ant>:
 grimm:grimm             <ant>:      # Grimm
-liu tulstuy (Leo Tolstoy)
-anna karinina (Anna Karenina)
-djurudji urewil ("George Orwell")
+liu:liu                 <ant>:      # Leo
+tulstuy:tulstuy         <ant>:      # Tolstoy
+anna:anna               <ant>:      # Anna
+karinina:karinina       <ant>:      # Karenina
+urewil:urewil           <ant>:      # Orwell
 senupy:senupy           <ant>:      # Snoopy
-pati ("Patty")
-nicay (Nietzsche)
-verdjinia wuv ( Virginia Woolf)
-tima'us kati kritiyas (Timaeus and Critias)
-platu (Plato)
-humer ("Homer")
-audisius (Odysseus)
-hilius (Helios)
-tjiuguni (Theogony)
-hisiud (Hesiod)
-djasun (Jason)
+pati:pati               <ant>:      # Patty
+nicay:nicay             <ant>:      # Nietzsche
+verdjinia:verdjinia     <ant>:      # Virginia
+wuv:wuv                 <ant>:      # Woolf
+timaʼus:timaʼus         <ant>:      # Timaeus
+kritiyas:kritiyas       <ant>:      # Critias
+platu:platu             <ant>:      # Plato
+humer:humer             <ant>:      # Homer
+audisius:audisius       <ant>:      # Odysseus
+hilius:hilius           <ant>:      # Helios
+tjiuguni:tjiuguni       <ant>:      # Theogony
+hisiud:hisiud           <ant>:      # Hesiod
+djasun:djasun           <ant><m>:   # Jason
+Cemas:Cemas             <ant>:      # God? # in christian sense?
 
 PATTERN Number
 Numeral+ [<num>:]
