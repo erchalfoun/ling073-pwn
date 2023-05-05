@@ -74,7 +74,7 @@ PATTERN VerbBeHave
 BeHaveRoot [<vbser>:]
 
 PATTERN CaseMarker
-MarkerCase(1) CaseMarkerRoot(1) [<mc>:] CaseMarker(2) MarkerCase(2)
+MarkerCase(1) CaseMarkerRoot(1) [<mc>:] CaseMarkerRoot(2) MarkerCase(2)
 
 PATTERN Number
 NumberRoot [<numb>:]
