@@ -47,6 +47,15 @@
 # Verb Tags
 # <perf>    # Perfective
 
+# <loc>     # Locative
+
+# Pronoun Tags
+# <p1>      # 1st person
+# <p2>      # 2nd person
+# <p3>      # 3rd person
+# <incl>    # inclusive
+# <excl>    # exclusive
+
 # Other symbols
 # >        # Morpheme boundary
 
@@ -64,10 +73,17 @@ VerbBeHave
 Noun
 CaseMarker
 Number
-ProperNounRoot
+ProperNoun
+Pronoun
 
 PATTERN CaseMarker
 MarkerCase(1) CaseMarkerRoot(1) [<mc>:] CaseMarkerRoot(2) MarkerCase(2)
+
+PATTERN Pronoun
+PronounCase(1) PronounRoot(1) [<mc>:] PronounRoot(2) PronounCase(2)
+
+PATTERN Verb
+GenCliticPronoun?(1) VerbPrefix?(1) VerbRoot [<v>:] VerbPrefix?(2) GenCliticPronoun?(2) VerbSuffix? NomCliticPronoun?
 
 PATTERN Linker
 Link [<lnk>:]
@@ -202,7 +218,36 @@ zaljum:zaljum           # water
 qudjalj:qudjalj         # rain(water)
 cavilj:cavilj           # year, also used for age
 
-LEXICON COnjuntionStem
+LEXICON PronounRoot(2)
+aken:aken       <pers><sg><p1>:
+sun:sun         <pers><sg><p2>:
+madju:madju     <pers><sg><p3>:
+tjen:tjen       <pers><pl><p1><incl>:
+amen:amen       <pers><pl><p1><excl>:
+mun:mun         <pers><pl><p2>:
+madju:madju     <pers><pl><p3>:
+
+LEXICON PronounCase(2)
+:ti>            <nom>:
+:ni>            <gen>:
+:tja>           <obl>:
+# There are some small issues with how I am currently defining these case markers
+
+LEXICON NomCliticPronoun
+<pers><sg><p1><nom>:>{a}ken
+<pers><sg><p2><nom>:>{e}sun
+<pers><pl><p1><incl><nom>:>{i}tjen
+<pers><pl><p1><excl><nom>:>{a}men
+<pers><pl><p2><nom>:>{e}mun
+
+LEXICON GenCliticPronoun(2)
+:ku>            <pers><sg><p1><gen>:
+:su>            <pers><sg><p2><gen>:
+:tja>           <pers><pl><p1><incl><gen>:
+:nia>           <pers><pl><p1><excl><gen>:
+:nu>            <pers><pl><p2><gen>:
+
+LEXICON ConjuntionStem
 kati:kati           # and? also morph unknown
 kata:kata           # and?
 katua:katua
@@ -232,8 +277,6 @@ kesa:kesa               # to cook
 LEXICON BeHaveRoot
 izua:izua               # to be, to have
 
-# LEXICON PronounRoot 
-# LEXICON CommonNounRoot
 LEXICON CaseMarkerRoot(2)
 i:i         <pers><sg>:
 ia:ia       <pers><pl>:
@@ -259,6 +302,12 @@ LEXICON VerbPrefix(2)
 LEXICON VerbSuffix
 # <>:>u
 <lv>:>an
+
+LEXICON LocativeAffix
+:i>         <loc>:
+
+LEXICON PrepositionRoot
+i:i         # locating preposition
 
 LEXICON ProperNounRoot(2)
 chionghoa:chionghoa     <top>:  # Changhua
