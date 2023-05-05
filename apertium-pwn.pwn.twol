@@ -25,13 +25,13 @@ i:0 <=> Vow %{VSUF%}:0 _ [ m | n ] ;
 "{N} manifests as m before labial"
 %{N%}:m <=> _ [ p | b | v ]: ;
 
-"remove t if u a"
-%{t%}:0 <=> _ %>: %{u%}: %{A%}: ;
+! "remove t if u a"
+! %{t%}:0 <=> _ %>: %{u%}: %{A%}: ;
 
 "remove u if no t"
 %{u%}:0 <=> :0 %>: _ ;
 
-"remove t if u a"
+"remove jif u a"
 %{j%}:0 <=> _ %>: %{u%}: %{A%}: ;
 
 ! Resources:
