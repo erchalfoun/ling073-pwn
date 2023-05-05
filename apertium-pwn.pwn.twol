@@ -28,6 +28,9 @@ i:0 <=> Vow %{VSUF%}:0 _ [ m | n ] ;
 "remove u if no t"
 %{u%}:0 <=> :0 %>: _ ;
 
+"remove t if u a"
+%{j%}:0 <=> _ %>: %{u%}: %{A%}: ;
+
 ! Resources:
 ! https://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Enter_twol
 ! https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstHome

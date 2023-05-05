@@ -7,6 +7,7 @@
 # <num>     # Numeral
 # <mc>      # case marker
 # <numb>    # number
+# <np>      # proper noun
 
 # <sent>    # Sentence-ending punctuation
 # <guio>    # Hyphen
@@ -63,6 +64,10 @@ VerbBeHave
 Noun
 CaseMarker
 Number
+ProperNounRoot
+
+PATTERN CaseMarker
+MarkerCase(1) CaseMarkerRoot(1) [<mc>:] CaseMarkerRoot(2) MarkerCase(2)
 
 PATTERN Linker
 Link [<lnk>:]
@@ -70,11 +75,11 @@ Link [<lnk>:]
 PATTERN Noun
 NounRoot [<n>:]
 
+PATTERN ProperNoun
+ProperNounRoot(1) [<np>:] ProperNounRoot(2)
+
 PATTERN VerbBeHave
 BeHaveRoot [<vbser>:]
-
-PATTERN CaseMarker
-MarkerCase(1) CaseMarkerRoot(1) [<mc>:] CaseMarkerRoot(2) MarkerCase(2)
 
 PATTERN Number
 NumberRoot [<numb>:]
