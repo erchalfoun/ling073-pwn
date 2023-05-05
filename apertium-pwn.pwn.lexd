@@ -216,8 +216,8 @@ kesa:kesa               # to cook
 LEXICON BeHaveRoot
 izua:izua               # to be, to have
 
-LEXICON PronounRoot 
-LEXICON CommonNounRoot
+# LEXICON PronounRoot 
+# LEXICON CommonNounRoot
 LEXICON CaseMarkerRoot(2)
 i:i         <pers><sg>:
 ia:ia       <pers><pl>:
