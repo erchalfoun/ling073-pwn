@@ -10,6 +10,7 @@
 # <np>      # proper noun
 # <pr>      # preposition
 # <prn>     # pronoun
+# <conj>    # conjunction
 
 # <sent>    # Sentence-ending punctuation
 # <guio>    # Hyphen
@@ -52,6 +53,8 @@
 # <caus>    # causative
 
 # <loc>     # Locative
+# <stv>     # stative
+# <temp>    # temporal
 
 # Pronoun Tags
 # <pers>    # personal
@@ -313,6 +316,9 @@ LEXICON SayRoot
 aya:aya                 # to say
 
 # LEXICON GoRoot
+
+LEXICON KaRoot(2)
+ka:ka           <stv><temp>:
 
 LEXICON CaseMarkerRoot(2)
 i:i         <pers><sg>:
