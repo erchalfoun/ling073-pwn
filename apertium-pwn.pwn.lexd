@@ -316,7 +316,7 @@ LEXICON VerbSuffix
 <imp>:>u
 <lv>:>an
 
-LEXICON LocativeAffix
+LEXICON LocativeAffix(2)
 :i>         <loc>:
 
 LEXICON PrepositionRoot
