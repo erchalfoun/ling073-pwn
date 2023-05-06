@@ -251,7 +251,7 @@ madju:madju     <pers><pl><p3>:
 LEXICON PronounCase(2)
 :ti>            <nom>:
 :ni>            <gen>:
-:tja>           <obl>:
+:tjanu>         <obl>:
 # There are some small issues with how I am currently defining these case markers
 
 LEXICON NomCliticPronoun
