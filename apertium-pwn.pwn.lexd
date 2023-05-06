@@ -32,8 +32,8 @@
 # <al>      # Other
 
 # Voice tags
-# <av>      # actor voice
-# <uv>      # non-actor voice
+# <actv>      # active voice
+# <nactv>      # non-active voice
 # <gv>      # goal voice
 # <iv>      # instrument voice
 # <lv>      # locative voice
@@ -337,11 +337,11 @@ LEXICON Link
 a:a                     # no real English comparison
 
 LEXICON Infix
-:e{N}   # <av>
+:e{N}   # <actv>
 :in     # <gv>
 
 LEXICON VerbPrefix(2)
-:m>         <av>:
+:m>         <actv>:
 :si>        <iv>:
 :na>        <perf>:
 :pa>        <caus>:
