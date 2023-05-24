@@ -134,73 +134,127 @@ LEXICON NounRoot
 aljis:aljis             # teeth
 angalj:angalj           # mouth
 asaw:asaw               # leaf
+bibi:bibi               # duck
 bugi:bugi               # boogie
 bulu:bulu               # ball
 calinga:calinga         # ear
+calis:calis             # rope
 caucau:caucau           # person
+caqev:caqev             # lid
 cavilj:cavilj           # year, also used for age
 cekui:cekui             # table
 cemel:cemel             # grass, medicine
 ceqel:cekel             # frog
 cikaw:cikaw             # fish
+cingas:cingas           # the thing stuck between the teeth (?)
 cis:cis                 # cheese
+cumay:cumay             # bear
+cuvuq:cuvuq             # bamboo shoot
 daigaku:daigaku         # university # or daigakku
+dingki:dingki           # light (electricity?)
 dinguwa:dinguwa         # telephone
+djalan:djalan           # road
+djamuq:djamuq           # blood
 djapalj:djapalj         # thigh
+djaqis:djaqis           # forehead
+djarunuq:djarunuq       # agaric # also spelled djalunuq
 djaz:djaz               # jazz
 djulis:djulis           # djulis
-drail:drail             # monkey
+drail:drail             # monkey (only some dialect groups)
 drakuyan:drakuyan       # basket
-drava:drava             # friend
+drava:drava             # friend (only yinavaljan)
+dridri:dridri           # suckling pig
 gadu:gadu               # mountain
 gakku:gakku             # school
+gang:gang               # crab
+garuc:garuc             # comb
 gitar:gitar             # guitar
 guan:guan               # township
 gung:gung               # cow, ox
 guspil:guspil           # gospel
+iku:iku                 # tail
 inpic:inpic             # pen, pencil
 kadjunangan:kadjunangan
+kakedrian:kakedrian     # child (also kakedriyan)
 kalevelevan:kalevelevan # sky
+kaljusekusan:kaljusekusan # fingernail (also kaljuskusan)
 kama:kama               # father
+kapaz:kapaz             # root
 kasiw:kasiw             # tree
 kava:kava               # clothing
+kaviz:kaviz             # chin
+kerilj:kerilj           # sparrow # also spelled kelilj
 kina:kina               # mother
 kinacavacavan:kinacavacavan # body
 king:king               # county
+kisac{u}:kisac{u}       # police
+kizing:kizing           # spoon
 kriptukitis:kriptukitis # CryptoKitties
+kucu:kucu               # head louse
 kuisang:kuisang         # doctor
-kula:kula               # foot
+kula:kula               # foot (also kulu)
 kulavaw:kulavaw         # mouse
+kumakuma:kumakuma       # spider
 kumi:kumi               # girl
 kumik:kumik             # comic
+kupu:kupu               # cup # yinavaljan also has kadrukadrung and katjutjung
+kutji:kutji             # female genetalia
+lava:lava               # flying squirrel
 lima:lima               # hand
 ljaves:ljaves           # guava
+ljelet:ljelet           # lip
 ljequ:ljequ             # owl
 ljinay:ljinay           # umbrella
+lukuc:lukuc             # bird-nest fern
 maca:maca               # eye
+maqacuvucuvung:maqacuvucuvung # young people
 midiya:midiya           # media
 mitru:mitru             # metro
 mitrubasu:mitrubasu     # metrobuses
 mudingan:mudingan       # face
 ngadan:ngadan           # name
-ngiyaw:ngiyaw           # cat
+ngadjay:ngadjay         # saliva
+ngiyaw:ngiyaw           # cat # in other dialects may be spelled ngiyau or ngiyav
 ngudjus:ngudjus         # nose
 pana:pana               # river 
 paday:paday             # rice
 paisu:paisu             # money # or paysu
 paljing:paljing         # door
+piku:piku               # elbow
+piqay:piqay             # wound
 piyanu:piyanu           # piano
 pizza:pizza
+pudru:pudru             # kidney
 puitiks:puitiks         # poetics
+puk:puk                 # pigeon pea
 pulitik:pulitik         # politics
 qacang:qacang           # pig
+qacay:qacay             # liver
 qadaw:qadaw             # sun, day
-qadupu:qadupu           # book
+qadupu:qadupu           # paper, book # pinavuavuan also has laqulj for paper
+qailjungan:qailjungan   # mirror
+qalev:qalev             # grease (fat?) # in one dialect group also is abula or qalum
 qali:qali               # friend
+qalja:qalja             # enemy
+qaljic:qaljic           # skin
+qam:qam                 # pangolin (manis pentadactylata)
+qapedu:qapedu           # gallbladder
+qaqa:qaqa               # crow
+qaqilj:qaqilj           # yam
+qaselu:qaselu           # wooden pestle
 qasi:qasi               # Protobothrops mucrosquamatus
+qatjudray:qatjudray     # earthworm # yinavaljan also has qatjulalj
+qatjuvi:qatjuvi         # snake
+qatjuvitjuvi:qatjuvitjuvi # insect (collective) # does this mean this is a plural noun?
+qau:qau                 # bamboo
+qauzung:qauzung         # cockroach # yinavaljan also has qatjatjabang
+qavan:qavan             # shoulder
+qavu:qavu               # charcoal ash
+qavuvung:qavuvung       # heart (body part)
 qayaqayam:qayaqayam     # bird
 qerepus:qerepus         # cloud
 qezung:qezung           # window
+qidung:qidung           # charcoal
 qiladjan:qiladjan       # chair
 qiljas:qiljas           # moon
 qinaljan:qinaljan       # village, tribe
@@ -209,35 +263,68 @@ quljivangeraw:quljivangeraw # rainbow
 qulu:qulu               # head
 qunuqunu:qunuqunu       # boy
 quvalj:quvalj           # hair
-semanvasizem:semanvasizem # fascism
+quzang:quzang           # shrimp
+ricing:ricing           # branch, twig
 saksevung:saksevung     # Saxophone
+sara:sara               # filter net
+sasiq:sasiq             # ant
+saviki:saviki           # betel nut
+sema:sema               # tongue
+semanvasizem:semanvasizem # fascism
 siak:siak               # pumpkin
-sinsi:sinsi             # teacher(?)
+sinsi:sinsi             # teacher(some dialects)
 siquliqulip:siquliqulip # eraser
+siqunu:siqunu           # knife
 situ:situ               # student
+siyuc:siyuc             # waist # also siuc
 sizi:sizi               # sheep
-tilibi:tilibi           # television
+takec:takec             # muntiacus reevesi
+taleng:taleng           # cypress # yinavaljan also has sugi
+tequng:tequng           # horn
+tilibi:tilibi           # television # also spelled tiribi or tilivi
 tingnaw:tingnaw         # computer
+tjainan:tjainan         # honeybee
 tjalupung:tjalupung     # hat
 tjanes:tjanes           # tangerine, orange
-tjeves:tjeves           # sugar cane
-tuki:tuki               # bell
+tjavuvuk:tjavuvuk       # wild strawberry
+tjevus:tjevus           # sugar cane
+tjidriyulj:tjidriyulj   # hornet
+tjiyalj:tjiyalj         # belly # also tjialj
+tuki:tuki               # watch, clock, bell # yinavaljan also includes the words kaljat for watch and milingan for clock
+turivecan:turivecan     # tool
+tutu:tutu               # breast
 umaq:umaq               # home, house
 uqaljay:uqaljay         # man
+va:va                   # lung
+valanga:valanga         # wooden mortar
+valjes:valjes           # axe # yinavaljan also has putjaw
+vangalj:vangalj         # fruit
 vaqu:vaqu               # foxtail millet
 vasa:vasa               # taro
 vat:vat                 # rice grains (hulled)
 vatu:vatu               # dog
+vaudj:vaudj             # rattan
 vavayan:vavayan         # woman
+vavuy:vavuy             # boar
 veljevelj:veljevelj     # banana
 veljeluan:veljeluan     # creek, brook, stream
+venan:venan             # sambar (cervus eldii)
+vengeq:vengeq           # nasal mucus
+vicuka:vicuka           # stomach
 vitjuqan:vitjuqan       # star
 vuday:vuday             # corn
 vuljangaw:vuljangaw     # flower
-vurasi:vurasi           # sweet potato
-vuyu:vuyu               # chicken
+vulungan:vulungan       # thumb
+vunavun:vunavun         # seedling
+vurasi:vurasi           # sweet potato # also spelled vurati
+vutevutan:vutevutan     # calf (body part)
+vutjulj:vutjulj         # meat # in one dialect group also is qalum
+vuvu:vuvu               # elder/grandparent
+vuyu:vuyu               # chicken # in kinakacedasan # other words kuka (more dialects) or djurikuku (yinavaljan)
 wugi:wugi               # woogie
 zaljum:zaljum           # water
+zu:zu                   # elephant # yinavaljan also has zung
+zuyu:zuyu               # water ladle (for scooping water up) # yinavaljan also has levec
 
 LEXICON PronounRoot(2)
 aken:aken       <pers><sg><p1>:
@@ -282,6 +369,7 @@ pitju:pitju             # seven
 alu:alu                 # eight
 siva:siva               # nine
 tapuluq:tapuluq         # ten
+taiday:taiday           # one hundred
 
 LEXICON Tens
 puluq:puluq             # tens when making larger numbers
@@ -450,6 +538,7 @@ iliyad:iliyad           <al>:   # Iliad
 iyutub:iyutub           <al>:   # youtube
 kinuriyan:kinuriyan     <al>:   # Korean Language # kai nua kuriya
 hangul:hangul           <al>:   # Hangeul
+pairang:pairang         <al>:   # Min Han (Taiwanese)
 # Anthronym
 Hideki:Hideki           <ant>:
 Yukawa:Yukawa           <ant>:
