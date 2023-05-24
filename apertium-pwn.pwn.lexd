@@ -132,8 +132,10 @@ PrepositionRoot [<pr>:]
 
 LEXICON NounRoot
 aljis:aljis             # teeth
+alju:alju               # honey, sugar, sweets # pinavuavuan also has tjainan for honey
 angalj:angalj           # mouth
 asaw:asaw               # leaf
+basu:basu               # bus
 bibi:bibi               # duck
 bugi:bugi               # boogie
 bulu:bulu               # ball
@@ -143,8 +145,10 @@ caucau:caucau           # person
 caqev:caqev             # lid
 cavilj:cavilj           # year, also used for age
 cekui:cekui             # table
+cemdas:cemdas           # sunrise # also spelled cemedas
 cemel:cemel             # grass, medicine
 ceqel:cekel             # frog
+cevulj:cevulj           # smoke
 cikaw:cikaw             # fish
 cingas:cingas           # the thing stuck between the teeth (?)
 cis:cis                 # cheese
@@ -154,11 +158,13 @@ daigaku:daigaku         # university # or daigakku
 dingki:dingki           # light (electricity?)
 dinguwa:dinguwa         # telephone
 djalan:djalan           # road
+djamay:djamay           # dish
 djamuq:djamuq           # blood
 djapalj:djapalj         # thigh
 djaqis:djaqis           # forehead
 djarunuq:djarunuq       # agaric # also spelled djalunuq
 djaz:djaz               # jazz
+djeljep:djeljep         # wall # also spelled deljep # yinavaljan also has kabi
 djulis:djulis           # djulis
 drail:drail             # monkey (only some dialect groups)
 drakuyan:drakuyan       # basket
@@ -175,18 +181,22 @@ guspil:guspil           # gospel
 iku:iku                 # tail
 inpic:inpic             # pen, pencil
 kadjunangan:kadjunangan
+kakakaka:kakakaka       # shadow
 kakedrian:kakedrian     # child (also kakedriyan)
 kalevelevan:kalevelevan # sky
+kaljavevuan:kaljavevuan # spring (season) # yinavaljan also spells kaljavuvuwan
 kaljusekusan:kaljusekusan # fingernail (also kaljuskusan)
 kama:kama               # father
 kapaz:kapaz             # root
 kasiw:kasiw             # tree
 kava:kava               # clothing
 kaviz:kaviz             # chin
+kay:kay                 # language # also spelled kai # yinavaljan also has ljavaran
 kerilj:kerilj           # sparrow # also spelled kelilj
 kina:kina               # mother
 kinacavacavan:kinacavacavan # body
 king:king               # county
+kinsa:kinsa             # rice # yinavaljan also has tjinaljek
 kisac{u}:kisac{u}       # police
 kizing:kizing           # spoon
 kriptukitis:kriptukitis # CryptoKitties
@@ -194,32 +204,43 @@ kucu:kucu               # head louse
 kuisang:kuisang         # doctor
 kula:kula               # foot (also kulu)
 kulavaw:kulavaw         # mouse
+kuli:kuli               # ice # also spelled kuri # pinavuavuan also has kiyaping
 kumakuma:kumakuma       # spider
 kumi:kumi               # girl
 kumik:kumik             # comic
 kupu:kupu               # cup # yinavaljan also has kadrukadrung and katjutjung
 kutji:kutji             # female genetalia
+ladjap:ladjap           # lightning
+lala:lala               # cave
 lava:lava               # flying squirrel
+lavu:lavu               # rice bran
+lekelek:lekelek         # bohemeria thread
 lima:lima               # hand
+ljaceng:ljaceng         # green vegetable
 ljaves:ljaves           # guava
 ljelet:ljelet           # lip
 ljequ:ljequ             # owl
 ljinay:ljinay           # umbrella
 lukuc:lukuc             # bird-nest fern
+luni:luni               # earthquake # pinavuavuan has it as a noun with verbability
 maca:maca               # eye
+masulem:masulem         # dusk
 maqacuvucuvung:maqacuvucuvung # young people
+meljay:meljay           # stop raining
 midiya:midiya           # media
 mitru:mitru             # metro
 mitrubasu:mitrubasu     # metrobuses
 mudingan:mudingan       # face
 ngadan:ngadan           # name
 ngadjay:ngadjay         # saliva
+ngasa:ngasa             # crevice # pinavuavuan also has magac
 ngiyaw:ngiyaw           # cat # in other dialects may be spelled ngiyau or ngiyav
 ngudjus:ngudjus         # nose
-pana:pana               # river 
-paday:paday             # rice
+pana:pana               # river, stream
+paday:paday             # (white) rice
 paisu:paisu             # money # or paysu
-paljing:paljing         # door
+paljing:paljing         # door # yinavaljan also has siqeljevan
+picul:picul             # strength # yinavaljan also has qizing
 piku:piku               # elbow
 piqay:piqay             # wound
 piyanu:piyanu           # piano
@@ -230,7 +251,8 @@ puk:puk                 # pigeon pea
 pulitik:pulitik         # politics
 qacang:qacang           # pig
 qacay:qacay             # liver
-qadaw:qadaw             # sun, day
+qaciljay:qaciljay       # stone
+qadaw:qadaw             # sun, day # also spelled qadav
 qadupu:qadupu           # paper, book # pinavuavuan also has laqulj for paper
 qailjungan:qailjungan   # mirror
 qalev:qalev             # grease (fat?) # in one dialect group also is abula or qalum
@@ -243,6 +265,7 @@ qaqa:qaqa               # crow
 qaqilj:qaqilj           # yam
 qaselu:qaselu           # wooden pestle
 qasi:qasi               # Protobothrops mucrosquamatus
+qatiya:qatiya           # salt # also spelled qatia
 qatjudray:qatjudray     # earthworm # yinavaljan also has qatjulalj
 qatjuvi:qatjuvi         # snake
 qatjuvitjuvi:qatjuvitjuvi # insect (collective) # does this mean this is a plural noun?
@@ -252,12 +275,16 @@ qavan:qavan             # shoulder
 qavu:qavu               # charcoal ash
 qavuvung:qavuvung       # heart (body part)
 qayaqayam:qayaqayam     # bird
+qecilu:qecilu           # egg # some dialects also has tamagu
+qeljuqeljuan:qeljuqeljuan # backyard # also spelled qeljuqeljuwan
+qeluz:qeluz             # pillar
 qerepus:qerepus         # cloud
-qezung:qezung           # window
+qezung:qezung           # window # yinavaljan also has madu
 qidung:qidung           # charcoal
 qiladjan:qiladjan       # chair
 qiljas:qiljas           # moon
 qinaljan:qinaljan       # village, tribe
+qipu:qipu               # soil
 qudjalj:qudjalj         # rain(water)
 quljivangeraw:quljivangeraw # rainbow
 qulu:qulu               # head
@@ -266,11 +293,13 @@ quvalj:quvalj           # hair
 quzang:quzang           # shrimp
 ricing:ricing           # branch, twig
 saksevung:saksevung     # Saxophone
+sapuy:sapuy             # fire
 sara:sara               # filter net
 sasiq:sasiq             # ant
 saviki:saviki           # betel nut
 sema:sema               # tongue
 semanvasizem:semanvasizem # fascism
+senay:senay             # song
 siak:siak               # pumpkin
 sinsi:sinsi             # teacher(some dialects)
 siquliqulip:siquliqulip # eraser
@@ -278,12 +307,16 @@ siqunu:siqunu           # knife
 situ:situ               # student
 siyuc:siyuc             # waist # also siuc
 sizi:sizi               # sheep
+sulja:sulja             # snow, possibly also frost
 takec:takec             # muntiacus reevesi
 taleng:taleng           # cypress # yinavaljan also has sugi
+teljar:teljar           # gleam (probably noun)
+teqic:teqic             # netting needle # pinavuavuan also has teqican
 tequng:tequng           # horn
 tilibi:tilibi           # television # also spelled tiribi or tilivi
 tingnaw:tingnaw         # computer
 tjainan:tjainan         # honeybee
+tjaljetjalj:tjaljetjalj # stair # also spelled tjaljtjalj
 tjalupung:tjalupung     # hat
 tjanes:tjanes           # tangerine, orange
 tjavuvuk:tjavuvuk       # wild strawberry
@@ -296,29 +329,35 @@ tutu:tutu               # breast
 umaq:umaq               # home, house
 uqaljay:uqaljay         # man
 va:va                   # lung
+vakela:vakela           # arrow
 valanga:valanga         # wooden mortar
+vali:vali               # wind, possibly also typhoon
 valjes:valjes           # axe # yinavaljan also has putjaw
 vangalj:vangalj         # fruit
-vaqu:vaqu               # foxtail millet
+vaqu:vaqu               # (foxtail) millet
+varukur:varukur         # ship/boat
 vasa:vasa               # taro
 vat:vat                 # rice grains (hulled)
 vatu:vatu               # dog
 vaudj:vaudj             # rattan
 vavayan:vavayan         # woman
 vavuy:vavuy             # boar
+veleljem:veleljem       # cloudy day # also spelled viljelem in yinavaljan
 veljevelj:veljevelj     # banana
 veljeluan:veljeluan     # creek, brook, stream
 venan:venan             # sambar (cervus eldii)
 vengeq:vengeq           # nasal mucus
 vicuka:vicuka           # stomach
 vitjuqan:vitjuqan       # star
+vudas:vudas             # sand
 vuday:vuday             # corn
 vuljangaw:vuljangaw     # flower
 vulungan:vulungan       # thumb
+vuluq:vuluq             # spear
 vunavun:vunavun         # seedling
 vurasi:vurasi           # sweet potato # also spelled vurati
 vutevutan:vutevutan     # calf (body part)
-vutjulj:vutjulj         # meat # in one dialect group also is qalum
+vutjulj:vutjulj         # meat, pork # in one dialect group also is qalum
 vuvu:vuvu               # elder/grandparent
 vuyu:vuyu               # chicken # in kinakacedasan # other words kuka (more dialects) or djurikuku (yinavaljan)
 wugi:wugi               # woogie
@@ -379,22 +418,66 @@ sa:sa                   # drusa puluq sa ita (twenty one) alu a puluq sa ita (ei
 
 LEXICON VerbRoot
 aya:aya                 # to [be/do] thus
+caca:caca               # to pour # <em>
+cacevung:cacevung       # to call for (with ki-) # yinavaljan also has kim
 cakaw:cakaw             # to steal
+calivat:calivat         # to pass, to go through # <em>
+cavulid:cavulid         # to carry on one's shoulder # <em>
+cekecek:cekecek         # to plug # pa> or <em> # also djuredjur or tecek
+cugecug                 # to bump into # ma> or <em>, or se> # pinavuavuan also has cevug
 cun:cun                 # to see/watch
-davak:davak             # to walk
+davak:davak             # to walk # kulalao
+djaljun:djaljun         # to arrive # <em>
+djapes:djapes           # to blow # <em> # also djasep
+djavac:djavac           # to walk # <em>
+djumulj:djumulj         # to pile up # <em>
 ekel:ekel               # to run
+gemegem:gemegem         # to hold (it) # <in> or <em>
+gereger:gereger         # to tremble (with mi-)
+guceguc:guceguc         # to scratch an itch # <em>
+isu:isu                 # to beat # ma>
 ipere:ipere             # to fly
-kan:kan                 # to eat
+ipuq:ipuq               # to fall # ma> or >en
+kacu:kacu               # to bring # <em>?
+kan:kan                 # to eat # <em> # with causative: to feed
+kavulj:kavulj           # to ask # <em>
+kelay:kelay             # to hang # <em>
+kerap:kerap             # to climb # <em> # also have kaluc
 kesa:kesa               # to cook
+laing:laing             # to chase after, to hunt # <em> # also spelled layng
+lap:lap                 # to pick up # ma>
 le:le                   # to move to
+lingedjelj:lingedjelj   # to stand # <em> # also lingdjelj
+lum:lum                 # to ripen, accellerate the ripening # <em> # yinavaljan also has palum
+piliq:piliq             # to select # <en>
+qeljev:qeljev           # to close, to shut # <em>
+qiladj:qiladj           # to sit # <em>
+quyulj:quyulj           # to bundle # <em> # yinavaljan also q<em>adjay
 rivu:rivu               # to quarrel
+ruqu:ruqu               # to roll down # ma> # also has salitj
 sa:sa                   # to go
-senay:senay             # to sing
+sakuc:sakuc             # to move # <em>
+sau:sau                 # to get rid of # <em>?
+sedjam:sedjam           # with ki- prefix to lend
 sekez:sekez             # to stop
-vaik:vaik               # to leave, go
+senay:senay             # to sing
+sevalj:sevalj           # to carry someone # <em>
+suqeljev:suqeljev       # to open # <em>
+tataq:tataq             # to sharpen # <em>
+tjelju:tjelju           # to cross the stream # <em>
+tjuketjuk:tjuketjuk     # to peck # <em>
+vai:vai                 # (to recieve?) with causative: to give # also spelled vay
+vaik:vaik               # to leave, go, walk # also spelled vayk # doesn't require AV?
+vala:vala               # to visit (with ki-)
+vecekel:vecekel         # to pinch # <en> # also v<en>ceqel # yinavaljan also has g<em>ecel
+veli:veli               # to buy # <en>
+veljuc:veljuc           # to pluck # <en> # spelled either veneljuc or venljuc # pinavuavuan also has v<en>iljevilj
+vilad:vilad             # to flee # ma>
 
 LEXICON AdverbRoot
-maza:maza               # here 
+maza:maza               # here
+tucu:tucu               # now 
+ui:ui                   # yes
 zuua:zuua               # there
 
 LEXICON BeHaveRoot
