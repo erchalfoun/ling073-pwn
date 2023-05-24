@@ -131,113 +131,113 @@ PrepositionRoot [<pr>:]
 ###############################################################################
 
 LEXICON NounRoot
-daygaku:daygaku         # university # or daigakku/daigaku
+aljis:aljis             # teeth
+angalj:angalj           # mouth
+asaw:asaw               # leaf
+bugi:bugi               # boogie
+bulu:bulu               # ball
+calinga:calinga         # ear
+caucau:caucau           # person
+cavilj:cavilj           # year, also used for age
+cekui:cekui             # table
+cemel:cemel             # grass, medicine
+ceqel:cekel             # frog
+cikaw:cikaw             # fish
+cis:cis                 # cheese
+daigaku:daigaku         # university # or daigakku
+dinguwa:dinguwa         # telephone
+djapalj:djapalj         # thigh
+djaz:djaz               # jazz
+djulis:djulis           # djulis
+drail:drail             # monkey
+drakuyan:drakuyan       # basket
+drava:drava             # friend
+gadu:gadu               # mountain
+gakku:gakku             # school
+gitar:gitar             # guitar
+guan:guan               # township
+gung:gung               # cow, ox
+guspil:guspil           # gospel
+inpic:inpic             # pen, pencil
+kadjunangan:kadjunangan
+kalevelevan:kalevelevan # sky
+kama:kama               # father
+kasiw:kasiw             # tree
+kava:kava               # clothing
+kina:kina               # mother
+kinacavacavan:kinacavacavan # body
 king:king               # county
-pulitik:pulitik         # politics
-semanvasizem:semanvasizem # fascism
+kriptukitis:kriptukitis # CryptoKitties
+kuisang:kuisang         # doctor
+kula:kula               # foot
+kulavaw:kulavaw         # mouse
+kumi:kumi               # girl
+kumik:kumik             # comic
+lima:lima               # hand
+ljaves:ljaves           # guava
+ljequ:ljequ             # owl
+ljinay:ljinay           # umbrella
+maca:maca               # eye
 midiya:midiya           # media
 mitru:mitru             # metro
 mitrubasu:mitrubasu     # metrobuses
-guan:guan               # township
-sinsi:sinsi             # teacher(?)
-vavayan:vavayan         # woman
-kama:kama               # father
-kina:kina               # mother
-uqaljay:uqaljay         # man
-caucau:caucau           # person
-qali:qali               # friend
-drava:drava             # friend
-situ:situ               # student
-kuisang:kuisang         # doctor
-ngadan:ngadan           # name
-maca:maca               # eye
-calinga:calinga         # ear
-ngudjus:ngudjus         # nose
-angalj:angalj           # mouth
-aljis:aljis             # teeth
-qulu:qulu               # head
-quvalj:quvalj           # hair
 mudingan:mudingan       # face
-lima:lima               # hand
-kula:kula               # foot
-kinacavacavan:kinacavacavan # body
-djapalj:djapalj         # thigh
-vatu:vatu               # dog
+ngadan:ngadan           # name
 ngiyaw:ngiyaw           # cat
-qacang:qacang           # pig
-gung:gung               # cow, ox
-sizi:sizi               # sheep
-drail:drail             # monkey
-kulavaw:kulavaw         # mouse
-vuyu:vuyu               # chicken
-qayaqayam:qayaqayam     # bird
-cikaw:cikaw             # fish
-ceqel:cekel             # frog
-ljequ:ljequ             # owl
-djulis:djulis           # djulis
-gakku:gakku             # school
-puitiks:puitiks         # poetics
-vaqu:vaqu               # foxtail millet
-kumik:kumik             # comic
-kriptukitis:kriptukitis # CryptoKitties
-pana:pana               # river
-qasi:qasi               # Protobothrops mucrosquamatus
-tilibi:tilibi           # television
-djaz:djaz               # jazz
-bugi:bugi               # boogie 
-wugi:wugi               # woogie
-guspil:guspil           # gospel
-piyanu:piyanu           # piano
-saksevung:saksevung     # Saxophone
-gitar:gitar             # guitar
-cis:cis                 # cheese
-pizza:pizza
-qunuqunu:qunuqunu       # boy
-kumi:kumi               # girl
-vuljangaw:vuljangaw     # flower
-cemel:cemel             # grass, medicine
-kasiw:kasiw             # tree
-asaw:asaw               # leaf
-vurasi:vurasi           # sweet potato
-vuday:vuday             # corn
+ngudjus:ngudjus         # nose
+pana:pana               # river 
 paday:paday             # rice
-veljevelj:veljevelj     # banana
+paisu:paisu             # money # or paysu
+paljing:paljing         # door
+piyanu:piyanu           # piano
+pizza:pizza
+puitiks:puitiks         # poetics
+pulitik:pulitik         # politics
+qacang:qacang           # pig
+qadaw:qadaw             # sun, day
+qadupu:qadupu           # book
+qali:qali               # friend
+qasi:qasi               # Protobothrops mucrosquamatus
+qayaqayam:qayaqayam     # bird
+qerepus:qerepus         # cloud
+qezung:qezung           # window
+qiladjan:qiladjan       # chair
+qiljas:qiljas           # moon
+qinaljan:qinaljan       # village, tribe
+qudjalj:qudjalj         # rain(water)
+quljivangeraw:quljivangeraw # rainbow
+qulu:qulu               # head
+qunuqunu:qunuqunu       # boy
+quvalj:quvalj           # hair
+semanvasizem:semanvasizem # fascism
+saksevung:saksevung     # Saxophone
+siak:siak               # pumpkin
+sinsi:sinsi             # teacher(?)
+siquliqulip:siquliqulip # eraser
+situ:situ               # student
+sizi:sizi               # sheep
+tilibi:tilibi           # television
+tingnaw:tingnaw         # computer
+tjalupung:tjalupung     # hat
 tjanes:tjanes           # tangerine, orange
 tjeves:tjeves           # sugar cane
-vat:vat                 # rice grains (hulled)
-vasa:vasa               # taro
-siak:siak               # pumpkin
-ljaves:ljaves           # guava
-qadupu:qadupu           # book
-inpic:inpic             # pen, pencil
-siquliqulip:siquliqulip # eraser
-cekui:cekui             # table
-qiladjan:qiladjan       # chair
-paisu:paisu             # money # or paysu
-kava:kava               # clothing
-ljinay:ljinay           # umbrella
-dinguwa:dinguwa         # telephone
-bulu:bulu               # ball
-tjalupung:tjalupung     # hat
 tuki:tuki               # bell
-tingnaw:tingnaw         # computer
-drakuyan:drakuyan       # basket
-gadu:gadu               # mountain
 umaq:umaq               # home, house
-qadaw:qadaw             # sun, day
-qiljas:qiljas           # moon
-vitjuqan:vitjuqan       # star
-qerepus:qerepus         # cloud
-quljivangeraw:quljivangeraw # rainbow
-kalevelevan:kalevelevan # sky
-qinaljan:qinaljan       # village, tribe
-paljing:paljing         # door
-qezung:qezung           # window
+uqaljay:uqaljay         # man
+vaqu:vaqu               # foxtail millet
+vasa:vasa               # taro
+vat:vat                 # rice grains (hulled)
+vatu:vatu               # dog
+vavayan:vavayan         # woman
+veljevelj:veljevelj     # banana
 veljeluan:veljeluan     # creek, brook, stream
+vitjuqan:vitjuqan       # star
+vuday:vuday             # corn
+vuljangaw:vuljangaw     # flower
+vurasi:vurasi           # sweet potato
+vuyu:vuyu               # chicken
+wugi:wugi               # woogie
 zaljum:zaljum           # water
-qudjalj:qudjalj         # rain(water)
-cavilj:cavilj           # year, also used for age
-kadjunangan:kadjunangan
 
 LEXICON PronounRoot(2)
 aken:aken       <pers><sg><p1>:
@@ -290,23 +290,23 @@ LEXICON NumberAnd
 sa:sa                   # drusa puluq sa ita (twenty one) alu a puluq sa ita (eighty one)
 
 LEXICON VerbRoot
+aya:aya                 # to [be/do] thus
+cakaw:cakaw             # to steal
+cun:cun                 # to see/watch
+davak:davak             # to walk
+ekel:ekel               # to run
+ipere:ipere             # to fly
 kan:kan                 # to eat
 kesa:kesa               # to cook
-sekez:sekez             # to stop
-aya:aya                 # to [be/do] thus
-ipere:ipere             # to fly
-sa:sa                   # to go
 le:le                   # to move to
-davak:davak             # to walk
 rivu:rivu               # to quarrel
-vaik:vaik               # to leave, go 
-ekel:ekel               # to run
-cun:cun                 # to see/watch
-cakaw:cakaw             # to steal
+sa:sa                   # to go
 senay:senay             # to sing
+sekez:sekez             # to stop
+vaik:vaik               # to leave, go
 
 LEXICON AdverbRoot
-maza:maza               # Here 
+maza:maza               # here 
 zuua:zuua               # there
 
 LEXICON BeHaveRoot
@@ -357,6 +357,7 @@ LEXICON PrepositionRoot
 i:i         # locating preposition
 
 LEXICON ProperNounRoot(2)
+# Toponym
 chionghoa:chionghoa     <top>:  # Changhua
 taiwan:taiwan           <top>:  # Taiwan
 Taitung:Taitung         <top>:  # Taitung
@@ -420,6 +421,7 @@ taihuku:taihuku         <top>:  # Taipei
 puland:puland           <top>:  # Poland
 austrunisiya:austrunisiya <top>:
 pulinisiya:pulinisiya   <top>:
+# Other Proper Names
 drinipunan:drinipunan   <al>:   # Japanese # or rinipungan
 amis:amis               <al>:   # Amis/Pangcah
 pangcah:pangcah         <al>:   # Amis/Pangcah
@@ -448,6 +450,7 @@ iliyad:iliyad           <al>:   # Iliad
 iyutub:iyutub           <al>:   # youtube
 kinuriyan:kinuriyan     <al>:   # Korean Language # kai nua kuriya
 hangul:hangul           <al>:   # Hangeul
+# Anthronym
 Hideki:Hideki           <ant>:
 Yukawa:Yukawa           <ant>:
 Malaki:Malaki           <ant>:      # Malachai?
