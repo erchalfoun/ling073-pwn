@@ -34,151 +34,96 @@ pida anga su cavilj?
 tapuluq sa lima anga ku cavilj.
 pida anga cavilj na su kaka a tjaljaljak a vavayan?
 unem anga cavilj nimadju.
- pida anga cavilj na su kama?
- sepatj a puluq anga cavilj ni kama. B: 我爸爸四十歲。
-會話 2-5 問數量(動物)
+pida anga cavilj na su kama?
+sepatj a puluq anga cavilj ni kama. B: 我爸爸四十歲。
 A: pida vatu naicu a kakedrian? A: 這個小孩有幾隻狗？
 B: ita vatu nimadju. B: 他有一隻狗。
-會話 2-5a 問數量(物品)
 A: pida su qadupu? A: 你有幾本書？
 B: drusa ku qadupu. B: 我有二本書。
-會話 2-5b 問數量(天數)
 A: pida qadaw nu isiukang? A: 一個星期有幾天？
 B: pitju a qadaw nu isiukang. B: 一個星期有七天。
-會話 2-6 問時間(點鐘)
 A: pida milingan tucu? A: 現在是幾點鐘？
 B: sepatj a milingan tucu. B: 現在是四點鐘。
-會話 2-6a 問時間(點鐘)
-A: pida milingan a su sipaceged nu kadjamadjaman?
-A: 你早上幾點鐘起床？
-B: unem a milingan a ku sipaceged nu kadjamadjaman.
-B: 我早上六點鐘起床。
-會話 2-6b 問時間(點鐘)
-A: pida milingan a su sikataqed nu qezemezemetj?
-A: 你晚上幾點鐘睡覺？
-B: tapuluq a milingan a ku sikataqed nu qezemezemetj.
-B: 我晚上十點鐘睡覺。
-會話 2-6c 問時間(星期幾)
+A: pida milingan a su sipaceged nu kadjamadjaman? A: 你早上幾點鐘起床？
+B: unem a milingan a ku sipaceged nu kadjamadjaman. B: 我早上六點鐘起床。
+A: pida milingan a su sikataqed nu qezemezemetj? A: 你晚上幾點鐘睡覺？
+B: tapuluq a milingan a ku sikataqed nu qezemezemetj. B: 我晚上十點鐘睡覺。
 A: sikamasan pida qadaw tucu ta isiukang? A: 今天是星期幾？
 B: niciyu tucu. B: 今天是星期日。
-11
-會話 2-6d 問時間[過去]
 A: singidan a su sinisa vavua? A: 你甚麼時候去山上？
 B: sitiavan a ku sinisa vavua. B: 我昨天去山上。
-會話 2-6e 問時間[未來]
 A: nungida sisavavua nimadju? A: 他甚麼時候要去山上？
 B: nutiau a sisa vavua nimadju. B: 他明天要去山上。
-會話 2-7 問名稱(動物)
 A: anema cu? A: 這是什麼？
 B: gung cu. B: 這是牛。
-會話 2-7a 問名稱(植物)
 A: anema azua? A: 那是什麼？
 B: kasiw azua. B: 那是樹。
-會話 2-7b 問名稱(自然景觀)
 A: anema azua? A: 那是什麼？
 B: quljivangeraw azua. B: 那是彩虹。
-會話 2-8 問地方(物品)
 A: ainu a ku inpic? A: 我的筆在哪裡？
 B: aicu a su inpic. B: 你的筆在這裡。
-會話 2-8a 問地方(人)
 A: inuan a su kama? A: 你爸爸在哪裡？
 B: i gakku a ku kama. B: 我爸爸在學校裡。
-會話 2-8b 問地方(家)
 A: inuan a nu umaq? A: 你們家在哪裡？
 B: i vavua nia umaq. B: 我們家在山上。
-會話 2-9 問地方(問部落、原鄉名稱)
 A: kemasinu sun? A: 你從哪裡來的？
 B: kemasi akaw a ken. B: 我從 akaw 來的。
-會話 2-9a 問地方(來自)
 A: na kemasinu sun tucu? A: 你今天從哪裡來的？
 B: na kemasi tjumaq a ken. B: 我今天從家裡來的。
-12
-會話 2-10 問地方(前往)[進行式]
 A: uri semainu sun tucu? A: 你現在要去哪裡？
 B: uri sematjumaq aken tucu. B: 我正要回家。
-會話 2-10a 問地方(前往)[過去]
 A: kasinu mun katiaw? A: 你們昨天去哪裡？
 B: kasivavua amen katiaw. B: 我們昨天去山上。
-會話 2-10b 問地方(前往)[未來]
 A: uri mainu sun nutiaw? A: 你明天要去哪裡？
 B: uri semavavua ken nutiaw. B: 我明天要去山上。
-會話 2-11 問擁有者(人)
 A: nima cu a aljak? A: 這是誰的小孩？
 B: nimadju cu a aljak. B: 這是她的小孩。
-會話 2-11a 問擁有者(動物)
 A: nima cu a sizi? A: 這是誰的羊？
 B: nimadju cu sizi. B: 這是他的羊。
-會話 2-11b 問擁有者(物品)
 A: nima cu a tjalupung? A: 這是誰的帽子？
 B: niaken cu a tjalupung. B: 這是我的帽子。
-3.是非問句
-會話 3-1 問植(食)物/水果
 A: vurasi azua? A: 那是地瓜嗎？
 B: ui, vurasi azua. B: 是/對，那是地瓜。
-會話 3-1a 問植(食)物/水果
 A: veljevelj azua? A: 那是香蕉嗎？
 B: ini, vuday azua. B: 不，那是玉米。
-會話 3-2 問職業
 A: situ sun? A: 你是學生嗎？
 B: ui, situ aken. B: 是/對，我是學生。
-會話 3-2a 問職業
 A: sinsi timadju? A: 他是老師嗎？
 B: ini, kuisang timadju. B: 不，他是醫生。
-會話 3-3 問關係
 A: su sinsi timadju? A: 他是你的老師嗎？
 B: ui, ku sinsi timadju. B: 是/對，他是我的老師。
-會話 3-3a 問關係
 A: su sinsi timadju? A: 她是你的老師嗎？
 B: ini, ku kina timadju. B: 不，她是我的媽媽。
-會話 3-4 問顏色(動物)
 A: qecengecengl a su ngiaw? A: 你的貓是黑色的嗎？
 B: ui, qecengecengl a ku ngiaw. B: 是/對，我的貓是黑色的。
-會話 3-4a 問顏色(物品)
 A: qudjidjilj a kava nimadju? A: 她的衣服是紅色的嗎？
 B: ini, vuteqiteqilj a kava nimadju. B: 不，她的衣服是白色的。
-會話 3-5 問輕重
 A: sadjelung za cekui? A: 這張桌子很重嗎？
 B: ui, sadjelung za cekui. B: 是/對，這張桌子很重。
-會話 3-5a 問輕重
 A: sadjelung azua qiladjan? A: 那張椅子很重嗎？
 B: ini, saceqalj azua qiladjan. B: 不，那張椅子很輕。
-會話 3-6 問身材
 A: qaca su kama? A: 你爸爸很高嗎？
 B: ui, qacaqaca a ku kama. B: 是/對，我爸爸很高。
-會話 3-6a 問身材
 A: qaca su kina? A: 你媽媽很高嗎？
 B: ini, kedrikedri a ku kina. B: 不，我媽媽很矮。
-會話 3-7 問外貌
 A: ladruq a quvalj nimadju? A: 她的頭髮很長嗎？
 B: ui, ladruq a quvalj nimadju. B: 是/對，她的頭髮很長。
-14
-會話 3-7a 問外貌
 A: ladruq a su quvalj? A: 你的頭髮很長嗎？
 B: ini, drikidrikitj a ku quvalj. B: 不，我的頭髮很短。
-會話 3-8 問特質
 A: padjalim timadju? A: 那個人很勤勞嗎？
 B: ui, padjalim timadju. B: 是/對，他很勤勞。
-會話 3-8a 問特質
 A: padjalim timadju? A: 那個人很勤勞嗎？
 B: ini, mavulaqut timadju. B: 不，他很懶惰。
-會話 3-9 問擁有(人)
 A: izua aljak nimadju? A: 他有孩子嗎？
 B: ui, izua aljak nimadju. B: 是/對，他有孩子。
-會話 3-9a 問擁有(動物)
 A: izua su vatu? A: 你有狗嗎？
 B: ui, izua ku vatu a ita. B: 是/對，我有一隻狗。
-會話 3-9b 問擁有(人)
 A: macidilj a su kaka a tjaljaljak a vavayan? A: 你有一個妹妹嗎？
-B: ui, macidilj a ku kaka a tjaljaljak a vavayan.
-B: 是/對，我有一個妹妹。
-會話 3-9c 問擁有(人)
+B: ui, macidilj a ku kaka a tjaljaljak a vavayan. B: 是/對，我有一個妹妹。
 A: macidilj a su kaka a tjaljaljak a vavayan? A: 你有一個妹妹嗎？
-B: ini, madrusa ku kaka a tjaljaljak a vavayan. B: 不，我有二個
-妹妹。
-會話 3-10 問外觀
+B: ini, madrusa ku kaka a tjaljaljak a vavayan. B: 不，我有二個妹妹。
 A: bulay a quljivangeraw? A: 彩虹好看嗎？
 B: ui, bulay aravac a quljivangeraw. B: 是/對，彩虹非常好看。
-會話 3-10a 問外觀
 A: tjaljiqaca azua umaq? A: 那間房子很大嗎？
 B: ui, tjaljiqaca azua umaq. B: 是/對，那間房子很大。
 15
